@@ -1008,6 +1008,15 @@ function uiLibrary:_GetTextBounds(arg2, arg3, arg4)
 	return Vector2.new(v2 * v1 * 0.58, v1)
 end
 
+-- Compare components so fresh wrappers do not cause redundant Drawing writes.
+local function sameVector(a, b)
+    return a == b or (a ~= nil and b ~= nil and a.x == b.x and a.y == b.y)
+end
+
+local function sameColor(a, b)
+    return a == b or (a ~= nil and b ~= nil and a.R == b.R and a.G == b.G and a.B == b.B)
+end
+
 function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
 	local v1 =
 		arg2 == "rect" and "Square"
@@ -1073,7 +1082,7 @@ function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
 		v14.ZIndex = zIndex
 	end
 
-	if color ~= nil and v14.Color ~= color then
+	if color ~= nil and not sameColor(v14.Color, color) then
 		v13.Color = color
 		v14.Color = color
 	end
@@ -1093,12 +1102,12 @@ function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
 	if arg2 == "rect" then
 		local v16, v17, v18, v19 = ...
 
-		if v14.Position ~= v16 then
+		if not sameVector(v14.Position, v16) then
 			v13.Position = v16
 			v14.Position = v16
 		end
 
-		if v14.Size ~= v17 then
+		if not sameVector(v14.Size, v17) then
 			v13.Size = v17
 			v14.Size = v17
 		end
@@ -1126,7 +1135,7 @@ function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
 			v14.Center = v26
 		end
 
-		if v14.Position ~= v20 then
+		if not sameVector(v14.Position, v20) then
 			v13.Position = v20
 			v14.Position = v20
 		end
@@ -1162,24 +1171,24 @@ function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
 			v14.Filled = v29
 		end
 
-		if v14.PointA ~= v30 then
+		if not sameVector(v14.PointA, v30) then
 			v13.PointA = v30
 			v14.PointA = v30
 		end
 
-		if v14.PointB ~= v31 then
+		if not sameVector(v14.PointB, v31) then
 			v13.PointB = v31
 			v14.PointB = v31
 		end
 
-		if v14.PointC ~= v32 then
+		if not sameVector(v14.PointC, v32) then
 			v13.PointC = v32
 			v14.PointC = v32
 		end
 	elseif arg2 == "circle" then
 		local v33, v34, v35 = ...
 
-		if v14.Position ~= v33 then
+		if not sameVector(v14.Position, v33) then
 			v13.Position = v33
 			v14.Position = v33
 		end
@@ -1196,12 +1205,12 @@ function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
 	elseif arg2 == "line" then
 		local v36, v37, v38 = ...
 
-		if v14.From ~= v36 then
+		if not sameVector(v14.From, v36) then
 			v13.From = v36
 			v14.From = v36
 		end
 
-		if v14.To ~= v37 then
+		if not sameVector(v14.To, v37) then
 			v13.To = v37
 			v14.To = v37
 		end
@@ -2147,7 +2156,7 @@ function uiLibrary.Step(arg1)
 	local tbl7 = {}
 	local v20 = tbl[3]
 
-	if v18 then
+	if v18 and (_menu_scale > 0.015 or arg1._menu_open) then
 		for i, v21 in ipairs(v18._sec_order or {}) do
 			local v22 = v18._items[v21] or {_items = {}}
 			local v23 = func6(arg1, v21)
@@ -4880,7 +4889,6 @@ uiLibrary.Main = uiLibrary:Tab("Main")
 uiLibrary:CreateSettingsTab("Settings")
 _G.macosUI = uiLibrary
 local heartbeat
-local nextUiStep = 0
 heartbeat = game:GetService("RunService").Heartbeat:Connect(function()
     if uiLibrary._unloaded then
         heartbeat:Disconnect()
@@ -4888,11 +4896,7 @@ heartbeat = game:GetService("RunService").Heartbeat:Connect(function()
         if rawget(_G, "macosUI") == uiLibrary then _G.macosUI = nil end
         return
     end
-    local now = os.clock()
-    if now >= nextUiStep then
-        nextUiStep = now + 1 / 30
-        uiLibrary:Step()
-    end
+    uiLibrary:Step()
 end)
 uiLibrary._macosConnection = heartbeat
 return uiLibrary
