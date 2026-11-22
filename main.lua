@@ -1885,6 +1885,10 @@ end
 
 local function func19(arg1, arg2)
 	local type_ = arg2.type_
+	if type_ == "label" then
+		local _, breaks = tostring(arg2.label or ""):gsub("\n", "")
+		return (breaks + 1) * (arg1._font_size + 2) + arg1._padding
+	end
 
 	if type_ == "toggle" then
 		local _font_size = arg1._font_size
@@ -3896,6 +3900,13 @@ function uiLibrary.Step(arg1)
 												"center",
 												9
 											)
+										end
+									elseif type_ == "label" then
+										local lineY = vector21.y
+										for line in (tostring(v25.label or "") .. "\n"):gmatch("([^\n]*)\n") do
+											arg1:_Draw("text", tbl[1].subtext, 7, v38,
+												Vector2.new(vector21.x, lineY), line, false)
+											lineY = lineY + arg1._font_size + 2
 										end
 									elseif type_ == "button" then
 										local colorpicker1 = v25.colorpicker
