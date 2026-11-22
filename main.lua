@@ -2015,10 +2015,22 @@ function uiLibrary.Step(arg1)
 		end
 	end
 
+	local pollAll = arg1._search_typing or arg1._input_ctx ~= nil
+	local needed = {m1 = true, m2 = true, mb = true}
+	needed[tostring(arg1._overwrite_menu_key and arg1._menu_key or "f5"):lower()] = true
+	for _, ref in ipairs(arg1._config_refs or {}) do
+		local bind = ref.item and ref.item.keybind
+		if bind then
+			if bind._listening then pollAll = true end
+			if type(bind.value) == "string" then needed[bind.value:lower()] = true end
+		end
+	end
 	for k1, _input in pairs(arg1._inputs) do
 		local flag1 = false
 
-		if type(iskeypressed) == "function" then
+		if not pollAll and not needed[k1] then
+			-- Keep skipped keys released; text entry and rebinding poll everything.
+		elseif type(iskeypressed) == "function" then
 			pcall(function()
 				flag1 = iskeypressed(_input.id)
 			end)
@@ -2359,13 +2371,28 @@ function uiLibrary.Step(arg1)
 				entries[#entries + 1] = item
 			end
 		end
-		local x, y, width = 12, 120, 190
+		local x, y, width = arg1._keybind_x or 12, arg1._keybind_y or 120, 190
+		local mouse = arg1:_GetMousePos()
+		if not v4 then arg1._keybind_drag = nil end
+		if v3 and not arg1._menu_drag and mouse.x >= x and mouse.x <= x + width
+			and mouse.y >= y and mouse.y <= y + 28 then
+			arg1._keybind_drag = {x = mouse.x - x, y = mouse.y - y}
+			v3, v8, flag2 = false, false, true
+		end
+		if arg1._keybind_drag and v4 then
+			x = math.max(0, mouse.x - arg1._keybind_drag.x)
+			y = math.max(0, mouse.y - arg1._keybind_drag.y)
+			arg1._keybind_x, arg1._keybind_y = x, y
+			v3, v8, flag2 = false, false, true
+		end
 		arg1:_Draw("rect", tbl[1].surface0, 90, 0.95, Vector2.new(x, y), Vector2.new(width, 28 + #entries * 17), true, 4)
 		arg1:_Draw("text", tbl[1].accent, 91, 1, Vector2.new(x + 8, y + 6), "keybinds", false)
 		for i, item in ipairs(entries) do
 			local label = "[" .. tostring(item.keybind.value):upper() .. "] " .. tostring(item.label or "bind")
 			arg1:_Draw("text", item.value and tbl[1].accent or tbl[1].subtext, 91, 1, Vector2.new(x + 8, y + 10 + i * 17), label, false)
 		end
+	else
+		arg1._keybind_drag = nil
 	end
 
 	if _menu_scale <= 0.015 then
@@ -4889,6 +4916,7 @@ uiLibrary.Main = uiLibrary:Tab("Main")
 uiLibrary:CreateSettingsTab("Settings")
 _G.macosUI = uiLibrary
 local heartbeat
+local uiAccumulator = 0
 heartbeat = game:GetService("RunService").Heartbeat:Connect(function()
     if uiLibrary._unloaded then
         heartbeat:Disconnect()
@@ -4896,7 +4924,13 @@ heartbeat = game:GetService("RunService").Heartbeat:Connect(function()
         if rawget(_G, "macosUI") == uiLibrary then _G.macosUI = nil end
         return
     end
-    uiLibrary:Step()
+    local now = os.clock()
+    uiAccumulator = uiAccumulator + math.min(now - (uiLibrary._heartbeatAt or now), 0.1)
+    uiLibrary._heartbeatAt = now
+    if uiAccumulator >= 1 / 60 then
+        uiAccumulator = uiAccumulator % (1 / 60)
+        uiLibrary:Step()
+    end
 end)
 uiLibrary._macosConnection = heartbeat
 return uiLibrary
