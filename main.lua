@@ -1,1 +1,4898 @@
-return(function(...)local g={":E0*F";":7_i=E";":oUl\\;\\.m",":2\"Hh6OUM",":[Kfum3gn2dRmh";":r@Q3LZ$[";":jAOlOSr@#",":g%B0+BC;J@Jek3W";":pBaC2";":?Y)M?",":Z\'pEbD73RX$gN",":,kk";":s$WJ",":!<F/N.p;e";":@+",":o\"\\6L80";":6?7<<";":4@_6e%#",":Ro3r6";":R7",":.F@[3ZbX";":`++!A\"0",":#H^qW`kjp\'?,Pf3lW#q";":2DjO+X3";":2+9+9ZTuG_";":EadonIlV:",":i8>DZ",":V6",":(o%\'#.SU&t`l3+/YqNP\\Jn.";":O`*`7u5[NmSD71_";":@5\"=R";":SNfChj>\'",":=16q?ul",":rFatEY`]";":JLaa9++",":_)4Q4m*U6qpDdH+";":od]U";":sY#_B;i",":91Y";":n*]0";":j`",":B\\CeJ5@,Q;",":+f6Xg73",":*M";":5HG3L";":aJT^E61O";":s=cpCbCl3",":Oil%1<Q";":]q:ods`a+",":2Um;d#1qF/ULK<(";":`X4H]";":g/Ip/ft";":eJNVo",":`;L%\"1U!$";":K2,u7)cFQ2";":WjA`!0L(";":uKk2P$Q\"",":,o&sU",":ua+gh;(\'g\\YiMs9]..-";":)eG#l";":7[=A\\4id0@",":eY",":ObeH]<:?",":3]N.;S+uQX2h;+@7bS^(ms";":-u=S";":ui^gV(n2";":OtD\'N",":_uOWj*=fBud(csF6PDY",":2KY@Li#tf&*op";":TV?e9#3Vj4";":DtJk6UP";":Xc";":A9>)\'b+;Kq`pF//>i";":cTkm";":\"f`bV\\MS";":l,*%@Qq_N7VVP;",":f,";":C\"-Pl\\W\"&3?c:Hm";":c8q9q",":UI5HCK$g*/SSU_jE+",":@eSrU\\S]d";":.NAAk",":_Z`iuEuNaH9cslu@*R";":4U.\"gcstl/\"P",":J\\eDMXP^,H]3?",":H5#k",":\\X_Gr=\'6#>W>\"624/d^r03Iu",":\"#i!fJt";":!c9g\"ro_4&/\'DuAKt",":B2q^:)KY%`A/34[";":P9hY,IQ";":_!o,",":3\',\\b",":=6GfM",":pl";":Ph/tfc5\"[CZap(";":(@;*&",":2%%`9",":>)h5GZE#)X>sJ`sA;ac.p\'Wh";":>Yh&7.MA-.kN";":m*s5G8/2t";":6#3g";":-ZMKiqa*!\\";":;et.[Qs4UA=R^M1Rrm@";":5&d!%7\\KP";":TB0W]R]",":pL8Dn<;UJf1+Y^,CdBH-pW6";":ZD7(O#)jXmAnD)?5+",":lZhE%X[)J9X3";":q!\'/gRXY";":Kk",":5sPU=Lf^",":BJA;#G7";":Q+!0F";":@k]]L)3";":1-*WW..DW",":.BXOg;=X";":kdit@qk%\"S$lK!G",":_Yt0MHaH",":TjR!\\q@:",":\'5mN",":MIYI;i<EcL[sPG";":Rq;iMY<C*:!\\e";":aC\'r^A4FV";":FNV;NePW6.)-KUZP.c";":#_I4bdp=;e9C^",":BTr!";":UM3+[?[";":6m2uQfZ#do";"::X(G$h=pI6A(T&";":5s<";":U.tO&.Kp5B";":P/dXPKsKd",":K&#bMG7",":L\'eJ\'",":-b5d",":sK]1c@I^";":#%B(DCKEfCRShb,+Nl";":qItl\\`uQV<TF<C;";":IgEk:hl\'Be",":)S39AG]","::a#-Z.era@u:H";":\"<FQ3T8=O.%F<SQ",":P\'i]!`k";":\"W3<2";":`=n,NJQk";":Y0Zr7h#",":2kG_es5[",":[Bi)>?:.i,3dc",":(ukN+\\]",":GfDp2USHo";":Xp!?6<l";":G0!J(uI:6";":or*21D)pbH>F";":cVC[,T/?Y)B!=tjoU?";":$mgU";":BXuU^W%LNpSE?RDQ-(ao";":;i",":%8=6\\j#%(ak-C-#*c(",":+!6D<AbC";":\'#",":fYqN<`Y";":#O!QjFruJ";":YiI",":BO^8=Xo]Qm";":gf<QGb(1",":D\"t=q";":uK/bf1ZR",":aGBD(THM\\",":C)\\\"\'%luTn?gU0GLkT";":#&:2N#4=DV869db8X";":B2gA0)N",":+N7\'D",":WWmdK;<SdmOlg",":2>0",":5\\l0eWY",":7G]Eq1!n2o%U1-",":(oWG";":Rjq5a",":K6(<56KdjFNTU\'`j/=",":]<5h6";":TN7%@./KW",":!LcnuSF",":u!A.GV6",":<*n&bKt",":ptVe+9I\\",":E>\'H%l]#WI;i";":aD]:G\\e^5",":__\"";":%<\'9I<Q";":GK&",":[H]l8",":.\"&>m";":mQW$\'6>#.M",":S3OK;#e";":]0";":OT,l7",":i@>W$:V",":/^VK",":\"tRW/Eo";":+M.8)OM";":A6;/Un7u",":_kc,";":p\'\'%7pIA",":u(UVfhok(",":H>M[Mek",":pkm";":2SKb",":*pV`$";":E7;?:b:%5:JtW:,/T*Mr";":Cg=4:rZ.G4";":Ntf9/EPo\";2o[dV",":5pj>EIam",":<;AlQF3G";":dc9",":!*#Gim<SD\'l#,t\\",":r65/NidQ_E";":Zk;-";":\"CWmfLM";":,UMg3Tc";":)`&#K6+";":s2%l=P)",":6jcB9]<-<5f1*<:ql?";":q0uDW43EsH,UXhF";":VMJt#Il";":J+hE/WC\\",":d:<r5GNX4",":J\\3/KLuS1",":Fk_5FT;]TBG_WA8Xj(;LR:>J",":3Oqr",":KAM.]k3+Z3Li2";":8;AZb";":_5VQjKTn2K8dWUpJg+";":n0",":FB>_RrHA_]",":7h]tD(9,";":%;[";":1@I,B/derOI(-`UpF",":0N";":MBZn`";":*VQ";":+?Kfn4mEOI:X7",":>aAiZk3",":k_k",":_DK2#+*g";":eK<6",":Xi^k>\"Jj",":!2BD";":rr98G0c";":iZ",":Fp2>5[$S8b",":rr=MY";":<B!i.",":C8",":OV";":]j\'R_5\\PDT";":>i";":*\\a@1Con";":&Q8",":5*-m";":9fr2$h\\",":;:WK#+Qm";":-?i:!kc",":AR";":ELfiYSM-]";":llT)hY0";":>Hj2=";":?RM\'*",":;+3K24k#`E>D,",":1!GGI";":?%K5",":![6B;uLDEqm1(",":`p;\\<72bR2";":5d$ip)0-/!*/o";":u7<]/?YA#",":+AY",":M^CpSEVR@7m4o=-BF";":#OC";":s)/Qh4Aj[K/,T-5?)^8q8XKOV->F",":6Yk6_\"0";":5tf7m*06B\'0T#@[";":)N";":clYQnVZb5/fl/=:",":q[7c]J8",":h$Q#E";":;^os]";":AX43\"g&i";":#A.2?$GCJ",":\'C\"O2]0",":1]9A(\\*\"FZ",":\'E\'@`R+S%WGTtP<i\'P",":AEB$p";":K(9]";":D6ag";":/f?o";":!WLM",":;!5","::f!:KQ3>X@",":2(.]!lK",":c+l";":J/TI?`Y";":WI#^#,gqZ\"",":sEG";":`t",":);(W[Dj>\'1hBAYL@@";":ChD:Qa]+fjpi\"]E",":ViUt!jj",":m!mA@Q7";":F:n",":1!!k^n2-O(1\\D[k",":oL-4\'",":(Kj6_",":N2jgOC%e",":OZn<:",":H#";":n\\Y6ioo";":B@otDsn9";":\\@#=ZSV?o";":E<GMs-d(Dr[KRj",":@Fi<t",":45:u$>t>",":lCC";":g1;ak*jNH#*m3\"jg2^?";":%3rSU>r$=@*@f)",":ac7]bM6";":F\\XA0`Y";"::n_$eF6";":/#C`0.#",":&Htr",":cQ!lqpp[8";":6[6S.K,";":<ms]0Wt",":B80CSXc",":86Dq=#TH+n";":\\4\'\\";":rmi7mT3";":!BG",":$e4*h>i",":!k0@";":5_X&`h2<",":>QtR%1KI/kL/B&pk3",":@;EC`Go@IGE+";":ul";":\'ODtCaFWW";":Nk",":H2]3]8sY3",":_Q*R$eY";":>gatce4p\'@#E2gI",":.D#!k6:0",":LKRT",":[P",":e,",":-M";":Y@W$G",":>_Rh8f.MU<";":*Pb2--1_b",":[%7X5YBhY1/d%njP`3",":bAa*YPkD",":H7?:-O5I";":2dZ1)re";":lE\'h*R7",":`/A)^I\\k",":uUJM6N\']",":\\Go=>,ggo",":E6=d";":[4`n-!7";":IaGC";":!Q<to*V";":%r,X<.IXj\"";":=J0Gp_MV^6qS)$])X)";":0DU+F6j",":\"q9u9Csl3c3KKCl";":fn5^";":k$S8ZeY",":EbT\'g!_=",":J1\\+(_]^",":*!ftPPi;q$L\'^!\\",":p;&",":(mggkNE6N",":1c=HIe;p:",":LIQ7jPmj-J",":3[n[%";":?a9m4]ZEi";":FRE\\+oo",":OJ1ECpWe";":;J/>PRLr";":+h;LB=m_`P";":?)]XNn()_";":s<^&";":?cpK&qXoc";":PjX#3.#",":fhO@obg+EU";":VTek%[*`h%qF_&U";":GR\'*jU$[hRSjPW";":WNaH",":WSHo)GS8";":#DBM2j5)",":\'Z\'\'R",":\"f5Q";":4ui=",":f[D;e>\'&rV",":\\h^aF`t",":GrWICG-d3tN/k\'";":;1.!R3`";":GVuHE5DQ<";":#V:I>ul";":gH5b4N`L0",":rh\"gY",":rWD";":M,l>";":eO=hcrJDp7",":H@]j)16",":EZQ:",":d:9f32ck1";":u\'afH;LGPRV6",":K/#,5@ag\"@Oe\"";":(Q!+AQBZog",":s8)!^I!";":/SYh";":;PQSp@@",":MW*)SAkq\"";":%K$>",":dZ:u";":ui";":9:hL2$;sd-NGJDcm#",":2r^tGPVJ7",":<$GiVF*fOa";":#?\"B;",":+uU(",":\'XW+\'",":[B[rH_P",":\\H6W+(:Q_r",":FG1",":XM=U8+\\a[K";":O$FP1\\]",":\"@0]6,Yl";":8o22n1E";":_)h<GKkBA14<8",":\\<0\'>>rl",":\'N0l<hcl<9CIAE^ZY_?&j(VFgBn\'",":#h)8%\'Qu";":e8jZoc=T8",":Y0A8A>^IM8m26%7LnS:niGt\"TD[";":C[n.L",":P;#2";":0SIZMg7";":dGF1Uj!m+`";":_KTZEYD0=Z!l:Cu";":bT%Q1+DO(",":$5\"9%$\"+",":h[&c?jql6",":NBiH=FQc",":FF8?IZ*K";":#6bi]VK",":\\YNPHJY";":2ffR",":otXjd&Yr",":d#j+J>(7i",":9Q-t",":DJ@V=",":OO;;I(!;";":\\1P5geY",":@$8$r";":\\IVc>m1B1pRpERBFZ";":-o&<k/HL$";":L)J1H)Tr",":X$jW7VHe";":;l";":8Ls]";":G6+@aLAIp";":SR@Q1",":K2(h<";":Co,5P9V!";":<J_UKHH\'";":T9k+<:gO]Z0f";":]rWa";":7-2\\oY[`RUb;H0#=3s",":aJ#mU",":bOicb";":lH4$2npP]4%u\\",":hk<U2S:*+$";":Zlhn%C\'LW";":ES&u";":CVBE2m>]Q";":pmIe>";":(tX=\"1tW@*Ls[";":0e$@*JXQLbp5<q8*8r",":)6tR",":gT.sU/N",":W02C";":@][VLb?DFT]X",":LL*A",":[E86";":])",":6mH?NN7C]Z",":j*2%iqDTj";":)iA$`=T",":Gt@IEu>(";":8X";":Ih9``IIS",":.Mhrir>Z,iq!MS_",":h\\";":RhJjrX5";":d0)09?]";"::X7]\'",":IQ",":>aR)2",":L!/=FE@/";":3\"G9$9Z.*",":6^<G";":?b,6T:[o",":I7&$qP@:j";":s<2A=Y<%";":PKGDI(5I+^b\\@*dj5/",":-fFc=pF";":fX3V#V]?g_*9G\"";":m5k";":+hIlE3EkdBG]";":LR&@dJ19K";":7T[na",":%5i1:T3";":G]1+Lc&c41!T)]",":H$#Q<Xc";":%,9q",":Q*K?Ius\"!?";":pb.@PKu?cK<EPsa";":Jl%1I2t",":iR?tqm#",":W8%^M";":A4$0t\"iB=",":8>)U<gIU",":@!Vf7DD\"8-b#",":J\"0RorGMLl";":kN",":VNRI-u/a";":!dU!0O*ZI",":8h(s";":/>Buck3";":c^K";":6(LGP;)?>",":nks%<jOCU",":c_h7nUMTtLIe\\?LaQ",":8L#st";":kbu<D(os>G";":;U\"Bum/nc",":KO,AnV-#fY";":k9*T7rdJ",":U@.p",":othoZVnH\\";":L*q";":\\!1[.Br#";":jNa#CJY",":kT::,oGE]&!]",":92AVqpF";":H%Flr=$;XM==>Jm",":)o!dd4=";":rcKQ9Pq:HY*H$8";":Ct",":;sblVjM9\'-JmnlT$gJN^OJha";":+IbJ/8)",":(X&\\@lb7",":7G[&90X,";":saSF)LU@";":EfQ3(P]3=6J%lc\"F7uhl";":SXSc3bG,H+i=6sY&QDi:h+c",":q!-:lH1";":[E]\\rg]",":GJ\\hKdG]",":U^MMr[+P";":9qk",":NQ.:[R/",":?usD=jnLVKVhJOm9Ss";":G\'T*";":/c",":kE1L",":>I(e%c$;b";":`NO?_*M",":=maq[$HK7Q,S3m";":.4((pp[]#/PjG",":gG*4Gmpn*OJYRl<",":S/J#6.0Y!\'n@N";":6\":/3:]gIXY5]";":L9LU#P3j",":PC/Js-LFXf+0TVh!?C";":kHbB(EoX",":7%76hhRHAQ";":*VdO";":k5.iZ";":_#4,\\g/";":5o";":Bd?dca>g=Q=#qIBCY";":O-c_eTLu[(",":[0&(cc`Hp,?f;/g";":oCM",":INfMC:W.a6a<6PFG^7";":+X3PHN;$",":nN.[M0EH";":O+rP\"7N",":Uc[+bITY@",":<L^",":e\'h<K.QZ_LHQ)H";":!19\"i<c,U8",":6m\"Bo5tD";":6C`chZVkPH+;BRO$_3>]",":fNhBs.W]4/PD6#";":X)^#\\/c*E",":\\IMuaQ7",":kJf;",":jC&.E`u3";":7KK6BY0d";":AM",":nero<1E";":q<Zd6T-:Ok";":f:\"G(juGpW,$.,C",":eHiK",":@<_`Z",":jnQnEVu95r#B0S";":dV",":WZp\\jC#B[\\!/";":IG(<1;&\'";":)g,C4+@!ebYuSk",":/oK[\"kBP";":Akl";":?mT:";":OWW0";":VT=n",":b#";":<=qH\'Jt",":$3";":@L-g63d-o[?0ZN(";":Q9L\'i!]",":%h^EkQH[66-g0p.5V*e#Yoc&$c-Js";":2@YQn)Y^LZ";":Z4kre3@3K\"";":m)\"8,\'/2]NMAm",":sjS\\3n0";":2KU9";":39%;t",":0+0k/gdas";":lg5!NGd)";":\"$-MbFZ[1s";":bB&Ud:u4)V",":oM-]mEo",":HLRE";":Zo";":Ain",":6]53";":.t\'?($AHAfqUlI*",":6htW",":-$mgm2r#";":9M";":s6",":jnO)_",":en!\'#SQ",":C;;s";":p6%ArSZJ";":i$BJpruMIJ";":7\":u<=7",":5stck",":a:pB#",":m+pVVg0c^*1(p6";":Ln422h#",":Hfl]PB;fV7",":41p\'P";":)a((5\"(J^H";":S$0`Hi43XO,KZd`",":Ts26GgjT\\)";":-UZ>Zl(n";":q<YIge/T";":i62";":@!A^";":nn<O";":#YJ88Sab";":(%86";":dph20]V%94",":BTG??F:^";":\\-H_hA+Sf",":`MrY)$+:C",":aQm$.=jWG";":]iq,DR#uc`16";":qtkH6";":GtW1",":,Fg(g",":=#M\"",":b*mTkFe";":@qdUK",":A`B88s9<(";":jj";":FN/`:H;%iVp6D",":qeXk?2Y";":4S$m7>7]km";":(=";":`\\-4i",":\'s",":eu\"bi:8CY\")T#",":u>MRjlP0=\\9GB9WFQE";":4M:_aS#j5LZIT-";":79GTZqnqj9XF8T.WfZ.",":(;3Y%";":;JEkKuiB,;\\.MF";":a4<Qi";":b!-@n0;t",":)dIt.$5";":9f3F1N,Deg]*`",":`+?==-]b";":]oLc&27$;d6[r?j#d.>teEQV";":al";":mVAng2Y",":;7D9dQ=8iO%5nb;\\7MFj_Qu)";":_q_MYh&oZ";":r`.6)re";":g)/%NFXLo2rhJ:_jS^";":QbSDT87OR<F[2\'>(l:",":W\'Qt",":/61%D4$rY9Fd/6pP9B9RsVrKnPX",":[E]2EdV";":D]",":c\'b";":4C.]L,c";":ie",":\\2ihlf_C-",":3kAEh@$ZT",":J^q\"-5+",":3$!",":lj_\\XG]",":2Y";":Me";":n]bSlBkVEV";":4#",":3E$:jG\"Q0",":TB[af",":\\29M0*$a))GGM^>K\"Yk8!FUp";":>_$bpmH!7CMI31VlK";":`AYm";":IbLK",":2scT%f<E-_";":b()SFrX0#s>?#";":_E`[",":`=4P[`^(";":B+VDq";":G+0or0dA+^+?]\\`Q7";":9u00+,HUu:SEJkKU_+e7X(V*";":B+\"<-u(-3pa7U9iajf",":kSHMt(ggm,\"$/QOi5-g";":j+^CbaF",":-o@0QO>]9";":NaG>@ui";":j\"cGckOGt3m=";":3#%q+m=";":@6oZ7",":0FBT-+.Lc",":1!eGaSll",":S4sC64m;EQ",":c2%lamfa?Moj\"!";":7C8)";":JT$.pIV/",":MjdQ$DUP";":3X3ZT#T(7+*.\"8SW,",":$O#&Y";":I+n",":\'\\i(D";":JjAlr";":j2";":gnKGPQ7",":-R";":R1MJt",":!G$Sb+Z6$PgWa+S;B#B",":D]2K^m1]UZEXuD+rL-";":%Z5/\'7N";":@uWo]3aPNti9.";":5&FUT!/";":b#55)ko_k<b2+",":Zn^\\",":&i8+jC!`/",":j^P",":Il";":e\'7KU!7",":@Q_k0_f3",":pHOap",":!2@",":q>_jl]X%\"0C,",":Rt+T";":+qR<=>l",":WGd3YXN4";":JVnO>iRV";":T3",":+@#&@h08F";":2&.KMg/";":G)uc827YIh#KT-",":7,6aJh@,n_#<[#`R:=U#\\)\\",":#9XP",":\\QR-49r",":k*o,3";":1n#=ta;7f";":@(tM&I+ee>C8";":c=6jjU]R",":Ado3c:r";":l=,WcK5_";":`\'!)";":@D*s.G[";":h#",":uF",":#`9E+Y0",":*C%4o;F";":rEd\"P$ALGt;lb+R<17";":`T]fC";":\\_D)>W!g+;ui";":J(2M;",":05]0\\ZjSc#fPb\\u=W<",":CWX5,O8X";":b=";":5hPHCV&:ff?e1b2\'#";":5L,=";":[l&+?7i_",":*f(b`",":N>b2d3+";":P$I$]_WFS0",":EH$#7RYX",":fS2.f3;.",":DSFajRj.B";":Fe[";":k$/MY6`";":VW<C";":nrVUIIA<Tr*Mf,";":VY@#",":/(:F",":DE$c";":eDP@";":G[,n0Z:+F]";":\"usV2lY0CX[K\"U";":0)=7Jdr",":T\\Y<2@=7i$*g/7",":k?d16Tc";":$$hS><Q";":7+E8)`Y";":]j@Y:?0-oM#2FN6qTra`:V",":IiuX[6`";":SO_C?PenXK";":LKR8-Nm/53*?4pI5/4HtA@YHk*V";":q#Oc@%mH",":GDK",":NuIGKRnZ>*.#",":FUBm";":MA;-bH0Qa;e\\>(7";":n0/dC-#=i?";":_$IXK/a[";":T5o=JBH.,<";":XRZ-UL^XG3",":;b+D]jFL2";":ek",":p-okV)C&DkSnWe";":D<)f$Mr+!]9jT0(X@&";":rHjP/8RZU",":!VJOdl8tlW/pt9";":m.aT6/@>ji16";":GFl+Bp!%";":=/7g+/%IFk$rZVZFSphC";":<+XBgD7rqq";":YukcN";":b>?F8_ag5";":KTuYXXc";":]5DuA",":h?Chf==G",":gj[i;)3";":XId/";":r(On*ECQ(1A>l";":K#K;L80";":m<JSD02BYNK:;*F";":T,Q*_uF";":$g^F(f8a\"\\=k,",":beU42i`D";":r/<g$H#";":58h1)i(sib2HC";":0b8f3DO&7",":u]n.pM8j_[:GD";":l==uS#fg",":4$&\"",":giM<gu>KBCc^RWM",":+`",":1:kR)4;U8\">\"/n",":02h7Pj!%";":oRj2!",":1*^Q>oRdf";":>Y8?s`t",":6j",":+c4G,?[";":3Otd",":m2p$p\\])";":Ims%nDm0i3!4eq",":mceuf",":cV&!Q",":,:YiaVe",":Q4Cj]?7<gQWOi:4",":?cWl4s.OSF=3r",":R-]<QLM",":\"BD(?/!\\";":JfA`Od$\'r(";":TGV>uOgW0";":P$IT9!]",":(2Uu5Q:%!dqk%nY",":sUj_5pRJA)";":3C;:L.HF`orcW",":KI3%#G7";":qJ>";":\\TAA<\";lmBFp%";":FQQ#f]A*70C@WTkEDabJfiKR",":Rjj/";":ga1i<:#e";":m#",":\\a-@6\\e^!6o.WR;",":Ir\\m";":X2)?";":>Pn8h$Uc",":9q4TZ[0";":\\T;_f`O(O`GG&>K";":LrGIdOfFA\"JOGNW?AcAf";":$(b0;KkDQ3cXs1j",":9`VFr";":8.,aJMe",":)5&UICSk";":u+^*A4jscm=ajo4WY";":@@",":O@k.,g5`2\\\\Vd7$",":\"5g-:2MWk_",":QM,>";":$up;BBPS6g",":[C^p`])",":9#gIXcN2@=Y%h?t";":G0FPdUkXrk";":.P+Mc28",":YTh<4\\7";":\"Z>@VkN",":kp<R+b=OMD[s3";":%d\\jc";":Zl3p`u-_5228";":k$>9-mC$iXNPPW@",":O1PlSFZ",":%Mu)Fpg<","::;q^F2t";":,k5=hMZ";":4=",":OD:Z",":FYuV/Or\"_\'opcXY+j";":!C.Ap8X",":Ml5V*J\"3MNh&cr",":4BA%/\'KCe:jGT\"=qps";":UXdk2>GAnG/$._]<WGe",":$*iG!phr7$s>Z9f/Z*JhfY";":q+j-";":q#:luqfT\',4q/";":LoDVPlf\\\'?X,k6!]YKOe()Cp",":hCBT7m1aW*",":ILK[nT3",":`c%&^Q%6F";":\\]k/1suAc";":No5t,q/Va1",":$$sJ";":Jq8]0+`",":j3DSVsH,";":+cO\'+3>>",":Ai3Xb\'s";":L*DJ-OsUQbS:2V.";":16";":IISe",":+Zt3^rXao";":A=lC";":r^mhe\"X\'",":8\"o&8";":+[Q3bn*NX*bkJg",":B\\\"9[",":71;)?!f#`?`->8";":X\"RR",":H[M%NH#",":68bkm9Ss",":aLgK#";":e@%9i",":,=m.JuoJ",":\"++j3YB/m/`j;",":DPdliKt",":SgAq-.\']7YZLf",":[cO<04I&$0BTd",":%#Fd\\Y8O7K",":[b\'^Ik-s",":*T4%RYi$";":U0",":qo`bY=9L4",":,8JJBZl12";":d.F2<i=%N@";":mCMhFROc",":-P;=?";":puYD(iTH",":OsiY1/?f";":21&M8]q0i",":n?-Taq;HFUEj";":,p9W";":C7ocYh9ofGsN2Z&hj,eo",":q\'Si*j\"G4";":Yng&oj]3]MWd+aZHs$P",":c08=&",":$eXn",":#[D]1]223[0qSD:";":rZ";":JutVqN[,11",":k*Sf_\\>#t";"::BIHWh\\",":4*hib",":C<&FOKgXg",":W9[D\\cSRjl-,buDdi/2<;5R";":Q)jL#6g7Lf9_R0Lg-[N";":\'hW[K;9+E",":`84m";":G2-2pX)2q";":O1G6o*O$";":h>\\I",":NjN,h";":;IPuPe#=",":%1-BUbs",":JL)^$",":NO@l8VK",":H,rX";":8KGA%N<HOOo%,d/ktEKNsgEe944/dXgn5`3$RHq)";":@>n,sb@6,e8)";":ZcKQ4$+j\'6R/";":O0K`0";":@!P\\pM/ao/9V",":8H2]a10nJ30N",":2kLm";":FN0P5(S=6\\RIWBTHs";":fVKp",":GB:Q)\"-^\\";":6W0/9:%kiOR?,Tl-b!UpebAs[=7",":ifs/+[)";":Q7";":EnL!`GR@O";":pCC`AF6",":lOLchTtV",":i]OhL_@,";":nDafnWs/!";":WnH+_","::V";":2e34e%;]",":K]*i],:\'6Yps!>O>cN",":GJ(,5icG";":Xo*]bpQ",":enRSnuG>%6",":&\'qHnoAei-j`";":D`O";":Ddd.o2<0",":r`hj[B05/A*84",":<2sMr*\'Vf<16";":QUPo]XYJ;+n6J7Y\'#",":IZ-CeZo",":A>l<BLrQ";":coMSO@j";":?sJ>@Z.3W;OM",":T_Tt6aTp",":W8";":0#cGns]E;#",":1%Lm@nJ=.aXl66t\"3`",":A[C;b,c";":8*j;)Dl^",":]groab#";":XiDciVYH9";":r+t6M1sQ",":cfr(n$$7q22Jk4Tq7G1",":J^/`FOO:";":U1hR";":_Cj";":8u!5";":38\"l1",":QWI2%";":Lm>a0aDIi!";":D_BR;/[S]",":M(FG",":;L[nps&0+q",":WnH&Y-Z%V?#S=u.";":CZ+sU,KCW:>EN9,opMd9+:4%",":Oh$SsVPE:%8<H";":hnZN]ek";":Ih7:[&;l:uEe>@L#GT";":1[Fo4])54M";":_7C",":K18g";":\\8[Pboc_Z";":VK";":7j;ZY1nAj\"Ai\"",":Gl(Sn";":p+W";":)3",":R;Y[]8/[_>mcosG",":h23I;/P0r]";":Y*fI7ui";":Sobk$`jLe`sX7r";":lf@FiAiP",":!9s(",":>\\1c46)BOA",":npB5<TY[.",":7FhG.r6";":][W\")3\'C>p]u+AoS\";I]5a/5",":RSM,X2$^s",":W+g`or(]?)c+",":5=\\r^pF",":lZ2s";":]6H3)oTEgt",":_1&2&UqQ";":e1g]_\"mU^9gp(h<Ej";":)<H\'Ra&$/<";":g.U;";":Hi80m";":6UHs(<EdHA",":I;>BAMNL\'P\\UJMIe^Yi4AjPpXNgQ",":pDGDh,NJl!qe_";":gbml+j.I[m1^=W\\_`l";":/ibt-)ngj\"";":1&obY:b\"",":qb/3";":h4>Ub8+`",":*?m)m>q%62H&d=h7*eLb",":gO\\7WOR",":?STt]*V";":/lho0JOgt";":0K<j_.^=",":se",":c.0rI,T@";":>l";":H\"`";":[dC<69![",":pP?",":<&78dOM",":rhPSD(]#";":dsLtEf,",":hFNU$f2;";":+%a.#nXpCjXqr;gh!l:iu;LV";":d,ZJJ8Uil";":8[`";":m\\FRZT3";":rYbk",":EX:Rj;F",":Q7j7/F..(`JY",":cMK2,-V",":h.A&\"pl";":GrBWusd*e)",":qs9a\\m%;Tr`FFd\"";":\\:+el";":hOR+cuRu4(845no%_j",":.=6L]OV",":F16";":fcNU%U#Id",":IkNh>";":]rY2B+sOACI;I",":qU`p&N4g";":Z!TC:MZ";":g-+oMm<J",":\\Ve.HZ+",":==Ni8";":`i6*YW5^",":kO`AbcqV";":$8Pu].;BE6nOe";":SkG9^V9n",":lB,9kOj&",":X;^e",":[/`jZep7",":W,";":)g&-;Qr.",":M\'*O-";":et",":q2#6ZQT",":U\"";":\'RC)7iZ",":muES/Fe",":!qj+4(:F",":5.\\s;TrW",":js*!X",":#C$WYAR",":e9L$qqsmo/";":3Nfc_IOlr?p6R",":</)C",":!RR\'oS`B9",":&XN6-",":ZiE5&4pS@)b\'H?",":d@/E5";":,[E?h";":CH.P?jBH";":1O[*p/iZk1";":#f!";":RFD",":MRl+d>l";":L]N?s";":u)EOdQdZ",":CJm?\"WApps:$;d,(8IB*",":2M=",":s9LR8IW7";":s9APnLM";":m6\"=&2EBbV";":8gB",":NK?0<R\"=";":oeL3tF,\'.1=J7$rmiI",":q[,7e]X";":2,-i!Bl";":!WO-X?n50nF6";":A,D\'W",":qa;c",":WpL<\"",":F^f$",":85fRp7%*6";":*2RJ\"Bsk";":\"*`duJt";":*o\"W`*.]?tmjE",":k,<;[",":Dop(/",":N%HF`E&9F6\\j/";"::r","::QVgn5^N",":j8q^j,5h",":s[%Ur",":]W1J)";":m^-m^$c";":!\'q^DoD;!P9c.nk>.Z";":IBS;",":a#\';\"h<iL[fP%Z$dV",":h1ICCqR",":j4\'EC9V",":`Ff&^A7.Z",":aOeo0.=";":%)n",":7$BWlG>bW)!]";":BaF&!@o",":r<][=",":UijYR]I\\cc12Io_rm,";":KQmYV5Sh",":eTc7XGQ%i",":>\\Vs8/sSA";":3soGl,\"$9R=Jit[QCZ=@ZYpB",":T\\!WPu4a9^\'\'H";":`b=X";":DR\"F",":@Lebf";":`lWVF.#t)fZ.i",":H@,";":<m96",":kqSDbBl",":@\\Ta:5j";":4X!jqTc",":I9b]&\"eS#:";":iIOB0j.WpD]U\'";":U-tZ;";":[0VuTiAH\"",":g\'U&`";":c`",":[cM;q9E&<!1SoH8",":gc\\)WBY\'";":TT.Z";":RY__",":OYf2\'\"MM",":gi9YDK)A";":\'S<AU";":h/G";":<N%m+daFe-h#",":.VSU]J*#e3";":=bB@>e,",":)c";":UP";":b\\<J/G9s",":4eUVX,WPJ",":GghW",":Z-)H@)PI`Q@m9I*\']5\\]NA-)^Y_!&=5K)XS",":fg&(o%\\";":95q^gPPfdJqbU",":!BD(ZFS\\,lb#",":HL`Ysr3$n2",":h4T",":PA(tn$o>T2/8m\\?\'i%!i!)8Q";":7-OgL$/qmbYX",":dlM`R%\\_;]",":Bc\\u58bHF:";":bla0nEYMG";":=NDcP$3",":]]F)s@@";":V1n\\-R4sKtj`";":aeR\\I9a[A>c\"lAd6ZAJu",":3F=Y?W3:Qj";":03VLq#Ril,",":iB4L)C+?<&]0",":4@d/oR+6";":Wo(9S";":M\\n%N\'=m",":ViG5",":>e#O1";":_94+j8pLfX16",":QT",":0c";":*/t@h\"8f",":J8",":e6q\\t:9PN753YuE%\\",":df_\\\\hTN!1o8T?q;F",":ElRntKk";":J3]n`7ff/J4n3GqI<Q9del/]";":0WJFcWW)BXp*ZQD(sot/";":#mYtqHf]hC";":@-9\"mm?HcK";":N*!C_=h@_;m0Z$";":>YWYO])";":3K_E",":8ZNg";":`%Utd:M";":]IK!j";":[=EAH#e",":Lp!=(K:=+",":Q:pLB_5u>HXc",":@2n5%,/?*",":b1`b-\"q1So;#O>WSVd>%+$0;-pl",":r\\QH?\")",":@no&$8.3*Oabo",":]49fu++",":L\'Qk$hjZt",":HJ&\"@PX";":i6";":rC8";":I+a//",":j?ZSk",":jU._E28",":-C.i";":SdmE.qXUa5";":Eo";":@o";":.&EU";":+0<K8Ee]t",":nmB5";":sr\"hWJ[;",":niRjcLZJ(?",":Z4N*>",":be(";":Up\\$k";":Ku<AuY;\"k",":D26jn_P",":SR$dOm9D?DmE,?sh=";":e\\FZ>u4QkE,N";":D/aE9.*i3hsZ",":B:`Pnb)N";":qM",":VuXj^u8E;",":3q\"+nVNtTG-V!*G9l2";":X!27_",":6`";":/U?;DFP\'";":kUAhA";":PX.",":C>taB";":#$cSbIl";":.Io\"3!HZgV\'h#5c)CH",":5,k2\'_)B",":ncNS%:f/2Vhp\':+3(i";":S-!",":sS=sI,<C.";":g]AV9n)",":K7VT$R]";":3:,:-)b9ue",":Sd*.e";":/`(Mi",":$*g+;f_q",":!dd8>Q/";":X;[d!uaB",":`\"c+Hkc";":C]*oscj";":O,g<sfca",":F?D]WD2o/MBZoU`";":JPp\"H$iJe]8X";":Pt/b5",":43h@A\'iA";":)CfK7",":uHmE",":Kc9";":!5lWF";":sZ";":IOPs6FdPs";":>82X",":@gm-&+`",":s>ju^eX+Z",":`UO-k\\7";":7J:2oeO%qJCg)-9O8\"O-";":#K",":q&?&";":$nd:*";":OI>iQ#E2-";":$\"NgYd<N->AR",":OA3s[>Y/:q]42aR[)",":i0f58";":`,a:X4kOT?l[G3K\'p1*]Pph/5Dob";":eAZr+h>jep",":FLq4XqR";":+j";":X<$to_,M0";":[]aCDft";":\"$93!u7@-#!/";":P1[s1_Lk-";":gi:@";":cVZ]:2,";":n)",":bVc<h;F";":$^G0",":8VO\"iZ+",":0&ahC",":AH:DN2Y",":-8E";":7inSBpaYBlP70T+dV";":pDZORuoLV";":n@=UU)SX7",":uiolX3c_!",":1Z",":Si`\"U",":T5md8E+",":-d*M70=n\"3lK";":1>R6^I\\cS;5.8d";":M+.\'/Bl",":\'*Z(*Pp:";":8\\-CbZmY&",":Si\'I.mb%3!fGsNF";":L)(kt,OX";":EL!=1iX>";":`jG3&[I>";":\")";":M&mZaii[X";":gcQRa(o#",":rS[kS>R8\\=`8Tb5c(!*7_A5733\\h",":)ink^";":>cW<";":`e@U?8j?LrR&YZX>@\"`^@1hU",":0QE03T\"Cl`CY",":IADs";":aT=5;CYSE",":.-U,A",":V\'HLkPX",":COYiHSQ";":Nc<4AZ2BJ:";":S!q",":`Dto*";":.^2dk3bF";":=3L!+5u\"",":,#`>H(I]qE",":.T\"-kQ3I$g*Oi=EG]",":piZk";":N4Z]&T=S^f",":[o==UlU1;";":aH?9mN0N\']",":1W[W^7O1";":qbGh",":0%+#",":)&HT9\\I?",":(T!)e",":)jMoKnP";":D&S/D/f%E6";":@Lc5$ooAX";":jn*!t4*c";":OfnIZ";":!<\"`";":CrZ(%s=5.";":H[_BJZ@!46AV";":nM2>;<Wd2I\'(IC;#;\'0Iag,",":*`GC";":3*uE";":/3a#JZ+",":Beku,",":%)P";":ZA6cjKlY",":ap=D",":@A*LE",":]SKL=Wo-Q";":qi2C";":/1Q",":ApuF";":ODap";":YGr58j2",":e=Ka\\lK",":5%,C";":raA",":nP",":Ai9P",":r+eD_43/h",":hnE@",":VloU`@B>]";":Se)!$.aR2i",":!`#Dt;i";":nrT871nq",":Mo&pr",":mbO",":#87(RsFKC;";":NGp1";":1bu]pkc!SHLa@l!Tu8";":?I/hp";":f18t.m=";":1Al1",":)mjDZpNE1";":Jlf",":u\\<F#K,";":e!qZ",":I[$k78\"P_LlNK";":)<I?gC=T";":47=\":UceS";":RiWtk7RY";":=!!P9Ti]",":k4e/",":$qs#3";":uXpAYJ8",":`a<H<uJt",":a=E,nU`IlS";":PYb#0\"MW0a[^I3bS74";":Pp5#2E#^B`6\\p",":=GX(8g<f";":9(kn",":UH3",":;hJ!Oa8c+$<%P:cJT5U",":hW8X[?7",":X3",":9>s(HCaB\'H15[u-\"0";":hl5Un",":C9=uImHD(5n2G9KAV",":rVGrVX%m",":+Ek(uP36",":mi/jT";":j\"2&E08sWrDn/_TprSaN";":Z_iEd[u.";":`o=]TE51_i";":Lr",":T<8m8";":>OE4Cf,",":+HOe",":QPE+)meu>";":aCLR>Lt)";":]TGMiW>*/:";":reVdCHSD",":*L21_V6";":A>>br";":oB28uQg?<00=s]C",":;[^K\\++e",":RZ^`dQNcWr";":!&/";":@I;c";":g7";":-\'o-Qh=>h";":Y\"6r";":\\]";":rX%%";":u65C.DN<[hC8",":1_94f;lZ_U",":s9s9X";":3l^GE(jX\\";":q9qi@n0",":YX";":K.1(.!SJ",":[+Fu",":jn@cflK",":H6J%(.#",":sQ7\'";":(\"R+qOr<r0)gD",":HC>GA";":d#3eG!/";":GaabZf$73",":_>O\'";":IlB[40f";":,.5j";":5p\\V/i+Pi]X5",":2merYQ7";":Q35",":@j";":aF",":aFXV>";":7=N+E=Cd[E<2\'\'2V[p";":DkT_G";":R.]^c%#",":s(da?*R";":%3#&9)XR#";":@t906\'Wl";":jLf:D.#",":m?q<;,N",":hKsO";":Jg9#:s\\YLq",":sUG\'A]0",":r)Hm",":6]D$Yf0X";":h5E$i,c=gB";":9r";":?M_q";":;cY=",":>\'8-)$@>",":oI_OpC/F",":4/hp[1Z";":$2Pe++a3)",":kb;%Zhah)0fh-?,OV",":Qj:CChpbJ\"b=J",":s;\"Pn.o8mT\\YV",":jY?t/",":2*40E1E",":.N[P*U<A%]T5";":\\TEnKF6HlOgk[AWpRUfm",":LKD\"0uF";":Gui_P3j",":pC$B*Cmi1<#/p";":/F?i";":]kA\\%Y0";":WQ$6lcF<mV/9Fda4\\",":$NDjN3n`F",":IN+)EiNP*&";":P@I%5b*/\"",":?YB]6`Z^",":M]qb5,B&<*E>kE6aCpt19f#i",":n\"8E";":_P";":mqcZ[]j]",":N$o[_pl",":IOIbZ0j:P";":GqhjA+`";":uHhe;",":`Y";":T?uhKZk-FsGR\\";":mV-",":=:(=F62VE",":OM";":-*>k@T<`e6%=&-7",":pA8";":et0dZWt",":.#",":3:h9;S&Zq";":+9H^i";":T6&)Q1[(h8oo",":&YdX";":WSN>";":H\'Ch",":";":]4#",":[_;]tn<//";":Wt",":b;PaaekF";":7Qb3Ca;%8Usk)Ad]V=&-_CZ",":VD9S37_Q#",":)U-)WPX",":d@8t/";":qfcAC4.A/[D]";":P.27*#>9K";":l>(OU.dYG&\'r8>AELZJ<";":N#/V?09(",":h?4tonP";":aDnsq",":.=",":/ff5Jm$N";":0_YD(<`6",":_&i1)Tc",":eV/RW6j";":R-H=e0f";":SQ",":CT`2\'YY_dmJt",":,StqMYjUX";":*7sSQs6",":-K3fbVb#";":HS3\'$G]",":\'\\%R1@.K:uF&FpJ69B=uu#F(";":?L\',:";":BE`+";":8J2l.UT^",":PEPakKLSt",":NY";":C>Eo+iGUg";":E=\"aE7/7fG;V4<2";":<6pSGN8QX";":=N+4dQ-6";":X5",":IY\':<(#",":k@7j&LM";":Md>HnYYl,Hq=]ZLC^,9H",":h)jeMTo$@";":Zj",":LE+6:<4j:\\",":@$UF&2^&$7rJTEX8JLXga(r.iLM";":H?qXp`0X=NGtQFl16";":.N@%&(Tdo",":>,ea5Juc,55(.O3C>e15";":qXl+\"o25K5qV",":Ng><LqDQ?Ij:;r=-f;";":DsX;tBZSqOM_M:a",":aFGL5b=";":pKm,";":6<+]$ij_",":*3igK",":_=p(K<-.ZV9.WYNqed",":_0;n\\MY*cqR?4A$!kV",":Me%81eAPY",":(6)j+@?n$L%>e";":oF`,?lFj3&A/[Ir]q]",":25;?",":%KgK";":*Z%[ZRg:T03j";":oL#X";":ktI-\'P)",":%l`\"7\\dpQ>",":M1)",":F0;&_",":5Eq#",":5+Q&",":Mr$/MKo329";":+>!$",":C,",":B<3kDFO<.";":?#0b\"YBNH8et",":d]8YTD?DG\\h:UZT";":Fa5Z.16",":isRM",":I.ae.LV";":_o5.=WY";":Z4c6B7Yp(NEs,en7L6@A0T!DH2a6",":3+YF@\"U]%*+\\A!ULM",":q7g:,UkS",":k5K\\ah\\";":Is@a/E2U,",":4ad!3MGc",":@*@).bsgKkZnR";":j8Rc#jR$6";":X#\'U.61V+9h^D=uZ$3\\M0>6sYUG*",":<Q",":!R;`kMZ";":7+rf=s5W4I";":=T";":YOTPKaQ";":81CLE@iGoh";":7[Jj1",":$.DIV!E[]",":doPY%8th";":8^OLFNk";":h3ZMcNJ3c",":pSe3=_El><",":j&l";":;6eT?UWl";":,QD9EL6,D",":MQU5";":XtSLn2A5n$hfr",":%`ih8CG\"1";":@%:dA\"(W&QPCc>",":L#b;CLV";":?ZbosN>d\'O3^^:U9V",":K*.$X5I\"/";":;ll06",":?QcE7",":U+b!\\",":pa#G",":[Pn`Y.IOU<s6<7",":o+",":pQ";":DXEd",":%HP4`Lr";":Qq\"t`bIqj#";":Y)\\*4\'9`c>]0",":s3)_",":rM:`j2VI#";":ru6pqeG$*oEHHR/:M";":a*51]";":s8tomPG];/",":S)ic7\'s",":)o\")=7(lo";":Hb*FlfO*",":%H.bP@4X$Tg\"j;<",":;Y)o*Rm01N!]";":#&#(ha69\'U36?m",":HHFA";":lHF5G>I;f",":TruN=i75__";":gFUc",":ulUaP",":>%28]J!+7*=9OJm8CKup4%%Zs#&CN";":Vre%)c1b&A@=qsWMjC,<";":o\\:";":k$VX]1ii>Pef70(969S)";":@`P-";":/;0@";"::QNRDJZd0",":/J*Ib71Q";":=&In";":on[cB40q9)f:&",":Bl";":42<2S4pC",":_D/GJ$KTt#2Y";":oHaLg`6U";":Lp&DhILN",":Q,XY";":]Yekp41cIo\"^(pe",":`>WsA`7&",":Atub0`J+6";":h*0q";":Bi9p4rrdQ",":el#I.eP;";":]P,/W";":$HT[Vr6f@,1-PZ&",":n9X=";":\'7FM*p@TSg5HV[",":De!HdY@\"T",":Y&Z]",":\'sIWJB98",":-C((hcj",":qqp(\'";":=cUr`XY/";":%k_3$HL@o";":0PsCtPX";":e,k1$UgLu[]PkjkI*J",":sA)$q";":US3j2pf!",":odPq,al";":iWRJL";":+=NmE?PNbq\"^W",":@ZV",":L!a9)4IfQ1#>8R>:-a",":GlB`uc8O7+N)?1tl!b!",":+EkaT=Ii$+20cjt*R";":K]<i&1oN";":SKN)",":oo";"::$m7BrKi^",":K,",":m+2%/L,Nl";":9RUs1Ff5uI",":oh\'JN\\pFQ";":+r`9MInG",":%>#D*%\\",":D?Wf<sD?U9jB\'F";":aQ";":+S-";":Z<;$^c+",":D[";":1m;[Dd\\I9";":\"[qdQ";":n^[";":).:KW2Y";":9lH@*";":bQ#V",":8Y]Ej`$qTg1j@=",":F5Ni4#K",":GjUX";":`2TFY";":pP_\'=BqD";":[?(S1ac<Zs8l&HV0K*",":e^sTW";":T5@Kc",":)T0A:8@`";":`\"ZN3E+";":eIleHr?E_",":2as@";":8,t7fms";":T=J8t?m$-";":kg&\\_*S58V<LdMr<\'-h-",":;;d3*",":C96c@X:DDhYX";":igd`Jh[+";":.(>^-+`";":r.`>CY$,Gp";":>ac)";":a%1esTc",":Gih<F0&<H.)+*<m1I7i%&iJC",":%d\\7DOeS-0BhXd.N[&";":[;oMXa3N0",":oq`d*7c","::aD*/L/L(:P1Z2",":[B.1V:NTiXCo9",":rDa.*:3u",":Z*o3#",":X^PDU:U^C]T\\2";":uJ+)+9Y:_iDYMoB[^!",":J_I";":fY";":WO*5a;=p%e%N45]";":Vk(T)o_o2CGgSD\"",":VEDb";":V[m-\'__F.",":pCJ=!nlB<";":lHuR";":iXYmO7R]",":b2D\'s%^0[ru2n^";":OSZ:iNK#V1",":Y4^8!",":EkF8",":T0eQJ!IC",":Dr.";":g$pp<$Wu8J";":d*b)L",":@+j",":\\,VWf80";":d9oQ8-V";":lUO@&W,",":.nM(";":T#ZX47-+`J",":==&+`;p*,SYtm0e",":$\'Jj+?&2h";":sUG`f=\"I_Z\\<T(g!&i@s";":glB";":]qO%qo+#5";":5Fqd%C10W";":)_nY;hW$i\'\\\\IA";":X1iG_kE7.S+\\&",":=\"sg<:V",":r/q@",":Ua<gcuK2";":+B@nt?Rf",":Z3\'1-_bk",":$EV>39%-";":M\']qC<m56en\'/ktR[!Cmre:\"","::I&UT9Gf8Rn9uH";":0OeW,+h6I";":2g_a";":2j:JLAM",":BIT4";":07ffEja\\-Y";":\"?fm=0f",":SF",":le",":sti4bT&$gmi^Wi",":.82gb1Rp]9C7$nn";":BQ",":)]>&Jj3UaT",":\'c3Qc";":G]",":0ok,hSDZq\",k0",":/>bCa",":`7+h.`;,+X",":,5;l";":!\'_.n?]";":#W&\\-\'F1lI",":<0%";":<ti(g(`\'JN";":_/@^n",":]ON`pseW",":LLO:cI!",":[!rN5\"Ol</@0rP@",":5?=@6g]",":hHKg/2t";":$S:;_g!_/.",":Sf!@5u>bldjj";":T_LE";":T(<c9:k#2",":51U4";":sClD,IYD";":phhUF";":p%a&&57J9@J3h#&QV$t0UP";":2*L";":9p0.iWY";":To9M8_UTIR\\d;`",":E+";":Y0";":7pRHE!u@=",":4:^R",":P;MJNHXQCI=7";":eNKcER]",":@a8/a-pt\'Z";":36rXN",":q1%n=:M4S_ap&_Us].",":7t#",":1XQ+i";"::FDk-Ve";":Of+TALr",":o$t58,3\"R\\",":BSTO\"n)";":P0",":;7V&,l6",":)qM]FJ<EO";":Y#*2",":gb-";":0UWqT!/",":CmL3+ZO-4",":-hqsR";":S+=PI43RsN9\'<TGQem";":,K1X.",":0Qba";":o\\P1DD[";":?aDl1_SS";":JQV.";":a[I$D?A;Uh!+r-<\\&Ll>`hK#",":2JR[Ud?PHe6h=E[6,iS>?=N^","::bEnIgfZMm",":qB0\'IX3";":BF",":5XeNX",":-F)E3j=_P",":FZ/YC@E5W";":TBk]O61-";":PdJkAB.E",":dE&?rX=m&dnGl77",":AW6(_e2p9",":1?kS8";":]Xk,7@&OLiE`h7M8T?";":E!gN*h\\",":A,$WQb1bs",":ltUE";":6oAB!",":knh8n",":_U\'$$5P8";":_0",":WL7H",":0_2r";":R\\*.CAJh/83un",":C:-",":\"k:k.,c",":6Bqq*Fge!";":k^rt",":=Do^bs\"_EY2Y";":GHp";":Y3RJcV,)(6@Lq2";":s(g!_+,J";":sI,2).!cEA$jFKSa/nY";":&H(H59m(e-<!";":\"k:j!",":E<%.\'BQ",":rIY6YB_.eF>i";":>MCBs1VN";":1E",":>)bCnMX+$c";":gl9*nCHZp2_C>WI","::asqaUb.NQ0^U!obs";":d0!ju6:2Z_",":VH[FpFfeWj3eET1oa&W.k`@X";":L0FbRVR6Q";":?pgDLKW1OI`C#+fo+";":#ZR",":0%L`4=,,)",":E8^9p:Ps";":cu\"";":;smk\\V`e",":Hgi-0WdFig)1:SNlh(=E/Rdc/:V",":NsN_6",":\"9b/3",":G_1/+NsP(<Q/",":dV>.+AV";":P)";":q*?bjW,";":\\7",":(?*k,PGDpd",":,[80D9H2Y^",":Pp&fcMBp";":kP*m4mCM",":\\Al4T";":4MUIAhclV";":2>hP23+";":*+dN#2c+D";":n7FM%al";":NmstCA,/.S";":@gt\\H>_jZdI\'N6";":P[<-:S\'$";":p:g`5b[hTK",":iY\"[K\'=",":XaQp^\\Tr,PZUK707LKW";":;9BA]i3!";":XK@#tdMdH",":hs\\4RV6",":]Qj`-Sf`";":8&gbc",":G7";":Y3RIVoUngJ",":$JF+`d@L5R+KdJM";":H+(e<\"R7q<?jsDQ",":Q9r(oA.l5QkEL";":Q<&TRs_t-#..oG`jCl";":R@cF\\a.a\"$MqY_";":\\F<(:W\"b<NJrik@$h-ER>.up",":bK9H&\']V";":c_.Z*`enMq8F+I(nd[";":\"cD\'U%X[",":H4$TYoXec";":kD).",":00s/t",":M\'O[!l>c4B";":J4`";":Z4tEd";":QRn@lU8sH";":>.Nd",":?]",":nY+\'",":(d9;ZJFoNo";":7^(l",":S7t95?[",":8#.a2u<P3R#J?Hg9Rj";":Z0L7%1\">";":pNgKtrWUPu8-Tt";":L0s9Q[)";":9%DkE80",":MbtM";":_\']OD";":f\'b@rs.,",":r#\"4";":T&jnL";":!H)a2";":CF\'o[P^Tgfkc",":8ER[L80";":\"?PZsDZ+<j34_Dd)c",":.7TWM5QB";":cj",":Rh%;",":>N[YN2]ba:;pKu",":N;PtQq,h^)C8u";":l$Y=<oka1W$H2",":DcA",":L\'OsR!l>\'-",":FJ+8",":Jt.t#X(9",":@3V)UcAWM",":BL)H!4#";":jhZ(9WfG";":pDkq`",":h=";":J!*/c+L6Qs",":)j-6q57GOIcj";":>E&_XU98",":Q)e";":<IA$F6j",":PoEWbgr18",":NL(6<N2^\'!",":0H#E";":>F";":h*()`Ob\".8<l(1fq%gbEn54@";":\'>_A\\Zj";":ELajTHSle";":$c",":A\'&cK]:=nRl+\\7";":<t%&SY:Z7@",":jKa9H",":q@&@",":?h7:_.Xtb/";":WSc";":BMAW";":pc>*iLZJh?I!";":mU!nS\'s";":NL.n;D\'B<",":s\"A4","::nm_\\?]",":k*Sn#-.sr9a2lM",":,GKugKLBk",":G)]",":h?m!f",":M2;*0jc]ZU\\)X^",":W8o\\Tn)",":Srr-h2,",":<0\'rUAV";":Zo=T";":8iF#.oo",":Xd88Y";":XP(qR`g?/L/]r";":Go/r.(m^AG;3hP(]QO",":i/[nj5-AoL,*\'GDj>4421!!(.8W%a[F96>S;I6[7";":X7:\'0N_4$\"6QQ*V%rqAQ";":`4/lZKTu=";":5j",":;Pi<)_7md";":F>u]",":BF[N";":1KS:.QB.-",":n))78Ig0B0m-C`",":Ya7V";":rf[",":.]h`dlX\'+[/5d";":0Hh1UsMN",":`\\n,3s%g";":/QmS4se";":r0i&/`Tq",":h9Hb";":Z?N^^qug<.aA(-/g/",":3mZ0%",":L7&Vq%I8mI";":7i&j";":44;a.?]",":7l[";":(e3MA[0";":AH_h*",":#?\'qYs]gba!K.f";":r9L4*.s",":hd+kh4n`!=1Z";":lK",":K7gFV";":L[Wa?iI5EO";":gco!&(t/eZWAVN@1g)2VIjJ[",":T1P2G3(r";":)Ptng@?&mq";":kPAO";":\'oi",":I]5u`h@k7m";":[!Mfmc`",":<hGJ4m-R=u!/";":AV",":>Sj@Xkd2[9X3p";":EC$?dG`t0/c\'8M",":M6",":h9fm";":<b28#$3",":BXSU","::;9A%)N",":e<VXLjjEsY:u4o>d_s",":2t";":FWR4$]c@n",":c890A[*?7M_t-";"::r@G",":0CHtE",":\\`KZpC,",":[gk\\6`t";":H$rLciDp\\",":cF9Y&",":,?[D3OV",":!K4";":sIoiGbJdt",":d`q_M0N",":WU/1au]*0@Zab.a?q1>\\",":*Pm\'V",":p/seg%@&",":8f99Qo.Gr++0?Z";":EP,43Ofj*;5r1";":G\'*",":GO,]qR/",":OG!",":ZD_mn$c";":hL/eli6_S\'6i\\W.I!",":I%LN(M>S*tsZ";":WYqWUAI>r]>i";":,A$sD";":Zf]X]R=eHhl@\'ZS]X",":8jJBHr_R_@M5WkH+#+2`pU;",":q-\\#";":SC!YDL4?R;!.d=)";":VeqdT";":G/eh84WT";":K(c]rT5";":s7ZM",":PX";":MfblQG]",":XE?8W";":5b!2,DGO#(",":HB.dh.>&J/",":39cL/$2b";":f_gZ";":MN`ONHO<mm";":>.3p)k5_NTa-Nci";":TbrBh3n@X;gJT",":@\\j8`&Q%0Mia8O",":]X",":(c@\\&dV",":6p=)P",":4S[,T70o",":=&$A=k3";":_MSpJ73",":PRUuK9gjjQ";":(q%3[;i",":3*Ih_!F9";":$n5&NTH(t8):*";":*:9u%QBQ";":)?b8+f,",":_eOm,?]";":(bWjl0c";":;_&rYq!`n";":YbE",":Y`,",":U,u";":KLq.o>u:",":bS/Z)rp:g#-E^a3m+t9S";":0S>8n>TX@";":%gj9YjWGH";":b)0;a1A8,",":c[h,qAA4e=b\'98m",":M^S-T9d(B\'?@%)\\Tpt",":r*9hVPLhJ(=1kc$";":Qu-GbG@``81Y\"q",":*<9qYir\\jB",":ep2b3hdg[<98.PG`Y)dS","::b&7BRX8";":AhR>s\'Ut";":<lX`WaF",":Q+OkN45*UFT[+h";":Tc";":`k";":2f<NKY+W";":aC%,G[P",":naAbXTc",":E<CE:l\'0";":J?3MfAUX",":bp/Q23.Z",":X=L2";":2<6Ii878G?mj91/YSq",":80";":OMX]`nH1K>E)u3dkc";":TI\\B",":J9RHR@VE";":sfI7A\")";":\"!dRsKFjJlJY",":jL3tHYrqPT";":#_s&$V_/>mA!d\\gBpDEJ_)",":*f7t.h=",":[X(2oNJD",":$QFZQk2;gL5Y!:";":`Q7A6%\\";":H?XXJ@qNW\"",":d!U5$";":#6";":UmGB%XK-";":D5<d/",":Uf;lo\"-d#Sie";":LLrmBM[hs",":W-.!G)eW</Q/";":L6nZ5_+5EoO*;8^",":/1mg",":V=!,d\\#J):G]NRS/!G";":!?:2[LM";":=L<P6?6q";":X0:Gl",":(@m\'<7N9;S*RkE",":rJ/_7mif<%V6",":\'\"^B$K`C[",":B#Z\'9fon";":JShnA%jq1",":?p!R8",":,3",":P;r8";":c]?!R%\\",":D%hXC7$V";":\'=",":67o,-n8=[%MZ";":)QQ,[FP%";":57cp;",":jM;f";":%13`I\"0",":D7",":#R_m*`,",":Uuu3=\'#C6f:F?",":WY$9-FZ",":!a=\'e",":kRokQXk5",":#eMC,6g;rb80";":?\'\"VGc/26tWe7o";":[$mi$@[W",":.LT_.\'<%JRcp3>";":j7IY#";":3?PC%[qe4";":cKmK[AS\\!4-gL(Fek",":!/";":Of0H:.#",":Mr79I",":KG$P`1Z";":H!14=Ap`QpeBM",":9V",":i;NrRM_\"FOLr";":Upa5YGFu",":j=;fAAR",":M;7+B-TQB19)9H!>S(";":?7O+]qR";":Jb;r";":mEFr/,d&<FHE@";":\'lZUXe;^]\"";":ERU\"O@j";":+[AZK",":][A_&C2D";":qR",":$FkE0NY";":s(-*B_PFWk/ijV",":g]";":\\%FqBW8",":i/(LsU_G";":Fe",":SbWM^u#:W!E^d!";":_Xh=7a?b2m6Rd_4V\'MHi_GFLS!7",":s\\Pi";"::M",":#g=1Tm!a^";":Vgk>9";":3aU",":cB#im+j";"::r5lgSU&p";":.s";":kFN",":6uOZr(iN7";":_9%;";":TX(QS(Z$";":=gTTC:,:_",":#*YYdms",":_%jVrc:R",":QKIf*",":`r1e2RXjH\'";":9V;X",":`io=b",":NjD?DhW7Vmd_ej",":L%\"7T/KH",":q?o(i/B)k5\'d,MJ";":7T3^,5.Qaj`k";":iHSj<[=$3!";":AR_R4]_i]",":R^(Wl(\\QW!%$NWR",":Kt";":S3`<,#Q_7J";":$UenL`d`-q#(B>HN9+1",":C>^HE#s67",":Idl2-blfg\\YX4!@\\Ed_4N8ZB";":i+cU",":HfDq";":kC*jSlJ+/",":(*ITG";":%\\";":oIMn%";":GKJn^3=H`\"",":++",":$Tk-7XdN+1HQ^",":0Y4gCE!;e%";":G:Ut4h.;)_hoqS*:C0r8*\\!",":Kd,4PXc",":m\\3T8";":W<RR",":k^lBX";":6+I%Cr]se*Rjo";":PI>*Gs#.<_";":RGpk/",":qFf?",":kk0)!oo";":KCE(EiZ",":>:?3)<fH\'\\Z2l",":3j";":2o9fL_^NNYdA<]",":ur>gb";":WKmR>\"0";":\"l4u)E\\u",":04M<>$(\\8Cr.ZI2=l5_;_tQRiKt";":h@*l<[g#j%p`gVYTF8";":Wka>4X3";":re",":F6",":;+rRN",":[)";":X\\P@D+B^%B\'k3m(",":fV#V",":j\';LPCXp",":=!V0&\\]";":3#I",":?8/3sZ+",":F%$$";":_.eph";":(ntBro`X",":VU>Jq";":SD!Cmnp4T?",":0uuH;>l";":0-Q.GJ8";":hGL+J-J\'-;595H";":_B7MSPGm:U(B0mLg\"B/";":>)WTi.D0BOj2",":l(Yqh+.4T!Y&R3Ue,";":b5>\'I#K";":Xs/0s\\*icd",":Y;gU2>s5&",":)4RlV6_%2HSD2ohEc_[_jtf>6;i";":]rcG.J8",":c+";":RFZP[A`n";":PgGSN%e@";":;&sHX34JEg";":#Zr@c(l9";":JLu?f!<sR5",":/JdA@",":RhMp/[\"qW!aM5";":eUorF#+l0N\'#";":7c";":N:R:";":%Jen2.nV";":>Og0";":l>@",":9rB$IWY";":UN0t4jKAYL";":r0#C";":9Z;Z8";":BMnj,$Nd",":I!",":st41g*ufoH$EARSP0",":Eqm)S";":a@c%",":o.)G2\"7S%";":`]<+iC,";":l%6#";":<<0dgsqQ=1NX/";":&Q#s",":JB\\MBA2ht";":[aO4U1h*\\Ro>3`nq_+mXL;J]";":@BVFe";":33QB!G,K";":J>r)",":gF9aRT8-S:";":jhF1.",":#(gJLSA\'8q",":NgT<<0#V9Nd9;NY";":XDTLd\"X:SNO/p:W.s";":K9R\"#;i";":dK9%\"",":I3s$So!b",":qS^i",":@k:t+8bW(";":+=t2/Y)";":?`Wr/iuUS";":EB52l\"%V+S1o^L",":h%I@AEnO8EUH3";":!k&-3R^`2EelB9\'";":\"TF#bh9C0,Ti]i<`t",":\'CTZCTk6gN";":<!";":\"\',LV\'#",":\'9Zt",":G/KQ\"=7",":7Abb!r6",":inP\\/1:b",":u)fu,U%kXS",":laQH",":7AC>",":Y)";":CLD%^al";":S#5";":!i_c]QNa",":d1-)\'Eo";":Y#-B4;l",":o\'jqs&]H(",":p\\)N7ET\"kY",":rn,3hHJmJCB&S%";":I^\\2Lu.;k*aM1+<";":N[=TR";":=+J;n",":1?J_7et";":s:ZgaY%sD/?]",":d#:4[7_F";":PWgC;pQ",":Zh[9h",":A&kV0.KX",":Pfn;e;5Ni[=A=0A+NotC(gfL4`Y",":5(M",":(tQ",":qN%r",":%=",":YeuiT)Kj]fA`1;!MY_Qb:Yh*";":0eW#0gPS/+$[P>jO\\\"",":&QP";":]JIOVA,d=",":\'SF8*0c",":Vb6ktQhr_,";":M::RM";":QsYN#Nt,C",":E?XRP-6DM",":Mn%",":hOnCD";":bN2;gV@S(h)(]6^ba<94",":?J\\K`>@6n/4&nVM%\\";":JeW*DHNq";":AFq8&",":KjWj/",":mQ0!$>V\"G)ma\"S",":H5<FG",":C)_]`Sl";":PVReM2(4tra^6=",":FpG(dse";":dO$rlaSYXe3k%\'t3j",":6%/m",":j#*UYSir",":$m?7O#I#j",":*V",":9D1r";":ft";":Ffol";":M*P#4C9n*ln&%tN\\]";":KnE";":)fIc2j]j",":jI\\:A4=";":fBMc;Wt";":Vo2@+",":dCUHQn)Fs:",":0/%1\"3g:";":A>c=)",":2(\'5ANKbG\\";":qiC)!uF",":bnXRYDhtM";":i*Q]-8RIk*.s";":CgkgOr9(b;h=",":dgF&\\)D`";":UJP*F4B1*bV\'V",":WYpd@qi*5&PMXSl>o_TdjCF",":i$@EKuSd`&",":l#5H<",":i.Uu0M[b)";":M=U>`b[MrS";":@EoM&A@$iUcj7jK",":An@51@5,",":uf>\\@CEW[",":G?\\\'sprGX_,0\\$D",":k849KH#";":dnor";":s?q1+=7";":qAaFKn_\'",":5\"-A=-\'drG";":3u,*W",":)2d1\\G/qH_pB.",":6Aup";":h/90R;BdQF$-\'3";":TgOLo",":5+",":$U/ZR";":Ve";":2Ne)>Z_^",":q%f",":4PhP(YX",":Co8B";":V^:u]ZL#3]";":B5pA",":DFU!T],/e-S-slI%#",":12_YtRBW";":ag=REB9Ynfnk\'";":[+!=:",":2+:03A]8!_SL%g?C8";":fnR?";":)O+",":YaHI";":<CRk\"dEoU",":H1",":&itki\")";":qV=Zg";":,r$eqE+",":3+",":!gRQp7AK00",":/`%)EhK/jKmHp";"::\\OU>#Mk=2)EQH00I_#Ibsm/Q&HJ";":1%A.6qV%]";":[[WE]\'V\'",":NURQ\\JJ(t`U0";":`nr^uUu\\JN6\'p",":q>[aV0W&",":8G<\\",":\\t0fsh\':";":2>LlmVC^R",":LNkuD4s-",":A<HGMifafY*DM8";":/PFZ",":!NSbjd$hO8",":Bu?t*@Qm\"pL#U";":imgCRb#",":`#,YR@+",":DP-Yo(h.D",":2&71O/3";":\"0",":R9#\\R",":,2kMsG#YJ",":meq",":.H2YY9m[\"pbs",":%EAiNk#jK&D!G";":\"\"C//eXYh";":)C,I=+I!]oG,`";":m;0uU3Re[>4l=l/",":jMfqrWY",":G##D";":4J>i^X5";":po\\Ot";":XY[ti?pIk=ZPJ4m",":F1Z",":J`8J]!agEM4#";":74U_mkba",":aLlO";":2j58h/ha";":5mJFT",":X0JE",":\"`>o\"K:2u",":oXA4]T5";":PbR$8!mI";":qClRn/W(";":T7%\"^";":IdJr_%F>";":m#b@8lG!U1k6mg\'ui";":om(C",":8srC3[?ut";":Uk1V$[0";":>r?6QR\'s+Fi&\'";":MWnRoATf,?Eo",":26\'VM\")",":3T\'2J$c";":2,5*+_fK@Aids1";":Sl",":R17/I\\]",":oi7l2]X",":eu^*`m]MT>";":Z+",":BY4W^";":V1V6;93mj:g\'O";":CB#k!i6",":PZt*9]%YOQ=>PWJXe(QWd=X:mIQ",":Jj4+?";":JA`+0DR^$",":WL\"n",":=/",":uZ$*tIZI3siMIn6",":&$\'hT",":8pE+",":\'QjBIc%WO";":0I/A>S[U";":hN0U";":T-2%%@o";":%F\'0O5o",":k.mo>#2D?`3j",":f4U@ZDis0\"";":%72gB*%%,",":asm\'",":8):rcU8,F@",":EAD@E3j",":f2^AC)YT",":]s?\\";":V9>lBU@RK",":f[M]eW)392:)T",":.cl";":QXrVF*uZ";":-p!39oEnN\'G)#n=7;Z",":r<aB$cT6L=_cneR_P",":h[!l+#*fX[,7eK";":S.P%";":CY",":%SusNpYU";":@*qI146$+4+E+-4!r\'",":)aV",":R80QKr6",":OYhOXEoNk",":Dm1btbl*",":=C![mHua9OMq8a;O$c";":j%-an;Ma_YKY";":`!]",":e\'G6^\")",":Vk%Z/IL\'Y_,6e<",":j6jj_\")",":\'8!D^jkfd0Nk";":bm:Y",":Y\'pB!`G\"L<@fA()3<p";":c`[U.uDt:cCWH0\"",":`l)IYZj";":$+C7U/3",":3/bF$WQ*_oDUQ,i?/K",":m>XQ8n*\"P",":3BAeaXbsqu9+I]TiZ";":$YE)";":l6";":lkL?Helt";":-u\\B";":>(V53qYC*?LX]UnXiPss",":$!O@-AXJa6W=k)`",":0f",":rJ8FZpl";":)oq",":1\\MeQ*tVAX",":rBY`(R7";":&]\\&P%/=",":?7";":1U.*2cj";":gPs",":QEKjt\'s";":Jl8/gCmml";":;EJ[@>!u-j3Z\\=7++";":-3<s%aiQ44j6Gsh";":Ib@_I80";":4@8H";":#:CPX)G=hA";":Y]H1Hf::";":$l9B9;Ql!1YX]=iMcJ",":norZN`t";":]EJ;(","::%1)Ul%X\"fY4W9`Y?FTG0BTl",":Ed8`;++";":3`";":\'M^6\\O:LAQ",":*-;]s7??>&b#",":CDZ=",":3-??kMU*",":<DmOr",":lq<J";":_I9r\'Z3\\k8G0[";":[(s:OOkkpi0GT#";":/0Ab";":Vh\\0A!8\"WK",":r`k\"p6`";":c;oscpjX/X(&m)",":_B9pSgVd";":lgr@u",":4<?d%",":?I\'\'[ft",":F48r$5+",":/N";":PP8";":?168*JH!T/,+.SJTT,",":/Wfkb9pfFq",":m]uN`)UV",":,\'\"A";":c9?jC";":b#3K5k)k2QBKskC;^?JC=I11f73";":]Mk";":3\"`fI5)+j\'b4,)!3?5Pd";":>ar`";":T!3>E%=",":`&\"@rlaM-tP#.B@";":YQY3b4&`$";":k@o]#",":LftpS*NkCq2Go",":ejMuL",":[orHM6KX";":J0D*\\oId";":=l:A3EG$TMQ[-n&@@";":<g))U+S9",":(gcO";":Qp`W";":5G@`#(,B!,Bl",":RKL-";":M_Zt.\\Zrn;OH>M3C\\$";":H=mt\"";":$2iQ@#JMQ+*I6oWQ,!",":al7";":0t_\"/fo&IE";":Z`/T)oX9",":-9l%Z:M",":kZ9Y7\\a2-",":e_l>K+\'/a`7Xg!",":\"Ef6S)N";":5=QP<l6";":s)7GM03`G[1s#";":`-iJY",":holF\"2qr?8";":M6=</oo";":T1e?Q",":LFedK";":1s_9n])",":bEKG*HDO",":=Z@eqAZ[]SAM",":`!)",":aC_h";":FZ",":$4q%mX[G<,",":/=,?hl@G^:,EVKS$q`-",":\'_Jb[MCNP+ZKV/O",":0\"(\\;U0",":a!17b-R/B",":6=IE@qJ6_;)i\\f.lT(";":lBZo`";":;F",":S/06H\"i.^Fj0Q_*-)c";":RDmJ>\'#",":N^k",":rR6j2i39=";":?i>Z`QcR(",":,BO@<>q;";":S2rMcX3",":((c6$I?mA";":=iTu!FCL_oG^\"g_jKZjF7(nF";":):1e*1;XA.3%\\V3*\"KLf",":PmJ;piqDe$\\mE_/pruK",":R]",":LM",":a)UFU";":cP/Bg\"#)";":Z?5l):`^=4";":cu0=n(kD";":=5h",":K7)",":se[^Id\\jcc3j",":1$9%EuN#";":79VU(\'V$s",":V<scF";":1G%]h38ricJkk",":cU3o)ut)hq[np0",":-GK8pMZ";":em9h)2oB@t%q.MS",":RMMpu";":T3&",":u\'K[M";":29\'Q",":ZA(L!pF",":,h2.$",":Kf\\a9";":!19?",":\':tGg/N",":C%Q&2",":kYb/>MO.Aebi-K<",":/nB0`#6";":\'uFhLnec";":Kn9^H@/<+",":Q!?YmCfN",":AogP1J+RbB",":dr";":.LG?#";":<t?pm%=";":6tK7QD[";":n1B51Mcr!/VO3L";":gUX2,+71oAsZ",":51[2UZI<j",":mT;9\'b=";":HGXB+%kI]",":-J)e",":1-h\'+;[D,h\'8`";":/$b;G\'ji";":R/";":_L.1\\m<L];_]G_uoo";":U3ta";":MU[(a7c";":OR";":ct.=M=uN",":55(3)BUB6R";":1Pe;7JN]";":n2Eo%";":eHJ3jsB?]698eX0`,",":.9D#Or3/k",":mPa:MP0",":L.J)J";":Q1-70MZ",":=A&l";":k3";":b_!",":\\Y,\'",":16g",":M4i8);1R8OHs",":=SZoXKY",":#\"u",":cBFq",":I4M";":!frt]";":Sq!8/C6h",":<*;>@C_(E",":1t+*A[U\'G",":UY&DDh#";":<B/KUpKf",":QT^6ckmd",":N)/l",":Md+9R\\*Vp.OF\"tA2k/",":s6`bM",":2p#<m[[^",":R,/fI(1\"L79B)s3<!",":_FgZN[0";":QH2Fe`lN",":g[ZGWSF",":+BSJjZB)l\'ugTGfEj",":,[-B;;jY";":7(JKrcquoLS+U.VY1h",":>I1%kE-c9";":E\\37";":5@M";":sSio4";":F_,$K>(5cOPI]tOgjZ",":=o1V%m=",":H@hb<";":`@&@S#?9N";":Lm]$?";":ucQ,T.\\`c",":\'%7Ql=COQ[cTb:\"8P8eO",":pF";":%\\&mb";":s4pLDFfO)",":<ka&%QI;d";":2rYk(",":rShX>\'H%+h0#N",":d!Ug";":)@..Njia",":>]<5<2*IBns@E9K!*,";":CuEo6Pcj",":YnV@P46D.0J8",":7bRE*F2bO",":=fV:M*R",":2U4ZZY0";":1I>\"Jn\\*",":/iIrj";":8)",":m)\"8";":hceh];!0,Ubr*i3!=(%r",":SiHEtC,";":1J1OBa+e",":*jq`qG7";":6Oog`ln;",":E&HCM8Ef_";":hcEE:Kk";":7N";":W8Z)<n`,",":o\\19W,,er";":>?4Ql",":cX4X";":dM",":WY";":?P45J";":pF5Z?",":o;PXdeP)p";":<[Mj",":C1.HL\"0",":T&0E#7/:o";":[-1XlFYSZ",":6Eh6cj:%$s#ohQ+P7O";":\".D7g1jI#",":]b)dZd,Hs<b_\\";":(\\";":n5q)J-M]@0R/";":#e";":%+0.C",":+eUqpgsC",":]8c7\"6uXj",":N)2fhdM";":_OUKJr6";":*#`V.+BAWo",":_sK9lkWn_RW`!2#";":W/VTUCcnsP[o:DC";":f.E+/j`",":CE3nuL*-";":c@m$ZjbDV";":9[%A";":MZ";":]t*";":,c",":0>5\\Vh\\";":\'aCT(TPI,B",":[fc";":YE@ki>F";":=]h2",":g237%a^$3";":*L\'[EK,",":Z#A",":91dFK";":f0N8NSQ";":6`p<",":dba,6l<DP";":X1,7O4#",":E5PR";":_)";":pGlO8Ct;K>=\\!>e\"0",":O^b8n";":\\-UW^,sr+PsTAR",":\\7e";":V3PIJ1BP$rOR";":?80jGbs";":N,";":YXcr_=V>";":4\\";":?iLLZ";":73",":T3!;F-K5V",":cSLUiE>d",":O?^6#qiR";":q63\'PblC7U",":c.JWY";":[L91i",":2,";":rW</MBl";":R(^u5KkNJ,",":%MIp7>Ctq";":CBHo",":/q)\"",":YdbE(ui",":G[";":DGo`";":;d/;*$rR";":Hj%)Tdo$&";":OEenW/b\\s";":QtAg\\";":WC8^4";":Wu,";":H&2B";"::]qm",":28";":d;h,CX`PYY!ege=",":QDjpAWFCMC";":<\"aoI";":Refb<(GR6G",":f9TqO";":kCU\"*,8ZHV[A0E/",":C@\"c?Fkp:%",":!7",":6YS\")h0s*",":9NG>",":\'Q<#naXXtBGdL5",":jBt1q:F=",":_h.*",":hC$r^3GWJ",":l\\9*";":(N%Eec%)";":+XHA7e:E\"?";":-8dKq\\QXGf_;$3Xrp+",":aT<";":YqnM;lm<k",":a[c\'";":DrqV3(+APKMNQEr4j0";":!Cjt^f&cuk[Y,K4";":<l",":TP]XA+XQXj"}for H,o in ipairs({{1,3072};{1,2524},{2525;3072}})do while o[1]<o[2]do g[o[1]],g[o[2]],o[1],o[2]=g[o[2]],g[o[1]],o[1]+1,o[2]-1 end end local function m(H)return g[H+58327]end do local H=table.concat local o=string.len local K=string.sub local c=math.floor local Z={R=23;u=4,L=28,D=68;["."]=34;k=30;C=71;["%"]=79,E=9;p=58;["2"]=53,J=80;["^"]=83,["="]=5,["$"]=3,["8"]=29;P=20;["9"]=1;_=65,T=12,I=67,e=8;H=7,["@"]=0;Y=2,[":"]=19;g=50,["&"]=82,G=77;S=40,["\""]=47;["\\"]=32,[">"]=22;a=31;s=33;["6"]=63;["5"]=18;["?"]=59;["["]=38,[","]=57,h=52,O=46,["`"]=26;["4"]=61;["("]=70,f=44;["!"]=41,["#"]=60;[")"]=48;m=25,["-"]=37,U=74,[";"]=13,X=21,["+"]=54,N=17,b=43,i=15,B=49;["1"]=6,["*"]=55;M=51;V=78,t=84;["\'"]=16;["3"]=45,Z=36;Q=14;A=64,["0"]=75;l=69;["<"]=76,W=62;["]"]=11,j=81,c=72,K=35;["/"]=39,o=27;d=10,r=24,["7"]=66;n=56,q=73;F=42}local W=table.insert local v=type local M=string.char local p={Q=56,y=4;v=0;X=35;b=32,["8"]=6;l=33,J=34;k=13,p=51;L=12;["6"]=2;D=41;R=57;K=54;W=42;["5"]=7;m=22;["+"]=50;r=3,u=60,V=10,M=27,s=58;C=63;["4"]=15;q=24;a=20,h=17;["0"]=40,w=37;c=21,f=61,["3"]=1,j=16,t=23,d=31;O=49;n=5;e=43,I=28;S=8;U=29,i=48;["1"]=18;o=46;P=39;H=44;A=52,["/"]=25;N=38;g=45;F=26,Z=53,["2"]=19,["9"]=36,Y=9;T=47,["7"]=14,G=59,x=30,E=62;z=55,B=11}local j=g for O=1,#j,1 do local C=j[O]if v(C)=="string"then local v=K(C,1,1)if v=="U"then C=K(C,2)local Z=o(C)local v={}local L=1 local G=0 local J=0 while L<=Z do local H=K(C,L,L)local o=p[H]if o then G=G+o*(64^((3-J)))J=J+1 if J==4 then J=0 local H=c(G/65536)local o=c((G%65536)/256)local K=G%256 W(v,M(H,o,K))G=0 end elseif H=="="then W(v,M(c(G/65536)))if L>=Z or K(C,L+1,L+1)~="="then W(v,M(c((G%65536)/256)))end break end L=L+1 end j[O]=H(v)elseif v==":"then C=K(C,2)local v=o(C)local p={}local L=1 while L<=v do local H=(v-L)+1 local o=H>=5 and 5 or H local j=0 local O=o>1 for H=0,4,1 do local c if H<o then local o=K(C,L+H,L+H)c=Z[o]if not c then O=false break end else c=84 end j=j*85+c end if O then local H=c(j/16777216)%256 local K=c(j/65536)%256 local Z=c(j/256)%256 local v=j%256 if o==5 then W(p,M(H,K,Z,v))elseif o==4 then W(p,M(H,K,Z))elseif o==3 then W(p,M(H,K))elseif o==2 then W(p,M(H))end end L=L+o end j[O]=H(p)end end end end local D,d do local H=string[m(-55325)]local o=math[m(-57721)]local K={}local c=2 local Z=0 local W=math[m(-57411)]local v={}local M=table[m(-57354)]for H=1,256,1 do v[H]=H end repeat local o=W(1,#v)local c=M(v,o)K[c]=H(c-1)until#v==0 local p={}local function j()if#p==0 then Z=((Z*1+22804824806133))%35184372088832 repeat c=(c*47)%257 until c~=1 local H=c%32 local K=13-((c-H))/32 local W=(o(Z/2^K)%4294967296)/2^H local v=o((W%1)*4294967296)+o(W)local M=v%65536 local j=((v-M))/65536 p={M%256,((M-M%256))/256;j%256,((j-j%256))/256}end local H=#p local K=p[H]p[H]=nil return K end local O={}D=setmetatable({},{[m(-57871)]=O,[m(-56748)]=nil})function d(H,o)local W=O if(W[o])then return o else p={}local v=K Z=o%35184372088832 c=o%255+2 local M=#H W[o]=m(-57247)local O=19 local C=m(-57247)for o=1,M,1 do O=(((string[m(-57122)](H,o)+j())+O))%256 C=C..v[O+1]end W[o]=C end return o end end local H={[D[d(m(-56405),30173066063300)]]=Drawing[D[d(m(-56739),1226250585206)]][D[d(m(-58105),301730660633)]],[D[d(m(-56670),22052108816441)]]=13,[D[d(m(-57573),17095565295153)]]={[D[d(m(-55850),9604913734385)]]={},[D[d(m(-56339),28224165177005)]]={},[D[d(m(-57616),3218102455221)]]={};[D[d(m(-56788),15763011025240)]]={};[D[d(m(-55610),22523495862768)]]={}},[D[d(m(-57003),34243745545363)]]={[D[d(m(-58265),23252588811415)]]={},[D[d(m(-56265),27817204606258)]]={},[D[d(m(-56593),19818657663001)]]={};[D[d(m(-56528),1420603786539)]]={};[D[d(m(-57252),31011684020433)]]={}},[D[d(m(-58319),2405255088320)]]={[D[d(m(-57016),10442457916925)]]=0;[D[d(m(-56961),34659296312854)]]=0,[D[d(m(-56138),2626452654478)]]=0;[D[d(m(-56445),633527009870)]]=0,[D[d(m(-57587),901970658120)]]=0},[D[d(m(-56103),19958248360091)]]={};[D[d(m(-56882),18154307043851)]]={};[D[d(m(-58138),22803751031541)]]=true,[D[d(m(-55696),25352891915323)]]=true,[D[d(m(-57191),13547814039881)]]={},[D[d(m(-57764),13374936330408)]]=0}H[D[d(m(-57675),930962572131)]]=nil H[D[d(m(-58195),31711785055069)]]=nil H[D[d(m(-57655),7385421650654)]]=false H[D[d(m(-57185),30305140338239)]]=1 H[D[d(m(-56320),19206606144991)]]=D[d(m(-57247),33928055815021)]H[D[d(m(-56173),22102576222312)]]=false H[D[d(m(-56076),13112935329716)]]=22 H[D[d(m(-57628),33406201362823)]]={[D[d(m(-56782),8137063865754)]]={[D[d(m(-57069),18325037204138)]]=1;[D[d(m(-55622),8191826369997)]]=false;[D[d(m(-57047),31573268132572)]]=false},[D[d(m(-55764),13184878227447)]]={[D[d(m(-57181),14501325878465)]]=2;[D[d(m(-55758),26187214774084)]]=false;[D[d(m(-57634),12508400233857)]]=false};[D[d(m(-55286),13238566957097)]]={[D[d(m(-56270),7705406479368)]]=4;[D[d(m(-57993),2502968576283)]]=false,[D[d(m(-58304),20685193759552)]]=false},[D[d(m(-57508),23745451349602)]]={[D[d(m(-56667),15178877646648)]]=8,[D[d(m(-57135),28914602240304)]]=false,[D[d(m(-57914),1183299601486)]]=false},[D[d(m(-58288),23249367487636)]]={[D[d(m(-56881),9024001679572)]]=9;[D[d(m(-55801),26132452269841)]]=false,[D[d(m(-56476),29911065062608)]]=false};[D[d(m(-56266),6010990171614)]]={[D[d(m(-56856),26599544217796)]]=13;[D[d(m(-57307),15137000437521)]]=false;[D[d(m(-56798),14187783697309)]]=false},[D[d(m(-57035),5028486419019)]]={[D[d(m(-57807),17935257026879)]]=16,[D[d(m(-56711),16385800289180)]]=false,[D[d(m(-56059),17118114561606)]]=false};[D[d(m(-58176),2949658806971)]]={[D[d(m(-56953),29394579483375)]]=17;[D[d(m(-57907),31000946274503)]]=false,[D[d(m(-56441),19332237772372)]]=false};[D[d(m(-57988),17903043789089)]]={[D[d(m(-56028),3384537517136)]]=18,[D[d(m(-56500),12690941914667)]]=false;[D[d(m(-55306),25237998033872)]]=false};[D[d(m(-56682),256632127727)]]={[D[d(m(-55879),4494820446298)]]=19;[D[d(m(-55359),3010863958772)]]=false,[D[d(m(-57301),31071815397641)]]=false};[D[d(m(-57177),3246020594639)]]={[D[d(m(-57412),11097460418655)]]=20;[D[d(m(-55296),22047813718069)]]=false,[D[d(m(-57737),22971259868049)]]=false},[D[d(m(-57269),17201868979860)]]={[D[d(m(-58281),12427867139382)]]=27,[D[d(m(-56852),27899885249919)]]=false,[D[d(m(-55275),14990967092873)]]=false},[D[d(m(-55868),670035346032)]]={[D[d(m(-58325),7586217499545)]]=32,[D[d(m(-56673),29602891754417)]]=false;[D[d(m(-55888),13776528028190)]]=false};[D[d(m(-55486),25949910589031)]]={[D[d(m(-55566),13138705919948)]]=33,[D[d(m(-55752),33554382256657)]]=false;[D[d(m(-55732),25379736280148)]]=false},[D[d(m(-57830),16771285368067)]]={[D[d(m(-58157),27624998954111)]]=34;[D[d(m(-57836),13636937331100)]]=false;[D[d(m(-55918),26117419425539)]]=false};[D[d(m(-55976),16022864476746)]]={[D[d(m(-55481),24454142580982)]]=35,[D[d(m(-56529),7313478752923)]]=false;[D[d(m(-57464),12951869140766)]]=false};[D[d(m(-56810),3828006424045)]]={[D[d(m(-57690),27049455772263)]]=36,[D[d(m(-56343),127779176567)]]=false,[D[d(m(-56870),20130052294971)]]=false},[D[d(m(-55563),27971828147650)]]={[D[d(m(-57440),21067457514660)]]=37;[D[d(m(-56951),17539034202062)]]=false,[D[d(m(-58059),6408286771024)]]=false};[D[d(m(-55974),18816825967732)]]={[D[d(m(-56166),3840891719161)]]=38;[D[d(m(-56910),16156012526278)]]=false,[D[d(m(-55913),27414539133883)]]=false},[D[d(m(-57579),15524633065594)]]={[D[d(m(-56995),31431529886296)]]=39,[D[d(m(-58259),28487239952290)]]=false,[D[d(m(-55943),34504672771462)]]=false},[D[d(m(-57029),34984650014533)]]={[D[d(m(-55525),467091947955)]]=40;[D[d(m(-55536),12527728176531)]]=false;[D[d(m(-57280),31311267131880)]]=false};[D[d(m(-58119),28792191936702)]]={[D[d(m(-56998),10353334625706)]]=45;[D[d(m(-57502),1048004002768)]]=false;[D[d(m(-57598),34926666186511)]]=false},[D[d(m(-57718),4105040269039)]]={[D[d(m(-55544),22650201264742)]]=46,[D[d(m(-57284),1898433480424)]]=false,[D[d(m(-55496),9925972337692)]]=false};[D[d(m(-56761),14843859973632)]]={[D[d(m(-57828),15055393568453)]]=48;[D[d(m(-57413),33079773886551)]]=false,[D[d(m(-57756),31457300476528)]]=false},[D[d(m(-56492),28697699772518)]]={[D[d(m(-56725),15315247019959)]]=49;[D[d(m(-57529),25384031378520)]]=false;[D[d(m(-55578),1140348617766)]]=false},[D[d(m(-56054),9714438742871)]]={[D[d(m(-55875),16192520862440)]]=50,[D[d(m(-57015),11539855550971)]]=false,[D[d(m(-56462),16458816961504)]]=false},[D[d(m(-56412),10859082459009)]]={[D[d(m(-58151),1270275343519)]]=51;[D[d(m(-56560),17995388404087)]]=false,[D[d(m(-56378),13683109638599)]]=false};[D[d(m(-56687),18137126650363)]]={[D[d(m(-55559),12341965171942)]]=52,[D[d(m(-55611),7904054779073)]]=false,[D[d(m(-56918),31282275217869)]]=false};[D[d(m(-55895),9204395811196)]]={[D[d(m(-55639),30764715864043)]]=53;[D[d(m(-55518),30338427350622)]]=false;[D[d(m(-56923),30570362662710)]]=false},[D[d(m(-56372),3241725496267)]]={[D[d(m(-56139),25742672092582)]]=54;[D[d(m(-55260),9471765684853)]]=false,[D[d(m(-56367),22358134575446)]]=false},[D[d(m(-56696),2050909472630)]]={[D[d(m(-56017),12296866639036)]]=55,[D[d(m(-55786),32479533889064)]]=false;[D[d(m(-56205),34528295812508)]]=false};[D[d(m(-55301),21379925921223)]]={[D[d(m(-57390),14469112640675)]]=56,[D[d(m(-55784),6910813280548)]]=false;[D[d(m(-55768),772043932367)]]=false},[D[d(m(-57501),6859272100084)]]={[D[d(m(-55870),22823078974215)]]=57;[D[d(m(-57134),3701301022071)]]=false;[D[d(m(-55429),20229913332120)]]=false};[D[d(m(-56141),9507200246422)]]={[D[d(m(-57557),17709764362349)]]=65,[D[d(m(-57041),15843544119715)]]=false;[D[d(m(-56752),12714564955713)]]=false};[D[d(m(-58099),28137189434972)]]={[D[d(m(-56677),6621967915031)]]=66,[D[d(m(-57687),26646790299888)]]=false;[D[d(m(-57313),28515158091708)]]=false},[D[d(m(-57262),34361860750593)]]={[D[d(m(-56175),6364262012711)]]=67;[D[d(m(-56362),32443025552902)]]=false,[D[d(m(-56513),26362240032743)]]=false};[D[d(m(-55741),9753094628219)]]={[D[d(m(-55562),23922624157447)]]=68,[D[d(m(-57219),34010736458682)]]=false;[D[d(m(-57858),26679003537678)]]=false},[D[d(m(-56483),18269200925302)]]={[D[d(m(-57740),1931720492807)]]=69;[D[d(m(-56745),28632199522345)]]=false,[D[d(m(-58217),16683235851441)]]=false},[D[d(m(-57051),2748862958080)]]={[D[d(m(-57749),28940372830536)]]=70;[D[d(m(-58182),17046171663875)]]=false,[D[d(m(-58263),21862050713480)]]=false};[D[d(m(-56774),32305582404998)]]={[D[d(m(-56925),6281581369050)]]=71,[D[d(m(-56924),22036002197546)]]=false,[D[d(m(-56070),1860851369669)]]=false},[D[d(m(-58149),20890284706815)]]={[D[d(m(-55967),21751451930401)]]=72,[D[d(m(-57152),27346891334524)]]=false;[D[d(m(-56554),20505873402521)]]=false};[D[d(m(-56867),30897863913575)]]={[D[d(m(-55614),23774443263613)]]=73;[D[d(m(-55892),9599544861420)]]=false;[D[d(m(-55770),31329521299961)]]=false},[D[d(m(-56431),6166687487599)]]={[D[d(m(-55859),11039476590633)]]=74,[D[d(m(-56542),7104092707288)]]=false,[D[d(m(-57482),9794971837346)]]=false},[D[d(m(-58181),13043139981171)]]={[D[d(m(-57012),35017937026916)]]=75,[D[d(m(-55721),11157591795863)]]=false,[D[d(m(-56243),19889526786139)]]=false},[D[d(m(-55804),9805709583276)]]={[D[d(m(-55588),34033285725135)]]=76,[D[d(m(-57180),10807541278545)]]=false;[D[d(m(-55467),31468038222458)]]=false},[D[d(m(-56599),11999431076775)]]={[D[d(m(-57107),27788212692247)]]=77,[D[d(m(-56482),11840512437011)]]=false,[D[d(m(-57705),26020779712169)]]=false};[D[d(m(-57362),25827500285429)]]={[D[d(m(-56755),22492356399571)]]=78,[D[d(m(-55511),9107756097826)]]=false,[D[d(m(-56467),31313414681066)]]=false};[D[d(m(-57966),19006884070693)]]={[D[d(m(-57312),14757958006192)]]=79,[D[d(m(-55736),14448710923408)]]=false,[D[d(m(-56293),24423003117785)]]=false},[D[d(m(-58074),4929699156463)]]={[D[d(m(-57365),7365019933387)]]=80,[D[d(m(-58096),13759347634702)]]=false;[D[d(m(-56450),12147611970609)]]=false};[D[d(m(-55878),16959195921842)]]={[D[d(m(-56133),2849797769822)]]=81;[D[d(m(-55706),25840385580545)]]=false;[D[d(m(-56208),17199721430674)]]=false};[D[d(m(-58155),13504863056161)]]={[D[d(m(-57618),28758904924319)]]=82,[D[d(m(-55861),31019200442584)]]=false;[D[d(m(-57372),32851059898242)]]=false},[D[d(m(-55304),18477513196344)]]={[D[d(m(-57382),19762821384165)]]=83,[D[d(m(-57450),12537392147868)]]=false,[D[d(m(-56180),26304256204721)]]=false};[D[d(m(-57244),10022612051062)]]={[D[d(m(-56160),32725428270861)]]=84;[D[d(m(-57386),19456795625160)]]=false;[D[d(m(-55755),18281012445825)]]=false};[D[d(m(-58224),2824027179590)]]={[D[d(m(-57787),21746083057436)]]=85;[D[d(m(-57507),1473218741596)]]=false;[D[d(m(-55603),2410623961285)]]=false},[D[d(m(-57310),12848786779838)]]={[D[d(m(-56986),1139274843173)]]=86;[D[d(m(-57488),28086722029101)]]=false,[D[d(m(-56128),13410370891977)]]=false},[D[d(m(-57215),33135610165387)]]={[D[d(m(-55506),34478902181230)]]=87;[D[d(m(-56095),9207617134975)]]=false;[D[d(m(-57936),2083122710420)]]=false},[D[d(m(-55499),26161444183852)]]={[D[d(m(-57471),33207553063118)]]=88,[D[d(m(-56574),22219617652949)]]=false;[D[d(m(-55787),2036950402921)]]=false};[D[d(m(-56567),26216206688095)]]={[D[d(m(-55394),34456352914777)]]=89,[D[d(m(-57309),10729155733256)]]=false;[D[d(m(-56090),35069478207380)]]=false},[D[d(m(-57626),5455848707033)]]={[D[d(m(-57689),26732692267328)]]=90;[D[d(m(-57038),30399632502423)]]=false;[D[d(m(-56936),28969364744547)]]=false};[D[d(m(-56626),19304319632954)]]={[D[d(m(-56027),28298255623922)]]=112,[D[d(m(-57492),18209069548094)]]=false;[D[d(m(-57744),3970818444914)]]=false};[D[d(m(-57543),3367357123648)]]={[D[d(m(-55972),14713933247879)]]=113,[D[d(m(-56023),14236103553994)]]=false;[D[d(m(-56749),27534801888299)]]=false};[D[d(m(-58229),19030507111739)]]={[D[d(m(-56937),13296550785119)]]=114;[D[d(m(-57590),23411507451179)]]=false,[D[d(m(-55871),17745198923918)]]=false},[D[d(m(-56510),3230987750337)]]={[D[d(m(-58205),31343480369670)]]=115;[D[d(m(-57049),24133083977675)]]=false;[D[d(m(-55874),20940752112686)]]=false};[D[d(m(-57528),30686330318754)]]={[D[d(m(-57256),30335206026843)]]=116;[D[d(m(-56463),14876073211422)]]=false,[D[d(m(-56123),23498483193212)]]=false},[D[d(m(-56418),3330848787486)]]={[D[d(m(-58275),35170413019123)]]=117;[D[d(m(-55331),7554004261755)]]=false,[D[d(m(-57255),21533475688022)]]=false},[D[d(m(-57522),27684056556726)]]={[D[d(m(-56700),34680771804714)]]=118;[D[d(m(-55449),23233260868741)]]=false,[D[d(m(-57032),1073774593)]]=false},[D[d(m(-57260),30189172682195)]]={[D[d(m(-55494),8725492342718)]]=119,[D[d(m(-55421),31694604661581)]]=false;[D[d(m(-55475),29241029716576)]]=false},[D[d(m(-55370),28264968611539)]]={[D[d(m(-56625),28489387501476)]]=120,[D[d(m(-55533),31101881086245)]]=false,[D[d(m(-55443),10295350797684)]]=false};[D[d(m(-56015),32992798144518)]]={[D[d(m(-55946),20888137157629)]]=121,[D[d(m(-56547),25977828728449)]]=false;[D[d(m(-58092),28431403673454)]]=false};[D[d(m(-56701),2242041350184)]]={[D[d(m(-56319),16674645654697)]]=122;[D[d(m(-57804),17467091304331)]]=false,[D[d(m(-57943),28698773547111)]]=false},[D[d(m(-55347),26730544718142)]]={[D[d(m(-57604),18868367148196)]]=123;[D[d(m(-57702),33020716283936)]]=false,[D[d(m(-56714),12731745349201)]]=false}}H[D[d(m(-55520),23526401332630)]]=nil H[D[d(m(-56072),15697510775067)]]=nil H[D[d(m(-57958),23414728774958)]]={}H[D[d(m(-55734),7419782437630)]]=nil H[D[d(m(-55896),31239324234149)]]=nil H[D[d(m(-58024),22771537793751)]]={}H[D[d(m(-57924),10858008684416)]]=false H[D[d(m(-56944),2676920060349)]]=D[d(m(-56347),10873041528718)]H[D[d(m(-57495),4654812860655)]]=nil H[D[d(m(-57879),7421929986816)]]=0 H[D[d(m(-57867),17078384901665)]]=0 H[D[d(m(-56402),5759726916852)]]=nil H[D[d(m(-57580),1531202569618)]]=nil H[D[d(m(-58274),27985787217359)]]={}H[D[d(m(-55685),27205153088248)]]={}H[D[d(m(-56618),24278043547730)]]={}H[D[d(m(-57678),8376515599993)]]=nil H[D[d(m(-58297),22903612068690)]]=0 H[D[d(m(-55365),12243177909386)]]=500 H[D[d(m(-58014),8735156314055)]]=52 H[D[d(m(-56359),29068152007103)]]=false H[D[d(m(-56037),9342912733693)]]=false H[D[d(m(-57581),31684940690244)]]=D[d(m(-57974),7722586872856)]H[D[d(m(-58160),29571752291220)]]=1 H[D[d(m(-55480),35014715703137)]]=0 H[D[d(m(-56150),25468859571367)]]=false H[D[d(m(-57930),25426982362240)]]={}H[D[d(m(-56211),13441510355174)]]={}H[D[d(m(-55328),10735598380814)]]={}H[D[d(m(-57904),25556909087993)]]={}H[D[d(m(-55633),24948078893762)]]=D[d(m(-56839),2400959989948)]H[D[d(m(-57785),15115524945661)]]=D[d(m(-57845),15699658324253)]H[D[d(m(-56234),12029496765379)]]={}H[D[d(m(-56938),20262126569910)]]={}H[D[d(m(-58108),11919971756893)]]=false H[D[d(m(-57866),16588743687257)]]=0 H[D[d(m(-55735),30304066563646)]]=3 H[D[d(m(-58303),23625188595186)]]=0 H[D[d(m(-57172),27181530047202)]]={}H[D[d(m(-57578),33910875421533)]]=false H[D[d(m(-55713),4870641553848)]]=false H[D[d(m(-55924),6097965913647)]]=D[d(m(-55291),16870072630623)]H[D[d(m(-56198),19930330220673)]]=false H[D[d(m(-55862),2670477412791)]]=D[d(m(-56366),13249304703027)]H[D[d(m(-55759),2361230330007)]]=420 H[D[d(m(-56563),16852892237135)]]=500 H[D[d(m(-57311),17918076633391)]]=20 H[D[d(m(-55645),34200794561643)]]=100 H[D[d(m(-57025),13006631645009)]]=10 H[D[d(m(-56818),34430582324545)]]=36 H[D[d(m(-56841),27004357239357)]]=10 H[D[d(m(-55400),34861165936338)]]=D[d(m(-57182),26021853486762)]H[D[d(m(-56894),5990588454347)]]={[D[d(m(-57815),19266737522199)]]={[D[d(m(-57524),28333690185491)]]=Color3[D[d(m(-57868),5960522765743)]](0,122,255),[D[d(m(-56575),8688984006556)]]=Color3[D[d(m(-57521),9144264433988)]](255,59,48);[D[d(m(-57360),25274506370034)]]=Color3[D[d(m(-55333),22861734859563)]](236,236,236),[D[d(m(-58215),1410939815202)]]=Color3[D[d(m(-56049),17601313128456)]](28,28,28),[D[d(m(-57863),6021727917544)]]=Color3[D[d(m(-56890),23569352316350)]](142,142,147),[D[d(m(-57548),5029560193612)]]=Color3[D[d(m(-57697),28350870578979)]](198,198,203),[D[d(m(-55702),3587480915213)]]=Color3[D[d(m(-56778),9396601463343)]](212,212,216);[D[d(m(-55592),13627273359763)]]=Color3[D[d(m(-56408),12295792864443)]](218,218,223),[D[d(m(-57299),17107376815676)]]=Color3[D[d(m(-57113),18695489438723)]](250,250,252);[D[d(m(-55504),33599480789563)]]=Color3[D[d(m(-56341),25725491699094)]](175,175,180),[D[d(m(-57326),20737808714609)]]=Color3[D[d(m(-57837),34170728873039)]](150,150,160)};[D[d(m(-58113),31841711780822)]]={[D[d(m(-56723),18292823966348)]]=Color3[D[d(m(-56268),33936646011765)]](10,132,255);[D[d(m(-55305),22757578724042)]]=Color3[D[d(m(-57124),14031012606731)]](255,69,58),[D[d(m(-57517),24804193098300)]]=Color3[D[d(m(-55307),25493556387006)]](28,28,30);[D[d(m(-56738),16808867478822)]]=Color3[D[d(m(-56494),14179193500565)]](255,255,255);[D[d(m(-56196),25013579143935)]]=Color3[D[d(m(-57754),4277917978512)]](99,99,102),[D[d(m(-57272),22163781374113)]]=Color3[D[d(m(-57224),5375315612558)]](56,56,58);[D[d(m(-55538),4700985168154)]]=Color3[D[d(m(-55882),33923760716649)]](44,44,46),[D[d(m(-55308),13700290032087)]]=Color3[D[d(m(-55354),5478397973486)]](44,44,46);[D[d(m(-57370),30022737620280)]]=Color3[D[d(m(-56325),31779432854428)]](36,36,38);[D[d(m(-55999),15077942834906)]]=Color3[D[d(m(-58101),634600784463)]](18,18,18),[D[d(m(-56907),23939804550935)]]=Color3[D[d(m(-56516),4187720912700)]](5,5,5)},[D[d(m(-56737),30654117080964)]]={[D[d(m(-56298),30773306060787)]]=Color3[D[d(m(-56899),6735788021889)]](137,180,250),[D[d(m(-57745),15456985266235)]]=Color3[D[d(m(-57190),2211975661580)]](243,139,168),[D[d(m(-55489),24747283044871)]]=Color3[D[d(m(-55935),32022105912446)]](30,30,46);[D[d(m(-55283),14795540116947)]]=Color3[D[d(m(-55934),15900454173144)]](205,214,244),[D[d(m(-55756),10764590294825)]]=Color3[D[d(m(-55258),17257705258696)]](166,173,200);[D[d(m(-56932),14883589633573)]]=Color3[D[d(m(-55819),8290613632553)]](54,58,79);[D[d(m(-57791),2060573443967)]]=Color3[D[d(m(-55321),7457364548385)]](45,50,68),[D[d(m(-55761),33396537391486)]]=Color3[D[d(m(-57062),15956290451980)]](49,50,68),[D[d(m(-57800),4025580949157)]]=Color3[D[d(m(-57920),20628283706123)]](36,39,58);[D[d(m(-57682),35003977957207)]]=Color3[D[d(m(-55808),32623419684526)]](17,17,27);[D[d(m(-57751),9321437241833)]]=Color3[D[d(m(-56858),18322889654952)]](5,5,10)};[D[d(m(-57423),14992040867466)]]={[D[d(m(-56115),26450289549369)]]=Color3[D[d(m(-55615),34113818819610)]](189,147,249);[D[d(m(-57979),9578069369560)]]=Color3[D[d(m(-55621),13170919157738)]](255,85,85);[D[d(m(-55343),31751514715010)]]=Color3[D[d(m(-56686),25363629661253)]](40,42,54),[D[d(m(-57851),29559940770697)]]=Color3[D[d(m(-56038),32027474785411)]](248,248,242);[D[d(m(-55777),16204332382963)]]=Color3[D[d(m(-56731),31464816898679)]](98,114,164),[D[d(m(-57408),26013263290018)]]=Color3[D[d(m(-57453),2317205571694)]](68,71,90),[D[d(m(-55789),3529497087191)]]=Color3[D[d(m(-56622),23128030958627)]](58,60,78);[D[d(m(-56954),13979471426267)]]=Color3[D[d(m(-57020),9432036024912)]](68,71,90);[D[d(m(-56203),32102639006921)]]=Color3[D[d(m(-56149),4332680482755)]](48,50,65),[D[d(m(-57052),28812593653969)]]=Color3[D[d(m(-56389),34123482790947)]](21,22,30);[D[d(m(-57376),22381757616492)]]=Color3[D[d(m(-55377),9829332624322)]](5,5,8)};[D[d(m(-56871),32533222618714)]]={[D[d(m(-57267),9132452913465)]]=Color3[D[d(m(-56434),33635989125725)]](136,192,208),[D[d(m(-55737),25454900501658)]]=Color3[D[d(m(-55634),16515727014933)]](191,97,106),[D[d(m(-58114),25698647334269)]]=Color3[D[d(m(-57910),659297600102)]](46,52,64),[D[d(m(-55978),25901590732346)]]=Color3[D[d(m(-55389),33336406014278)]](236,239,244);[D[d(m(-58326),13741093466621)]]=Color3[D[d(m(-57419),29126135835125)]](129,161,193),[D[d(m(-56183),25472080895146)]]=Color3[D[d(m(-56762),13711027778017)]](67,76,94),[D[d(m(-58276),31514210529957)]]=Color3[D[d(m(-57103),23584385160652)]](59,66,82);[D[d(m(-57059),19775706679281)]]=Color3[D[d(m(-55396),16189299538661)]](67,76,94);[D[d(m(-55505),31144832069965)]]=Color3[D[d(m(-57265),8239072452089)]](59,66,82);[D[d(m(-55472),30571436437303)]]=Color3[D[d(m(-56213),26641421426923)]](36,41,51),[D[d(m(-57371),24730102651383)]]=Color3[D[d(m(-57921),20076363565321)]](10,12,16)},[D[d(m(-55869),26156075310887)]]={[D[d(m(-55295),25563351735551)]]=Color3[D[d(m(-56244),9982882391121)]](235,111,146);[D[d(m(-57430),19646853728121)]]=Color3[D[d(m(-55926),35072699531159)]](235,111,146);[D[d(m(-57957),3210586033070)]]=Color3[D[d(m(-55754),17182541037186)]](25,23,36);[D[d(m(-58144),941700318061)]]=Color3[D[d(m(-57050),14408981263467)]](224,222,244);[D[d(m(-56240),7250126051936)]]=Color3[D[d(m(-57212),23401843479842)]](110,106,134);[D[d(m(-57534),6773370132644)]]=Color3[D[d(m(-57480),1569858454966)]](64,61,82),[D[d(m(-55941),8496778354409)]]=Color3[D[d(m(-57216),25437720108170)]](57,53,74);[D[d(m(-55376),19976502528172)]]=Color3[D[d(m(-56309),5260421731107)]](64,61,82),[D[d(m(-57887),21262884490586)]]=Color3[D[d(m(-57288),17402664828751)]](42,39,60);[D[d(m(-57154),34998609084242)]]=Color3[D[d(m(-55652),23799140079252)]](14,12,23),[D[d(m(-57098),17623862394909)]]=Color3[D[d(m(-57083),23649885410825)]](5,4,10)},[D[d(m(-55748),33544718285320)]]={[D[d(m(-56040),1719113123393)]]=Color3[D[d(m(-55423),3394201488473)]](59,130,246),[D[d(m(-57194),30645526884220)]]=Color3[D[d(m(-57977),18900580385986)]](239,68,68);[D[d(m(-57666),29707047889938)]]=Color3[D[d(m(-56506),23960206268202)]](17,17,19),[D[d(m(-57356),13052803952508)]]=Color3[D[d(m(-55439),27394137416616)]](232,232,236),[D[d(m(-55851),13723913073133)]]=Color3[D[d(m(-57741),26447068225590)]](90,90,98),[D[d(m(-55447),16972081216958)]]=Color3[D[d(m(-58055),4648370213097)]](42,42,46);[D[d(m(-57348),10258842461522)]]=Color3[D[d(m(-55900),2967912975052)]](34,34,38);[D[d(m(-58200),21141547961577)]]=Color3[D[d(m(-57397),26081984863970)]](20,20,22);[D[d(m(-55824),22054256365627)]]=Color3[D[d(m(-55670),14793392567761)]](26,26,29);[D[d(m(-56120),2710207072732)]]=Color3[D[d(m(-58081),11617167321667)]](13,13,15);[D[d(m(-56136),13929004020396)]]=Color3[D[d(m(-56069),26120640749318)]](0,0,0)}}H[D[d(m(-58139),18115651158503)]]=nil H[D[d(m(-56227),32828510631789)]]=nil H[D[d(m(-57603),16093733599884)]]={}H[D[d(m(-58310),3169782598536)]]=1 H[D[d(m(-55938),15730797787450)]]={}local o local K K,o=H,Color3 local c=o[D[d(m(-57565),17351123648287)]](255,95,86)local Z=Color3[D[d(m(-55749),30154811895219)]](196,68,62)local W=Color3[D[d(m(-57377),7040740006301)]](255,189,46)local v=Color3[D[d(m(-56988),19135737021853)]](196,146,30)local M=Color3[D[d(m(-56628),30325542055506)]](39,201,63)local p=Color3[D[d(m(-57432),33609144760900)]](22,160,44)local j=K j[D[d(m(-56063),26299961106349)]]=j[D[d(m(-55814),380116205922)]][j[D[d(m(-56820),8075858713953)]]]local function O(H,o)return type(H)==D[d(m(-58312),9136748011837)]and(H==H and H)or(o or 0)end local function C(H,o,K)return H+((o-H))*K end local function L(H,o,K)if H>K then return K end if H<o then return o end return H end local function G(H,o,K)return Color3[D[d(m(-55676),16646727515279)]](C(H[D[d(m(-56919),11708438162072)]],o[D[d(m(-56046),18259536953965)]],K),C(H[D[d(m(-57585),13001262772044)]],o[D[d(m(-55458),34368303398151)]],K),(C(H[D[d(m(-55708),689363288706)]],o[D[d(m(-57244),27213743284992)]],K)))end local function J(H)return 1-((1-H))*((1-H))end local function V(H)local o=O(H)local K=math[D[d(m(-57519),32957363582949)]](o)if o==K then return tostring(K)end return tostring(math[D[d(m(-56360),17944920998216)]](o*100+.5)/100)end local h={[D[d(m(-56253),2456796268784)]]=true;[D[d(m(-58225),1805015090833)]]=true;[D[d(m(-57350),6406139221838)]]=true;[D[d(m(-58164),31314488455659)]]=true;[D[d(m(-56887),34780632841863)]]=true;[D[d(m(-56455),33683235207817)]]=true,[D[d(m(-57485),33938793560951)]]=true;[D[d(m(-56484),20476881488510)]]=true;[D[d(m(-57325),6013137720800)]]=true}local n={[D[d(m(-57339),17733387403395)]]=true;[D[d(m(-58115),15308804372401)]]=true;[D[d(m(-55264),8465638891212)]]=true;[D[d(m(-57636),13444731678953)]]=true,[D[d(m(-56770),33524316568053)]]=true;[D[d(m(-57728),32048950277271)]]=true;[D[d(m(-56514),19679066965911)]]=true,[D[d(m(-57146),33350365083987)]]=true,[D[d(m(-57793),20226692008341)]]=true,[D[d(m(-56147),15217533531996)]]=true,[D[d(m(-57909),27923508290965)]]=true;[D[d(m(-55947),33724038642351)]]=true}local E={[D[d(m(-57672),2411697735878)]]=true,[D[d(m(-56000),13263263772736)]]=true;[D[d(m(-55672),23851755034309)]]=true;[D[d(m(-57037),5989514679754)]]=true;[D[d(m(-55655),27673318810796)]]=true,[D[d(m(-55259),11310067788069)]]=true;[D[d(m(-56912),25090890914631)]]=true,[D[d(m(-57351),24173887412209)]]=true,[D[d(m(-57235),29787580984413)]]=true;[D[d(m(-57345),13206353719307)]]=true,[D[d(m(-56421),18038339387807)]]=true;[D[d(m(-57323),6798066948283)]]=true,[D[d(m(-57566),20559562132171)]]=true;[D[d(m(-57434),16946310626726)]]=true,[D[d(m(-57946),34196499463271)]]=true,[D[d(m(-56020),9581290693339)]]=true,[D[d(m(-57149),21239261449540)]]=true}local R={[D[d(m(-55809),27187972694760)]]=true;[D[d(m(-58305),24415486695634)]]=true,[D[d(m(-56352),13821626561096)]]=true}local r=game:GetService(D[d(m(-57058),5835964912955)])local N={}local I=0 local function q(H,o,K,c)local Z=o or D[d(m(-57247),33964564151183)]local W=tostring(K or H[D[d(m(-56261),18544087221110)]])..(D[d(m(-55895),18085585469899)]..(tostring(c or H[D[d(m(-57667),13364198584478)]])..(D[d(m(-56608),9587733340897)]..Z)))local v=N[W]if v then return v end local M=H:_GetTextBounds(Z,K,c)if I>=600 then N={}I=0 end N[W]=M I=I+1 return M end local function Q(H,o)return 1-((1-H))^((o*60))end local S=K local function w(H,o,K)local c=math[D[d(m(-55701),25103776209747)]](H,o,K)local Z=0 local W=c-math[D[d(m(-57398),26933488116219)]](H,o,K)local v=0 if c>0 then v=W/c end if W>0 then if c==H then Z=((o-K))/W if o<K then Z=Z+6 end elseif c==o then Z=((K-H))/W+2 elseif c==K then Z=((H-o))/W+4 end Z=Z/6 end return Z,v,c end S[D[d(m(-57847),27758147003643)]]=0 S[D[d(m(-57523),27008652337729)]]={}pcall(function()local H=r[D[d(m(-56800),14862114141713)]]if H then local o=H:GetMouse()if o then table[D[d(m(-56857),34201868336236)]](S[D[d(m(-57816),14817015608807)]],o[D[d(m(-57960),12644769607168)]]:Connect(function()local H=K H[D[d(m(-58142),15815625980297)]]=H[D[d(m(-55955),23953763620644)]]+60 end))table[D[d(m(-57716),11717028358816)]](S[D[d(m(-58163),10021538276469)]],o[D[d(m(-57769),12789729177223)]]:Connect(function()local H=K H[D[d(m(-56215),29771474365518)]]=H[D[d(m(-57954),6306278184689)]]-60 end))end end end)local function F()return type(writefile)==D[d(m(-56184),18503283786576)]and type(readfile)==D[d(m(-57919),31008462696654)]end local function X(H)if type(makefolder)==D[d(m(-56262),29192709859891)]then pcall(makefolder,H)end end local function u(H)if type(isfile)==D[d(m(-56962),29505178266454)]then local o,K=pcall(isfile,H)return o and K end return false end local function f(H,o)if type(writefile)==D[d(m(-55369),1970376378155)]then pcall(writefile,H,o)end end local function A(H)if type(readfile)==D[d(m(-56443),26488945434717)]then local o,K=pcall(readfile,H)if o then return K end end return nil end local function P(H)if type(listfiles)==D[d(m(-57156),30620830068581)]then local o,K=pcall(listfiles,H)if o and type(K)==D[d(m(-55465),22095059800161)]then return K end end return{}end local function b(H)local o=game:GetService(D[d(m(-55287),11375568038242)])local K,c=pcall(function()return o:JSONEncode(H)end)return K and c or nil end local l=K local function y(H,o,K,c)H[D[d(m(-55795),32970248878065)]]=H[D[d(m(-58320),23980607985469)]]or{}table[D[d(m(-56776),4771854291292)]](H[D[d(m(-55886),30826994790437)]],{[D[d(m(-55468),12312973257931)]]=o;[D[d(m(-57801),11691257768584)]]=K,[D[d(m(-56280),7198584871472)]]=c[D[d(m(-57948),18910244357323)]];[D[d(m(-56568),34003220036531)]]=c})end local function k(H)local o=game:GetService(D[d(m(-56364),2334385965182)])local K,c=pcall(function()return o:JSONDecode(H)end)return K and c or nil end l[D[d(m(-58085),3442521345158)]]=y local function t(H)if not H then return nil end return string[D[d(m(-56552),1212291515497)]](D[d(m(-55497),19582427252541)],math[D[d(m(-57442),7683930987508)]](H[D[d(m(-58187),13240714506283)]]*255+.5),math[D[d(m(-56436),17219049373348)]](H[D[d(m(-56826),29493366745931)]]*255+.5),math[D[d(m(-56556),31012757795026)]](H[D[d(m(-56046),18341143823033)]]*255+.5))end local U=K local function a(H)if not H or#H<6 then return nil end local o=H:match(D[d(m(-57417),23849607485123)])if not o then return nil end return Color3[D[d(m(-57445),11496904567251)]](tonumber(o:sub(1,2),16),tonumber(o:sub(3,4),16),tonumber(o:sub(5,6),16))end function U._BuildConfigData(H)local o={}for H,K in ipairs(H[D[d(m(-56824),16980671413702)]]or{})do local c=K[D[d(m(-57042),29262505208436)]]..(D[d(m(-57953),16227955424009)]..(K[D[d(m(-55279),23334195680483)]]..(D[d(m(-58099),32498861831738)]..K[D[d(m(-57783),22113313968242)]])))local Z=K[D[d(m(-55846),10515474589249)]]if Z[D[d(m(-55715),24707553384930)]]==D[d(m(-55855),15535370811524)]then o[c]=Z[D[d(m(-55372),10444605466111)]]elseif Z[D[d(m(-56152),8686836457370)]]==D[d(m(-55558),4973723914776)]then o[c]=Z[D[d(m(-55471),6939805194559)]]elseif Z[D[d(m(-56946),12289350216885)]]==D[d(m(-56003),34207237209201)]then o[c]=type(Z[D[d(m(-56576),10330785359253)]])==D[d(m(-55299),34383336242453)]and table[D[d(m(-55965),29134726031869)]](Z[D[d(m(-56137),18826489939069)]],D[d(m(-56901),8526844043013)])or tostring(Z[D[d(m(-56681),11068468504644)]]or D[d(m(-57247),34419844578615)])elseif Z[D[d(m(-56652),16145274780348)]]==D[d(m(-56620),26874430513604)]then o[c]=Z[D[d(m(-56209),21943657582548)]]or D[d(m(-57247),6143064446553)]end if Z[D[d(m(-56005),9372978422297)]]then o[c..D[d(m(-55936),29857376332958)]]=Z[D[d(m(-56489),26586658922680)]][D[d(m(-58130),31508841656992)]]or D[d(m(-57247),32629862332084)]end if Z[D[d(m(-56333),30719617331137)]]then o[c..D[d(m(-55492),7882579287213)]]=t(Z[D[d(m(-57906),6009916397021)]][D[d(m(-57385),4917887635940)]])end end o[D[d(m(-56973),30986987204794)]]=H[D[d(m(-55409),34744124505701)]]o[D[d(m(-57097),12661950000656)]]=H[D[d(m(-57774),21850239192957)]]return o end function U._ApplyConfigData(o,H)if type(H)~=D[d(m(-56417),29309751290528)]then return end for K,c in ipairs(o[D[d(m(-55660),11241346214117)]]or{})do local Z=c[D[d(m(-57738),23424392746295)]]local W=D[d(m(-55878),6681025517646)]..(c[D[d(m(-55625),17196500106895)]]..(D[d(m(-55856),28085648254508)]..c[D[d(m(-55437),10282465502568)]]))local v=c[D[d(m(-56335),32417254962670)]]local M=Z..W local p=H[M]local j=v[D[d(m(-57078),2293582530648)]]if p~=nil then if v[D[d(m(-56565),33283791059221)]]==D[d(m(-57811),22847775789854)]then v[D[d(m(-55401),5421487920057)]]=p==true or p==D[d(m(-56425),11947889896311)]if j then pcall(j,v[D[d(m(-57902),19377336305278)]])end local H=c[D[d(m(-57170),18092028117457)]]local K=c[D[d(m(-56116),22288339226901)]]..c[D[d(m(-56534),12170161237062)]]o[D[d(m(-55455),7054699076010)]][H..K]=v[D[d(m(-57171),19457869399753)]]and 1 or 0 elseif v[D[d(m(-55979),20060256946426)]]==D[d(m(-57901),11390600882544)]then local H=tonumber(p)if H then v[D[d(m(-58126),2169024677860)]]=H if j then pcall(j,H)end end elseif v[D[d(m(-57208),3903170645555)]]==D[d(m(-55671),31527095825073)]then local H={}for o in(tostring(p)):gmatch(D[d(m(-58083),2653297019303)])do table[D[d(m(-57092),15227197503333)]](H,o)end v[D[d(m(-58071),23765853066869)]]=H if j then pcall(j,v[D[d(m(-55865),17552993271771)]])end elseif v[D[d(m(-58098),13634789781914)]]==D[d(m(-57144),3702374796664)]then v[D[d(m(-55487),32366787556799)]]=tostring(p)if j then pcall(j,v[D[d(m(-55618),25210079894454)]])end end end if v[D[d(m(-55842),23675656001057)]]then local o=H[M..D[d(m(-57516),2160434481116)]]if o~=nil then v[D[d(m(-56342),25807098568162)]][D[d(m(-57443),30679887671196)]]=tostring(o)end end if v[D[d(m(-57462),17243746188987)]]then local o=H[M..D[d(m(-58192),19080974517610)]]if o then local H=a(tostring(o))if H then v[D[d(m(-56935),5057478333030)]][D[d(m(-58152),4617230749900)]]=H if v[D[d(m(-56550),3361988250683)]][D[d(m(-56805),540108620279)]]then pcall(v[D[d(m(-56520),18922055877846)]][D[d(m(-55568),16335332883309)]],H)end end end end end if H[D[d(m(-56621),24119124907966)]]and o[D[d(m(-55872),2607124711804)]][H[D[d(m(-56913),3125757840223)]]]then o:_ApplyTheme(H[D[d(m(-55687),34859018387152)]])end if H[D[d(m(-56594),17008589553120)]]and o[D[d(m(-55338),28164033799797)]][H[D[d(m(-56078),27928877163930)]]]then o[D[d(m(-58094),17307098889974)]]=H[D[d(m(-57225),11596765604400)]]end for o,K in ipairs(o[D[d(m(-58039),21859903164294)]]or{})do pcall(K,H)end end function U._AutoSaveTick(o,H)if not o[D[d(m(-56052),1001831695269)]]then return end o[D[d(m(-55780),13007705419602)]]=o[D[d(m(-55699),32678182188769)]]+O(H,.016)if o[D[d(m(-57810),6704648558692)]]<o[D[d(m(-56035),953511838584)]]then return end o[D[d(m(-58131),29360218696399)]]=false o[D[d(m(-56490),14502399653058)]]=0 o[D[d(m(-55433),11531265354227)]]=os[D[d(m(-58185),6723976501366)]]()if not F()then return end X(o[D[d(m(-58066),21188794043669)]])local K=o:_BuildConfigData()if o[D[d(m(-58227),13039918657392)]]and o[D[d(m(-56384),19151843640748)]]~=D[d(m(-55457),22337732858179)]then K[D[d(m(-56869),31070741623048)]]=o[D[d(m(-58245),490714989001)]]end local c=b(K)if not c then return end f(o[D[d(m(-57929),6668140222530)]]..D[d(m(-56727),30742166597590)],c)end function U._RefreshConfigList(H)local o=H:ListConfigs()local K=false local c={}for H,o in ipairs(o or{})do if o~=D[d(m(-56187),33143126587538)]then table[D[d(m(-56218),21618303880869)]](c,o)if o==D[d(m(-57611),26257010122629)]then K=true end end end if not K then table[D[d(m(-56083),2146475411407)]](c,1,D[d(m(-58236),449911554467)])end H[D[d(m(-56964),31269389922753)]]=c return c end function U.SaveConfig(o,H)local K=tostring(H or o[D[d(m(-56989),10864451331974)]]or D[d(m(-57163),23925845481226)])if K==D[d(m(-57174),29814425349238)]or K==D[d(m(-57247),16763768945916)]then o:Notification(D[d(m(-57109),27209448186620)],5)return end if not F()then o:Notification(D[d(m(-55739),3423193402484)],5)return end X(o[D[d(m(-56688),23937657001749)]])local c=o:_BuildConfigData()c[D[d(m(-56664),5985219581382)]]=K local Z=b(c)if not Z then o:Notification(D[d(m(-57539),27185825145574)],4)return end f(o[D[d(m(-57192),31093290889501)]]..(D[d(m(-57268),31370324734495)]..(K..D[d(m(-56329),1878031763157)])),Z)f(o[D[d(m(-56926),31184561729906)]]..D[d(m(-58254),10874115303311)],Z)o[D[d(m(-58177),5163782017737)]]=false o[D[d(m(-55744),7173888055833)]]=0 o[D[d(m(-57010),5529939153950)]]=K o:_RefreshConfigList()o:Notification(D[d(m(-57778),32263705195871)]..K,4)end function U.LoadConfig(o,H)local K=tostring(H or o[D[d(m(-56089),10483261351459)]]or D[d(m(-56546),4109335367411)])if not F()then o:Notification(D[d(m(-56592),20617545960193)],5)return end local c=o[D[d(m(-55326),29031643670941)]]..(D[d(m(-57966),17766674415778)]..(K..D[d(m(-55540),23086153749500)]))if not u(c)then if K~=D[d(m(-56536),34601312484832)]then o:Notification(D[d(m(-55707),3514464242889)]..K,4)end return end local Z=A(c)if not Z then o:Notification(D[d(m(-57275),22263642411262)]..K,4)return end local W=k(Z)if not W then o:Notification(D[d(m(-56735),12512695332229)],4)if type(delfile)==D[d(m(-57394),28775011543214)]then pcall(delfile,c)end return end o:_ApplyConfigData(W)if K~=D[d(m(-55537),8901591375970)]then o[D[d(m(-56008),29524506209128)]]=K o:_RefreshConfigList()o:Notification(D[d(m(-58122),29382767962852)]..K,4)end end function U.DeleteConfig(o,H)local K=tostring(H or o[D[d(m(-57197),28030885750265)]]or D[d(m(-56164),32589058897550)])if K==D[d(m(-57491),14295161156609)]then o:Notification(D[d(m(-57609),4406770929672)],4)return end if not F()then return end local c=o[D[d(m(-57762),24464880326912)]]local Z=D[d(m(-57750),24293076392032)]..(K..D[d(m(-55265),15146664408858)])local W=c..Z if type(delfile)==D[d(m(-55742),356493164876)]then pcall(delfile,W)end if o[D[d(m(-56865),15604092385476)]]==K then o[D[d(m(-56363),14466965091489)]]=D[d(m(-57652),29941130751212)]end o:_RefreshConfigList()o:Notification(D[d(m(-57282),19885231687767)]..K,4)end function U.ListConfigs(H)if not F()then return{}end X(H[D[d(m(-58132),22371019870562)]])local o=P(H[D[d(m(-57833),12043455835088)]])local K={}for H,o in ipairs(o or{})do local c=((tostring(o)):gsub(D[d(m(-55783),10317900064137)],D[d(m(-56919),8865083039808)])):match(D[d(m(-57188),13090386063263)])if c then table[D[d(m(-55427),8082301361511)]](K,c)end end return K end function U._MarkDirty(H)if not H[D[d(m(-56832),31082553143571)]]then H[D[d(m(-57928),3562784099574)]]=0 end H[D[d(m(-56873),29349480950469)]]=true end function U.AutoLoadConfig(H)H[D[d(m(-58316),24237240113196)]]=true end function U._DoAutoLoad(H)if not F()then return end local o=H[D[d(m(-56817),515411804640)]]local K=o..D[d(m(-58270),17779559710894)]local c=o..D[d(m(-56172),26655380496632)]X(o)if u(K)then local o=A(K)local c=o and k(o)if c then H:_ApplyConfigData(c)H:Notification(D[d(m(-57927),33172118501549)]..((c[D[d(m(-55997),25220817640384)]]and(c[D[d(m(-55858),15425845803038)]]~=D[d(m(-57247),19159360062899)]and D[d(m(-57226),24906201684635)]..(tostring(c[D[d(m(-57829),13706732679645)]])..D[d(m(-56539),16860408659286)]))or D[d(m(-57799),12541687246240)])),4)H[D[d(m(-57509),4766485418327)]]=c[D[d(m(-55971),18246651658849)]]or D[d(m(-57089),29933614329061)]return end H:Notification(D[d(m(-57854),34599164935646)],4)if type(delfile)==D[d(m(-56957),34382262467860)]then pcall(delfile,K)end end if u(c)then local o=A(c)local K=o and k(o)if K then H:_ApplyConfigData(K)end return end local Z=H:_BuildConfigData()local W=b(Z)if W then f(c,W)end end function U._GetSec(o,H)o[D[d(m(-56974),34635673271808)]]=o[D[d(m(-56287),208312271042)]]or{}if not o[D[d(m(-58045),9997915235423)]][H]then o[D[d(m(-55281),32670665766618)]][H]={[D[d(m(-56831),5386053358488)]]=0,[D[d(m(-57165),8225113382380)]]=0,[D[d(m(-55616),17311393988346)]]=0}end return o[D[d(m(-57018),15018885232291)]][H]end function U._TickScroll(H,o,K)local c=H:_GetSec(o)c[D[d(m(-57722),12748925742689)]]=C(c[D[d(m(-55637),8084448910697)]],c[D[d(m(-55406),14903991350840)]],(Q(.12,K)))if math[D[d(m(-55327),17593796706305)]](c[D[d(m(-58307),23148432675894)]]-c[D[d(m(-57937),15491346053211)]])<.5 then c[D[d(m(-56429),20152601561424)]]=c[D[d(m(-58077),17374746689333)]]end return c[D[d(m(-56081),108451233893)]]end function U._ScrollSection(H,o,K)local c=H:_GetSec(o)local Z=c[D[d(m(-55747),16672498105511)]]local W=c[D[d(m(-55285),4153360125724)]]c[D[d(m(-56843),12642622057982)]]=L(Z+K,0,W)end function U._KeyIDToName(o,H)for o,K in pairs(o[D[d(m(-57137),20553119484613)]]or{})do if K[D[d(m(-56746),5390348456860)]]==H then return o end end return nil end function U._IsKeyPressed(o,H)return o[D[d(m(-56879),33332110915906)]]and(o[D[d(m(-57237),30437214613178)]][H]and o[D[d(m(-57567),10520843462214)]][H][D[d(m(-55282),23696057718324)]])end function U._IsKeyHeld(o,H)return o[D[d(m(-55485),10830090544998)]]and(o[D[d(m(-57500),9568405398223)]][H]and o[D[d(m(-58299),30181656260044)]][H][D[d(m(-56223),32598722868887)]])end function U._GetScreenSize(H)local o=os[D[d(m(-55432),33704710699677)]]()if not H[D[d(m(-58000),17671108477001)]]or o-((H[D[d(m(-57202),14085775110974)]]or 0))>1 then local K=Vector2[D[d(m(-57184),34399442861348)]](1920,1080)local c=workspace[D[d(m(-55714),11756758018757)]]if c and c[D[d(m(-57947),1332554269913)]]then K=c[D[d(m(-56619),31425087238738)]]end H[D[d(m(-57142),22966964769677)]]=K H[D[d(m(-57166),7914792525003)]]=o end return H[D[d(m(-57562),18883399992498)]]end function U._GetMousePos(H)return H[D[d(m(-57824),9564110299851)]]or Vector2[D[d(m(-57479),10175088043268)]]()end function U._PollMousePos(H)local o=r[D[d(m(-55817),12916434579197)]]if o then local K=o:GetMouse()if K then local o=H[D[d(m(-57470),29847712361621)]]local c=K[D[d(m(-56557),15658854889719)]]local Z=K[D[d(m(-57215),16842154491205)]]if not o or o[D[d(m(-55921),20118240774448)]]~=Z or o[D[d(m(-55893),7523938573151)]]~=c then H[D[d(m(-57066),18058741105074)]]=Vector2[D[d(m(-56249),16500694170631)]](Z,c)end return end end if not H[D[d(m(-56272),33341774887243)]]then H[D[d(m(-57287),8839312449576)]]=Vector2[D[d(m(-56814),10244883391813)]]()end end function U._IsMouseWithinBounds(K,H,o)local c=K:_GetMousePos()return c[D[d(m(-56263),10931025356740)]]>=H[D[d(m(-57310),12630810537459)]]and(c[D[d(m(-57996),28814741203155)]]<=H[D[d(m(-56847),12254989429909)]]+o[D[d(m(-57063),12672687746586)]]and(c[D[d(m(-58264),1474292516189)]]>=H[D[d(m(-56608),27922434516372)]]and c[D[d(m(-56283),28204837234331)]]<=H[D[d(m(-56527),18538718348145)]]+o[D[d(m(-56202),34738755632736)]]))end function U._ApplyTheme(o,H)o[D[d(m(-56464),19156138739120)]]=H o[D[d(m(-57295),571248083476)]]=o[D[d(m(-57459),28001893836254)]][H]or o[D[d(m(-55866),17540107976655)]][D[d(m(-57632),31203889672580)]]end function U._GetTextBounds(c,H,o,K)if not H or H==D[d(m(-57247),30643379335034)]then return Vector2[D[d(m(-58032),2000442066759)]](0,K or c[D[d(m(-57286),29143316228613)]])end local Z=K or c[D[d(m(-57321),27979344569801)]]if((o or c[D[d(m(-55534),26167886831410)]]))==Drawing[D[d(m(-58213),27153611907784)]][D[d(m(-57680),10652917737153)]]then return Vector2[D[d(m(-56916),23114071888918)]]((#H*Z)*.53846,Z)end local W=#H return Vector2[D[d(m(-55807),30794781552647)]]((W*Z)*.58,Z)end function U._Draw(Z,H,o,K,c,...)local W=H==D[d(m(-55942),17959953842518)]and D[d(m(-56275),29469743704885)]or(H==D[d(m(-58174),12273243597990)]and D[d(m(-55491),9302109299159)]or(H==D[d(m(-56125),31236102910370)]and D[d(m(-57217),8891927404633)]or(H==D[d(m(-56471),32260483872092)]and D[d(m(-55257),26539412840588)]or D[d(m(-57542),32780190775104)])))if H==D[d(m(-55469),10313604965765)]then local H,o,W=...local v={select(4,...)}local M=#v-1 for p=1,M,1 do local j=v[p]local O=v[p+1]local L=math[D[d(m(-56806),4952248422916)]](1,W[D[d(m(-56002),16302045870926)]])/M local G=math[D[d(m(-56214),14578637649161)]](1,W[D[d(m(-55553),26731618492735)]])/M for v=1,10,1 do local M=((v-1))/9 local J=Color3[D[d(m(-56972),26900201103836)]](C(j[D[d(m(-55499),7688226085880)]],O[D[d(m(-57254),6251515680446)]],M),C(j[D[d(m(-57310),23178498364498)]],O[D[d(m(-56465),23729344730707)]],M),(C(j[D[d(m(-58146),5162708243144)]],O[D[d(m(-56963),34616345329134)]],M)))local V=C(j[D[d(m(-56967),27248104071968)]]or 1,O[D[d(m(-56194),28330468861712)]]or 1,M)*c local h local n if H==D[d(m(-55531),2845502671450)]then local H=Vector2[D[d(m(-56374),32463427270169)]](L/10,W[D[d(m(-56372),20126830971192)]])h=H n=Vector2[D[d(m(-57024),1982187898678)]]((o[D[d(m(-56761),32942330738647)]]+((p-1))*L)+((v-1))*H[D[d(m(-56033),31909359580181)]],o[D[d(m(-56054),29459005958955)]])elseif H==D[d(m(-56109),35158601498600)]then local H=Vector2[D[d(m(-56188),25128473025386)]](W[D[d(m(-56141),10085964752049)]],G/10)h=H n=Vector2[D[d(m(-55908),33703636925084)]](o[D[d(m(-57099),23097965270023)]],(o[D[d(m(-57254),10156833875187)]]+((p-1))*G)+((v-1))*H[D[d(m(-55301),4012695654041)]])end Z:_Draw(D[d(m(-55832),8958501429399)],J,K,V,n,h,true)end end return end Z[D[d(m(-58221),4743936151874)]][W]=Z[D[d(m(-56140),22265789960448)]][W]+1 local v=Z[D[d(m(-57511),3153675979641)]][W]local M=Z[D[d(m(-57080),9384789942820)]][W][v]local p=Z[D[d(m(-56760),13830216757840)]][W][v]if not M then local H=Drawing[D[d(m(-56113),22533159834105)]](W)M=H H[D[d(m(-57992),25397990448229)]]=false Z[D[d(m(-55554),14048193000219)]][W][v]=H local o={[D[d(m(-57670),32564362081911)]]=false}p=o Z[D[d(m(-58175),7037518682522)]][W][v]=o end if p[D[d(m(-55556),25694352235897)]]~=K then M[D[d(m(-57612),29474038803257)]]=K p[D[d(m(-56828),22628725772882)]]=K end if o~=nil and p[D[d(m(-56316),23818468021926)]]~=o then M[D[d(m(-56994),7898685906108)]]=o p[D[d(m(-55620),4797624881524)]]=o end local j=L(c,0,1)if p[D[d(m(-57117),25789918174674)]]~=j then M[D[d(m(-56142),16177488018138)]]=j p[D[d(m(-55773),24269453350986)]]=j end if p[D[d(m(-55890),13619756937612)]]~=true then M[D[d(m(-56252),27353333982082)]]=true p[D[d(m(-56236),25598786297120)]]=true end if H==D[d(m(-56230),10912771188659)]then local H,o,K,c=...if p[D[d(m(-58233),13163402735587)]]~=H then M[D[d(m(-57441),32177803228431)]]=H p[D[d(m(-56866),3305078197254)]]=H end if p[D[d(m(-56332),23260105233566)]]~=o then M[D[d(m(-57136),21868493361038)]]=o p[D[d(m(-58069),11277854550279)]]=o end if p[D[d(m(-55800),10014021854318)]]~=K then M[D[d(m(-57883),10636811118258)]]=K p[D[d(m(-55799),26024001035948)]]=K end if c and c>0 then if p[D[d(m(-58272),28005115160033)]]~=c then M[D[d(m(-55454),17737682501767)]]=c p[D[d(m(-55950),10641106216630)]]=c end elseif p[D[d(m(-55849),34350049230070)]]~=0 then M[D[d(m(-58235),25905885830718)]]=0 p[D[d(m(-56801),22811267453692)]]=0 end elseif H==D[d(m(-57330),7960964832502)]then local H,o,K,c,W,v=...local j=c==D[d(m(-55911),13357755936920)]if p[D[d(m(-56868),9464249262702)]]~=j then M[D[d(m(-58090),664666473067)]]=j p[D[d(m(-57392),21691320553193)]]=j end if p[D[d(m(-56615),16836785618240)]]~=H then M[D[d(m(-56845),29470817479478)]]=H p[D[d(m(-56303),24490650917144)]]=H end if p[D[d(m(-55776),17612050874386)]]~=o then M[D[d(m(-56286),31186709279092)]]=o p[D[d(m(-56114),498231411152)]]=o end if p[D[d(m(-57812),7940563115235)]]~=K then M[D[d(m(-55262),33574783973924)]]=K p[D[d(m(-55796),25882262789672)]]=K end local O=v or Z[D[d(m(-56176),28918897338676)]]if p[D[d(m(-56201),27341522461559)]]~=O then M[D[d(m(-56583),8909107798121)]]=O p[D[d(m(-56853),12249620556944)]]=O end local C=W or Z[D[d(m(-58009),12256063204502)]]if p[D[d(m(-57079),22648053715556)]]~=C then M[D[d(m(-56085),1704080279091)]]=C p[D[d(m(-57193),32763010381616)]]=C end elseif H==D[d(m(-57204),25754483613105)]then local H,o,K,c=...if p[D[d(m(-57506),9266674737590)]]~=H then M[D[d(m(-57809),18487177167681)]]=H p[D[d(m(-56999),24534675675457)]]=H end if p[D[d(m(-55771),7982440324362)]]~=o then M[D[d(m(-56318),8588049194814)]]=o p[D[d(m(-58219),22856365986598)]]=o end if p[D[d(m(-55666),25931656420950)]]~=K then M[D[d(m(-55367),1305709905088)]]=K p[D[d(m(-57715),18559120065412)]]=K end if p[D[d(m(-55350),5324848206687)]]~=c then M[D[d(m(-57862),24404748949704)]]=c p[D[d(m(-56779),8058678320465)]]=c end elseif H==D[d(m(-56897),14938352137816)]then local H,o,K=...if p[D[d(m(-56126),2349418809484)]]~=H then M[D[d(m(-58273),1793203570310)]]=H p[D[d(m(-58147),2616788683141)]]=H end if p[D[d(m(-56461),15863945836982)]]~=o then M[D[d(m(-55683),12583564455367)]]=o p[D[d(m(-58173),31633399509780)]]=o end if p[D[d(m(-56179),30884978618459)]]~=K then M[D[d(m(-56427),16472776031213)]]=K p[D[d(m(-57145),21498041126453)]]=K end elseif H==D[d(m(-55332),16171045370580)]then local H,o,K=...if p[D[d(m(-57869),18489324716867)]]~=H then M[D[d(m(-56290),23365335143680)]]=H p[D[d(m(-57555),7930899143898)]]=H end if p[D[d(m(-56449),5365651641221)]]~=o then M[D[d(m(-56353),14445489599629)]]=o p[D[d(m(-56100),14101881729869)]]=o end local c=K or 1 if p[D[d(m(-55312),34826805149362)]]~=c then M[D[d(m(-56663),17052614311433)]]=c p[D[d(m(-57116),31373546058274)]]=c end end end function U._FullWipe(H)for H,o in pairs(H[D[d(m(-57843),16334259108716)]]or{})do for H,o in ipairs(o)do o[D[d(m(-57336),16215070128893)]]=false pcall(function()o:Remove()end)end end H[D[d(m(-55641),19082048292203)]]={[D[d(m(-57683),33108765800562)]]={},[D[d(m(-55517),26210837815130)]]={},[D[d(m(-57794),1608514340314)]]={},[D[d(m(-55961),12954016689952)]]={};[D[d(m(-55750),4858830033325)]]={}}H[D[d(m(-55860),31018126667991)]]={[D[d(m(-55303),6896854210839)]]={};[D[d(m(-56657),151402217613)]]={},[D[d(m(-56428),23423318971702)]]={};[D[d(m(-57341),31624809313036)]]={},[D[d(m(-55957),21793329139528)]]={}}end function U._SpawnColorpicker(Z,H,o,K,c)local W,v,M=w(K[D[d(m(-55458),16984966512074)]],K[D[d(m(-55488),16309562293077)]],K[D[d(m(-57990),13040992431985)]])Z[D[d(m(-55704),32185319650582)]]={[D[d(m(-55700),19145400993190)]]=H or Vector2[D[d(m(-57105),6919403477292)]]((Z[D[d(m(-58264),4928625381870)]]+Z[D[d(m(-56492),18926350976218)]])+Z[D[d(m(-56495),12897106636523)]],Z[D[d(m(-55450),6850681903340)]]),[D[d(m(-56523),4467976081473)]]=o;[D[d(m(-57147),17707616813163)]]=c;[D[d(m(-57048),2992609790691)]]=W,[D[d(m(-56056),627084362312)]]=v,[D[d(m(-58095),8967091626143)]]=M,[D[d(m(-58247),25619188014387)]]=0;[D[d(m(-55674),13497346634010)]]=false}end function U._RemoveColorpicker(H)if H[D[d(m(-57742),28358387001130)]]then H[D[d(m(-56904),994315273118)]][D[d(m(-55638),33095880505446)]]=true end end function U._SpawnDropdown(v,H,o,K,c,Z,W)v[D[d(m(-57030),2376263174309)]]={[D[d(m(-56997),27851565393234)]]=H;[D[d(m(-57991),16006757857851)]]=o;[D[d(m(-56721),314615955749)]]=K,[D[d(m(-57148),2246336448556)]]=c;[D[d(m(-57425),7067584371126)]]=Z,[D[d(m(-55663),937405219689)]]=W,[D[d(m(-57115),32099417683142)]]=os[D[d(m(-56668),15669592635649)]]();[D[d(m(-55889),33070109915214)]]=0}v[D[d(m(-58243),24080469022618)]]=0 v[D[d(m(-56304),25988566474379)]]=0 end function U._RemoveDropdown(H)H[D[d(m(-56987),10427425072623)]]=nil end function U._SpawnCtxMenu(Z,H,o,K,c)Z[D[d(m(-57537),7433741507339)]]={[D[d(m(-55762),33545792059913)]]=H,[D[d(m(-57466),425214738828)]]=o;[D[d(m(-56401),8585901645628)]]=K;[D[d(m(-57983),1218734163055)]]=c,[D[d(m(-55391),20135421167936)]]=0;[D[d(m(-55583),21990903664640)]]={{[D[d(m(-55690),27722712442074)]]=D[d(m(-56813),31046044807409)];[D[d(m(-57095),24988882328296)]]=D[d(m(-57788),28510862993336)]},{[D[d(m(-56448),17830027116765)]]=D[d(m(-55662),24090132993955)],[D[d(m(-57065),2714502171104)]]=D[d(m(-56380),15372157073388)]}}}end function U._RemoveCtxMenu(H)H[D[d(m(-56057),10499367970354)]]=nil end function U._Toggle(M,H,o,K,c,Z,W,v)local p=K if type(K)==D[d(m(-55954),25858639748626)]then p=K[D[d(m(-57840),11695552866956)]]or K[D[d(m(-55476),14356366308410)]]c=K[D[d(m(-55542),10871967754125)]]or K[D[d(m(-57554),18535497024366)]]Z=K[D[d(m(-56716),24585143081328)]]or K[D[d(m(-55411),15647043369196)]]W=K[D[d(m(-57729),24914791881379)]]or K[D[d(m(-57076),1901654804203)]]v=K[D[d(m(-57383),6594049775613)]]or K[D[d(m(-58001),1230545683578)]]end M[D[d(m(-56345),33976375671706)]]=M[D[d(m(-56067),21275769785702)]]or{}M[D[d(m(-57196),12002652400554)]][H]=M[D[d(m(-56848),29222775548495)]][H]or{[D[d(m(-57290),27691572978877)]]={},[D[d(m(-57625),20423192758860)]]=D[d(m(-57247),31688162014023)]}M[D[d(m(-57289),9569479172816)]][H][D[d(m(-57955),12770401234549)]][o]=M[D[d(m(-57831),13117230428088)]][H][D[d(m(-55816),10598155232910)]][o]or{[D[d(m(-57455),25455974276251)]]={};[D[d(m(-56258),3148307106676)]]=0}local j=#M[D[d(m(-56233),29098217695707)]][H][D[d(m(-57884),14289792283644)]][o][D[d(m(-55684),14624809956660)]]+1 local O=H..(D[d(m(-56521),11443215837601)]..(o..(D[d(m(-57054),13433993933023)]..j)))local C={[D[d(m(-57597),30243935186438)]]=D[d(m(-57530),34257704615072)],[D[d(m(-57620),705469907601)]]=Z;[D[d(m(-55977),4311204990895)]]=p;[D[d(m(-55877),12902475509488)]]=c,[D[d(m(-57733),22833816720145)]]=function(H)M:_MarkDirty()if Z then Z(H)end end,[D[d(m(-57476),8785623719926)]]=W or false,[D[d(m(-57091),4571058442401)]]=v,[D[d(m(-55508),30509157510909)]]=O,[D[d(m(-57881),26246272376699)]]=D[d(m(-57214),23429761619260)]..O}table[D[d(m(-55590),8927361966202)]](M[D[d(m(-56165),31862113498089)]][H][D[d(m(-56306),3741030682012)]][o][D[d(m(-56570),7045035104673)]],C)local L=tostring(j)M[D[d(m(-56299),6220376217249)]][H..(o..L)]=c and 1 or 0 M:_RegisterConfigRef(H,o,C)return{[D[d(m(-57143),32752272635686)]]=function(K,c)M[D[d(m(-56371),26109903003388)]][H][D[d(m(-57692),7551856712569)]][o][D[d(m(-57162),7003157895546)]][j][D[d(m(-56442),6250441905853)]]=c if M[D[d(m(-55584),18709448508432)]][H][D[d(m(-57719),29667318229997)]][o][D[d(m(-57004),19589943674692)]][j][D[d(m(-55843),23403991029028)]]then M[D[d(m(-55341),18080216596934)]][H][D[d(m(-58279),6405065447245)]][o][D[d(m(-56634),29112176765416)]][j][D[d(m(-56837),19848723351605)]](c)end end;[D[d(m(-56724),34052613667809)]]=function(K,c,Z)M[D[d(m(-55385),18236987687512)]][H][D[d(m(-58255),9603839959792)]][o][D[d(m(-55985),7659234171869)]][j][D[d(m(-55964),34329647512803)]]={[D[d(m(-57381),27104218276506)]]=c,[D[d(m(-56952),5101503091343)]]=Z;[D[d(m(-58296),12395653901592)]]=false;[D[d(m(-56143),14621588632881)]]=0}return{[D[d(m(-57111),22257199763704)]]=function(K,c)M[D[d(m(-57688),30753978118113)]][H][D[d(m(-56613),22296929423645)]][o][D[d(m(-55417),32284106913138)]][j][D[d(m(-55284),29285054474889)]][D[d(m(-57402),32560066983539)]]=c if M[D[d(m(-56908),7925530270933)]][H][D[d(m(-55428),28648306141240)]][o][D[d(m(-56282),14198521443239)]][j][D[d(m(-57274),21172687424774)]][D[d(m(-55416),17749494022290)]]then M[D[d(m(-57168),21683804131042)]][H][D[d(m(-55337),13544592716102)]][o][D[d(m(-56025),20221323135376)]][j][D[d(m(-56898),20889210932222)]][D[d(m(-56030),1581669975489)]](c)end end}end,[D[d(m(-57013),29830531968133)]]=function(K,c,Z,W,v)M[D[d(m(-55697),14985598219908)]][H][D[d(m(-55923),5352766346105)]][o][D[d(m(-56703),23231113319555)]][j][D[d(m(-56616),34449910267219)]]={[D[d(m(-55419),1864072693448)]]=c,[D[d(m(-55597),19699468683178)]]=Z or M[D[d(m(-57951),31461595574900)]][D[d(m(-56413),24794529126963)]];[D[d(m(-56851),6960206911826)]]=W;[D[d(m(-57353),12318342130896)]]=v}return{[D[d(m(-57045),9883021353972)]]=function(K,c)M[D[d(m(-57363),34394073988383)]][H][D[d(m(-56522),33961342827404)]][o][D[d(m(-57457),22377462518120)]][j][D[d(m(-55673),21881378656154)]][D[d(m(-57234),16526464760863)]]=c if M[D[d(m(-55653),21422876904943)]][H][D[d(m(-55599),12186267855957)]][o][D[d(m(-57515),19741345892305)]][j][D[d(m(-56068),16159233850057)]][D[d(m(-57153),5849923982664)]]then M[D[d(m(-58008),8934878388353)]][H][D[d(m(-56255),21959764201443)]][o][D[d(m(-58136),11828700916488)]][j][D[d(m(-58086),2311836698729)]][D[d(m(-56365),27427424428999)]](c)end end}end}end function U._Slider(O,H,o,K,c,Z,W,v,M,p,j)local C=K local L=p if type(K)==D[d(m(-57938),32804887590743)]then C=K[D[d(m(-55300),3053814942492)]]or K[D[d(m(-57526),28071689184799)]]c=K[D[d(m(-56829),21184498945297)]]or K[D[d(m(-58038),17452058460029)]]Z=K[D[d(m(-56939),1342218241250)]]or K[D[d(m(-57619),28420665927524)]]W=K[D[d(m(-56654),21369188175293)]]or K[D[d(m(-55841),17394074632007)]]v=K[D[d(m(-58250),22633020871254)]]or K[D[d(m(-56191),9299961749973)]]M=K[D[d(m(-57908),7222207912518)]]or K[D[d(m(-57999),15765158574426)]]L=K[D[d(m(-57796),20708816800598)]]or K[D[d(m(-57896),30347017547366)]]j=K[D[d(m(-56375),19276401493536)]]or K[D[d(m(-57761),24298445264997)]]elseif type(p)==D[d(m(-55422),181467906217)]then j=p L=false end O[D[d(m(-56310),11085648898132)]]=O[D[d(m(-57653),23883968272099)]]or{}O[D[d(m(-58190),1565563356594)]][H]=O[D[d(m(-56264),2266738165823)]][H]or{[D[d(m(-57357),24287707519067)]]={};[D[d(m(-56395),5132642554540)]]=D[d(m(-57247),3843039268347)]}O[D[d(m(-56743),26039033880250)]][H][D[d(m(-55601),8841459998762)]][o]=O[D[d(m(-55582),3779686567360)]][H][D[d(m(-57819),599166222894)]][o]or{[D[d(m(-57891),33557603580436)]]={},[D[d(m(-58061),16341775530867)]]=0}local G=#O[D[d(m(-57344),14383210673235)]][H][D[d(m(-55643),11584954083877)]][o][D[d(m(-57669),9079837958408)]]+1 local J=H..(D[d(m(-55607),1727703320137)]..(o..(D[d(m(-56135),17590575382526)]..G)))local V={[D[d(m(-55477),17840764862695)]]=D[d(m(-58035),14503473427651)],[D[d(m(-57460),14115840799578)]]=j;[D[d(m(-58150),12989451251521)]]=C;[D[d(m(-58286),541182394872)]]=c,[D[d(m(-55980),30310509211204)]]=c;[D[d(m(-57660),5767243339003)]]=Z;[D[d(m(-58238),22871398830900)]]=W;[D[d(m(-57129),26905569976801)]]=v;[D[d(m(-57834),33123798644864)]]=M or D[d(m(-57247),22156264951962)],[D[d(m(-56840),9675782857523)]]=L or false;[D[d(m(-57691),17962101391704)]]=function(H)O:_MarkDirty()if j then j(H)end end;[D[d(m(-56323),16469554707434)]]=J;[D[d(m(-57418),13304067207270)]]=D[d(m(-57775),16710080216266)]..J}table[D[d(m(-56584),23854976358088)]](O[D[d(m(-56151),5842407560513)]][H][D[d(m(-55444),6234335286958)]][o][D[d(m(-57057),32246524802383)]],V)O:_RegisterConfigRef(H,o,V)return{[D[d(m(-56419),10000062784609)]]=function(K,c)O[D[d(m(-57668),7488504011582)]][H][D[d(m(-56604),16390095387552)]][o][D[d(m(-57713),24189994031104)]][G][D[d(m(-57677),10163276522745)]]=c if O[D[d(m(-56971),19703763781550)]][H][D[d(m(-55545),13988061623011)]][o][D[d(m(-56561),28231681599156)]][G][D[d(m(-55552),25462416923809)]]then O[D[d(m(-56635),13658412822960)]][H][D[d(m(-55797),3623989251375)]][o][D[d(m(-56106),12396727676185)]][G][D[d(m(-57700),12875631144663)]](c)end end}end function U._Dropdown(p,H,o,K,c,Z,W,v,M)local j=K local O=v if type(K)==D[d(m(-57961),25040423508760)]then j=K[D[d(m(-57568),25770590232)]]or K[D[d(m(-56641),6941952743745)]]c=K[D[d(m(-57461),27760294552829)]]or K[D[d(m(-58167),29981934185746)]]Z=K[D[d(m(-56387),17634600140839)]]or K[D[d(m(-58165),16867925081437)]]W=K[D[d(m(-56712),33271979538698)]]or K[D[d(m(-57023),11004042029064)]]O=K[D[d(m(-55383),26054066724552)]]or K[D[d(m(-55435),2960396552901)]]M=K[D[d(m(-56478),22229281624286)]]or K[D[d(m(-57575),32512820901447)]]elseif type(v)==D[d(m(-58184),5392496006046)]then M=v O=false end p[D[d(m(-55781),32120893175002)]]=p[D[d(m(-57676),17475681501075)]]or{}p[D[d(m(-57472),1527981245839)]][H]=p[D[d(m(-57708),12324784778454)]][H]or{[D[d(m(-57994),19860534872128)]]={};[D[d(m(-55587),3142938233711)]]=D[d(m(-57247),28045918594567)]}p[D[d(m(-56922),34224417602689)]][H][D[d(m(-56507),21509852646976)]][o]=p[D[d(m(-57228),18055519781295)]][H][D[d(m(-55272),32110155429072)]][o]or{[D[d(m(-55883),7922308947154)]]={},[D[d(m(-57838),27368366826384)]]=0}local C=#p[D[d(m(-56588),2810068109881)]][H][D[d(m(-57915),17595944255491)]][o][D[d(m(-57661),4956543521288)]]+1 local L=H..(D[d(m(-55783),13124746850239)]..(o..(D[d(m(-57158),6933362547001)]..C)))local G={[D[d(m(-55962),9595249763048)]]=D[d(m(-58234),29638326315986)],[D[d(m(-56590),18792129152093)]]=M;[D[d(m(-58232),13556404236625)]]=j;[D[d(m(-57279),5887506093419)]]=c,[D[d(m(-57888),34137441860656)]]=Z,[D[d(m(-56212),5179888636632)]]=W,[D[d(m(-56630),9188289192301)]]=O or false,[D[d(m(-55386),9814299780020)]]=function(H)p:_MarkDirty()if M then M(H)end end,[D[d(m(-55380),26864766542267)]]=L,[D[d(m(-57649),12166939913283)]]=D[d(m(-56680),1441005503806)]..L}table[D[d(m(-56031),16841080716612)]](p[D[d(m(-56331),19310762280512)]][H][D[d(m(-58012),29224923097681)]][o][D[d(m(-55740),2888453655170)]],G)p:_RegisterConfigRef(H,o,G)return{[D[d(m(-55600),28709511293041)]]=function(K,c)p[D[d(m(-56914),11013706000401)]][H][D[d(m(-56976),25862934846998)]][o][D[d(m(-56648),7089059862986)]][C][D[d(m(-57856),24211469522964)]]=c if p[D[d(m(-58053),28845880666352)]][H][D[d(m(-57073),14120135897950)]][o][D[d(m(-57211),2614641133955)]][C][D[d(m(-57346),18742735520815)]]then p[D[d(m(-56317),25911254703683)]][H][D[d(m(-55567),9941005181994)]][o][D[d(m(-56451),34840764219071)]][C][D[d(m(-56767),30810888171542)]](c)end end,[D[d(m(-57489),19515853227775)]]=function(K,c)p[D[d(m(-55456),32686772385513)]][H][D[d(m(-57546),28843733117166)]][o][D[d(m(-56498),30380304559749)]][C][D[d(m(-55650),28586027214846)]]=c end}end function U._Button(W,H,o,K,c,Z)local v=K local M=c if type(K)==D[d(m(-57157),19041244857669)]then v=K[D[d(m(-58006),23926919255819)]]or K[D[d(m(-55656),22224986525914)]]M=K[D[d(m(-57414),5008084701752)]]or K[D[d(m(-55995),21213490859308)]]Z=K[D[d(m(-57768),16729408158940)]]or K[D[d(m(-57002),31634473284373)]]elseif type(c)==D[d(m(-57817),20819415583677)]then M=false Z=c end W[D[d(m(-56709),30296550141495)]]=W[D[d(m(-57723),28077058057764)]]or{}W[D[d(m(-58315),31400390423099)]][H]=W[D[d(m(-58104),34241597996177)]][H]or{[D[d(m(-57703),31663465198384)]]={},[D[d(m(-56193),11574216337947)]]=D[d(m(-57247),26930266792440)]}W[D[d(m(-57755),25765221359035)]][H][D[d(m(-57591),5723218580690)]][o]=W[D[d(m(-57608),31640915931931)]][H][D[d(m(-57686),1519391049095)]][o]or{[D[d(m(-57081),26003599318681)]]={};[D[d(m(-55329),7094428735951)]]=0}local p=#W[D[d(m(-57324),30405001375388)]][H][D[d(m(-56624),4354155974615)]][o][D[d(m(-56977),32013515715702)]]+1 local j=H..(D[d(m(-55906),15419403155480)]..(o..(D[d(m(-56963),33366471702882)]..p)))local O={[D[d(m(-56790),12891737763558)]]=D[d(m(-56292),2300025178206)];[D[d(m(-56742),7516422151000)]]=v,[D[d(m(-56595),7685004762101)]]=M or false,[D[d(m(-56649),28159738701425)]]=Z;[D[d(m(-57335),32764084156209)]]=j;[D[d(m(-57602),11908160236370)]]=D[d(m(-57253),34584132091344)]..j}table[D[d(m(-56336),24180330059767)]](W[D[d(m(-58128),15406517860364)]][H][D[d(m(-57624),26904496202208)]][o][D[d(m(-55589),1404497167644)]],O)return{[D[d(m(-55806),34209384758387)]]=function(K,c,Z,v,M)W[D[d(m(-55675),29063856908731)]][H][D[d(m(-55418),1276717991077)]][o][D[d(m(-57859),14725744768402)]][p][D[d(m(-56836),26383715524603)]]={[D[d(m(-56993),9520085541538)]]=c;[D[d(m(-57935),28787896838330)]]=Z or W[D[d(m(-57593),13533854970172)]][D[d(m(-58065),33131315067015)]];[D[d(m(-56185),12272169823397)]]=v;[D[d(m(-56502),29958311144700)]]=M}return{[D[d(m(-56469),27984713442766)]]=function(K,c)W[D[d(m(-56407),8254105296391)]][H][D[d(m(-57781),25498925259971)]][o][D[d(m(-55657),16498546621445)]][p][D[d(m(-57140),6268696073934)]][D[d(m(-58044),34079458032634)]]=c if W[D[d(m(-57128),3938605207124)]][H][D[d(m(-56251),29235660843611)]][o][D[d(m(-55728),22805898580727)]][p][D[d(m(-56710),17932035703100)]][D[d(m(-56278),27366219277198)]]then W[D[d(m(-55688),18939236271334)]][H][D[d(m(-56391),24430519539936)]][o][D[d(m(-56596),583059603999)]][p][D[d(m(-58178),30596133252942)]][D[d(m(-56699),12877778693849)]](c)end end}end}end function U._Textbox(W,H,o,K,c,Z)local v=K if type(K)==D[d(m(-56505),204017172670)]then v=K[D[d(m(-56675),12118620056598)]]or K[D[d(m(-55276),23270842979496)]]c=K[D[d(m(-56007),31359586988565)]]or K[D[d(m(-58239),27575605322833)]]Z=K[D[d(m(-57631),31662391423791)]]or K[D[d(m(-56314),9087354380559)]]end W[D[d(m(-55631),607756419638)]]=W[D[d(m(-57264),30751830568927)]]or{}W[D[d(m(-57266),17376894238519)]][H]=W[D[d(m(-57976),27804319311142)]][H]or{[D[d(m(-57724),26561962107041)]]={};[D[d(m(-55522),29358071147213)]]=D[d(m(-57247),20102134155553)]}W[D[d(m(-55659),8669656063882)]][H][D[d(m(-57231),22077879406673)]][o]=W[D[d(m(-56803),20174077053284)]][H][D[d(m(-55445),1552678061478)]][o]or{[D[d(m(-58097),16866851306844)]]={},[D[d(m(-56722),28577437018102)]]=0}local M=#W[D[d(m(-57520),30072131251558)]][H][D[d(m(-56071),8263769267728)]][o][D[d(m(-57962),6340638971665)]]+1 local p=H..(D[d(m(-57337),8955280105620)]..(o..(D[d(m(-57934),4580722413738)]..M)))local j={[D[d(m(-57561),26139968691992)]]=D[d(m(-56221),25547245116656)],[D[d(m(-57378),6720755177587)]]=Z;[D[d(m(-58298),14694605305205)]]=v;[D[d(m(-57302),27415612908476)]]=c,[D[d(m(-58046),12426793364789)]]=function(H)W:_MarkDirty()if Z then Z(H)end end,[D[d(m(-55384),28399190435664)]]=p,[D[d(m(-58068),33841080072988)]]=D[d(m(-57201),11075984926795)]..p}table[D[d(m(-57898),7203953744437)]](W[D[d(m(-57559),34775263968898)]][H][D[d(m(-58057),30832363663402)]][o][D[d(m(-58004),7001010346360)]],j)W:_RegisterConfigRef(H,o,j)return{[D[d(m(-57186),23342785877227)]]=function(K,c)W[D[d(m(-55495),29819794222203)]][H][D[d(m(-55441),26661823144190)]][o][D[d(m(-55292),3351250504753)]][M][D[d(m(-55844),3524128214226)]]=c if W[D[d(m(-57139),30495198441200)]][H][D[d(m(-55346),7840702078086)]][o][D[d(m(-55407),24222207268894)]][M][D[d(m(-57923),24115903584187)]]then W[D[d(m(-57735),935257670503)]][H][D[d(m(-57230),34028990626763)]][o][D[d(m(-57822),30669149925266)]][M][D[d(m(-57978),21946878906327)]](c)end end}end function U._Section(K,H,o)K[D[d(m(-56689),18944605144299)]]=K[D[d(m(-57931),2744567859708)]]or{}K[D[d(m(-57319),25305645833231)]][H]=K[D[d(m(-57498),6443721332593)]][H]or{[D[d(m(-57827),22032780873767)]]={};[D[d(m(-57093),10550909150818)]]=D[d(m(-57247),8739451412427)]}K[D[d(m(-58106),2122852370361)]][H][D[d(m(-55769),15978839718433)]][o]={[D[d(m(-55693),30858134253634)]]={},[D[d(m(-58313),552993915395)]]=0}K[D[d(m(-55987),7632389807044)]][H][D[d(m(-56308),26153927761701)]]=((K[D[d(m(-56245),11550593296901)]][H][D[d(m(-57820),32317393925521)]]or 0))+1 if not K[D[d(m(-58277),3527349538005)]][H][D[d(m(-57189),8244441325054)]]then K[D[d(m(-56698),24076173924246)]][H][D[d(m(-56982),21373483273665)]]={}end table[D[d(m(-56358),1059815523291)]](K[D[d(m(-57393),22932603982701)]][H][D[d(m(-55680),7709701577740)]],o)return{[D[d(m(-55362),14673129813345)]]=function(c,...)return K:_Toggle(H,o,...)end,[D[d(m(-58306),1161824109626)]]=function(c,...)return K:_Slider(H,o,...)end;[D[d(m(-58241),7294150810249)]]=function(c,...)return K:_Dropdown(H,o,...)end;[D[d(m(-56420),7721513098263)]]=function(c,...)return K:_Button(H,o,...)end;[D[d(m(-57469),31833121584078)]]=function(c,...)return K:_Textbox(H,o,...)end}end function U.GetMenuSize(H)return Vector2[D[d(m(-57475),4725681983793)]](H[D[d(m(-55301),25943467941473)]],H[D[d(m(-56901),3839817944568)]])end function U.SetWatermarkEnabled(o,H)o[D[d(m(-55774),27536949437485)]]=H end function U.SetMenuTitle(H,o)local K=tostring(o)if#K>32 then K=K:sub(1,32)end H[D[d(m(-57306),31699973534546)]]=K H[D[d(m(-55730),3984777514623)]]=K end function U.SetMenuPosition(o,H)o[D[d(m(-56693),11361608968533)]]=H[D[d(m(-56960),323206152493)]]or o[D[d(m(-56285),33062593493063)]]o[D[d(m(-57337),30792634003461)]]=H[D[d(m(-56206),10677614552792)]]or o[D[d(m(-55854),19971133655207)]]end function U.SetMenuSize(H,o)H[D[d(m(-55499),30533854326548)]]=o[D[d(m(-56267),34140663184435)]]or H[D[d(m(-56807),10943910651856)]]H[D[d(m(-55499),12826237513385)]]=o[D[d(m(-55458),3721702739338)]]or H[D[d(m(-58099),17259852807882)]]end function U.SetMenuKey(H,o)local K=(tostring(o)):lower()if H[D[d(m(-57304),6547877468114)]][K]then H[D[d(m(-56210),846134379284)]]=K H:Notification(D[d(m(-55646),28640789719089)]..K:upper(),3)else H:Notification(D[d(m(-56130),28142558307937)]..K,3)end end function U.CenterMenu(H)local o=H:_GetScreenSize()local K=H:GetMenuSize()H:SetMenuPosition(Vector2[D[d(m(-57333),16675719429290)]](o[D[d(m(-56206),33798129089268)]]/2-K[D[d(m(-57210),9233387725207)]]/2,o[D[d(m(-55488),24833185012311)]]/2-K[D[d(m(-57873),32590132672143)]]/2))end function U.Notification(K,H,o)local c=tostring(H)K[D[d(m(-57308),11322953083185)]]=K[D[d(m(-58179),11916750433114)]]or{}for H,K in ipairs(K[D[d(m(-58023),1894138382052)]])do if K[D[d(m(-57569),34540107333031)]]==c then if os[D[d(m(-57980),12896032861930)]]()-K[D[d(m(-57132),1486104036712)]]<1 then return end K[D[d(m(-56440),632453235277)]]=os[D[d(m(-57570),3559562775795)]]()K[D[d(m(-57110),9259158315439)]]=o return end end if#K[D[d(m(-57533),25122030377828)]]>=6 then table[D[d(m(-56602),18890916414649)]](K[D[d(m(-55665),2973281848017)]],1)end table[D[d(m(-57456),9330027438577)]](K[D[d(m(-56074),4753600123211)]],{[D[d(m(-56706),5017748673089)]]=c;[D[d(m(-58194),7358577285829)]]=o or 3,[D[d(m(-56659),14764400653750)]]=K[D[d(m(-57167),918077277015)]];[D[d(m(-56525),20691636407110)]]=os[D[d(m(-56606),34214753631352)]]()})K[D[d(m(-57451),16373988768657)]]=K[D[d(m(-55363),34398369086755)]]+1 end function U.Tab(o,H)o[D[d(m(-56295),6329901225735)]]=o[D[d(m(-55884),25290612988929)]]or{}o[D[d(m(-58072),2699469326802)]][H]={[D[d(m(-56612),12113251183633)]]={},[D[d(m(-55822),7819226586226)]]=D[d(m(-57247),32818846660452)]}o[D[d(m(-56472),3841965493754)]]=o[D[d(m(-56112),16831416745275)]]or{}table[D[d(m(-55490),16862556208472)]](o[D[d(m(-55529),122410303602)]],H)if not o[D[d(m(-58256),1971450152748)]]then o[D[d(m(-56161),20150454012238)]]=H o[D[d(m(-56307),133148049532)]]=1 end if not o[D[d(m(-56819),10211596379430)]]and not o[D[d(m(-57732),21917886992316)]]then o:AutoLoadConfig()end return{[D[d(m(-56088),26575921176750)]]=function(K,c)return o:_Section(H,c)end}end function U.RegisterActivity(H,o)H[D[d(m(-58318),12207743347817)]]=H[D[d(m(-56694),33932350913393)]]or{}local K=#H[D[d(m(-56107),12612556369378)]]+1 H[D[d(m(-56983),23472712602980)]][K]=o return{[D[d(m(-57291),2762822027789)]]=function(o)H[D[d(m(-57084),31742924518266)]][K]=nil end}end function U.Unload(H)H[D[d(m(-58166),19288213014059)]]=true H[D[d(m(-57361),31228586488219)]]=D[d(m(-58208),22935825306480)]H[D[d(m(-57844),23490966771061)]]=1 end function U.CreateSettingsTab(H,o)local K=H:Tab(o or D[d(m(-56636),7983514098955)])local c=o or D[d(m(-55448),22205658583240)]H[D[d(m(-57379),34023621753798)]]=H[D[d(m(-58005),15144516859672)]]or{}for o,K in ipairs(H[D[d(m(-57942),27334006039408)]])do if K==c then table[D[d(m(-56097),20319036623339)]](H[D[d(m(-57285),172877709473)]],o)break end end table[D[d(m(-55960),24186772707325)]](H[D[d(m(-57607),31230734037405)]],c)local Z=K:Section(D[d(m(-56900),21735345311506)]);(Z:Toggle(D[d(m(-57518),25124177927014)],H[D[d(m(-57448),8049014349128)]],function(o)H[D[d(m(-56975),27546613408822)]]=o end)):AddKeybind(H[D[d(m(-56257),28070615410206)]],function(o)H[D[d(m(-56496),10717344212733)]]=H:_KeyIDToName(o)end)Z:Toggle(D[d(m(-55694),30934372249737)],true,function(o)H:SetWatermarkEnabled(o)end)Z:Toggle(D[d(m(-56092),4285434400663)],H[D[d(m(-57564),8462417567433)]],function(o)H[D[d(m(-55360),21386368568781)]]=o end)Z:Textbox(D[d(m(-55678),1619252086244)],H[D[d(m(-55412),16881884151146)]],function(o)local K=tostring(o)if#K>32 then K=K:sub(1,32)end H[D[d(m(-55339),11519453833704)]]=K end)Z:Button(D[d(m(-56276),23064678257640)],false,function()H:Unload()end)local W=K:Section(D[d(m(-56821),21285433757039)])local v={}for H in pairs(H[D[d(m(-57643),28718101489785)]]or{})do table[D[d(m(-55516),4812657725826)]](v,H)end table[D[d(m(-56958),5457996256219)]](v)W:Dropdown(D[d(m(-55478),29344112077504)],{H[D[d(m(-58214),32077942191282)]]},v,false,false,function(o)if o and o[1]then H:_ApplyTheme(o[1])end end)W:Textbox(D[d(m(-57067),31242545557928)],D[d(m(-57247),6140916897367)],function(o)if o and o~=D[d(m(-57247),22479471104455)]then H[D[d(m(-58282),30359902842482)]]=o end end)H:_RefreshConfigList()local M=H[D[d(m(-55277),2524444068143)]]if#M==0 then M={D[d(m(-56728),3763579948465)]}end local p=W:Dropdown(D[d(m(-56864),21216712183087)],{H[D[d(m(-57086),1674014590487)]]},M,false,false,function(o)if o and o[1]then H[D[d(m(-57997),7123420649962)]]=o[1]end end)W:Button(D[d(m(-56548),32090827486398)],false,function()H:SaveConfig(H[D[d(m(-55355),29561014545290)]])local o=H:_RefreshConfigList()if#o==0 then o={D[d(m(-57077),22740398330554)]}end p:UpdateChoices(o)end)W:Button(D[d(m(-55998),23674582226464)],false,function()H:LoadConfig(H[D[d(m(-57458),3845186817533)]])end)W:Button(D[d(m(-55989),6992420149616)],false,function()H:DeleteConfig(H[D[d(m(-55302),13855987348072)]])local o=H:_RefreshConfigList()if#o==0 then o={D[d(m(-55994),33050781972540)]}end p:UpdateChoices(o)H[D[d(m(-55725),29815499123831)]]=o[1]or D[d(m(-55473),6269769848527)]end)return K,Z,W end local function i(H,o)local K=o[D[d(m(-57227),15979913493026)]]if K==D[d(m(-56168),763453735623)]then local o=H[D[d(m(-56237),1074848367593)]]local K=H[D[d(m(-57121),23779812136578)]]return(o+2)+K end if K==D[d(m(-58324),28356239451944)]then local K=(q(H,o[D[d(m(-56968),16652096388244)]]))[D[d(m(-58148),34125630340133)]]+6 local c=H[D[d(m(-55530),32290549560696)]]return(K+18)+c*3 end if K==D[d(m(-57594),16830342970682)]then return(q(H,o[D[d(m(-55368),1020085863350)]]))[D[d(m(-57750),29730670930984)]]*2+H[D[d(m(-56773),35066256883601)]]*4 end if K==D[d(m(-56355),8185383722439)]then return(q(H,o[D[d(m(-55280),16977450089923)]]))[D[d(m(-55645),9383716168227)]]+H[D[d(m(-55848),20749620235132)]]*3 end if K==D[d(m(-57245),9263453413811)]then return H[D[d(m(-55561),28371272296246)]]+H[D[d(m(-55984),17980355559785)]]*2 end return 0 end local function s(H,o)local K=H[D[d(m(-57123),28877020129549)]]if not K or K==D[d(m(-57247),29708121664531)]then return true end if not o[D[d(m(-56493),26144263790364)]]then o[D[d(m(-56296),5463365129184)]]=o[D[d(m(-57328),1485030262119)]]:lower()end return o[D[d(m(-56617),5788718830863)]]:find(K,1,true)~=nil end function U.Step(H)local o={}if H[D[d(m(-57126),17127778532943)]]then return end H[D[d(m(-58003),29430014044944)]]={[D[d(m(-57036),6526401976254)]]=0;[D[d(m(-56192),14180267275158)]]=0,[D[d(m(-56344),2837986249299)]]=0,[D[d(m(-57814),6452311529337)]]=0,[D[d(m(-56397),20720628321121)]]=0}H[D[d(m(-56157),4259663810431)]]=H[D[d(m(-58244),29183045888554)]]or{}H[D[d(m(-55792),20606808214263)]]=H[D[d(m(-56424),30466206527189)]]or{}H[D[d(m(-58021),10545540277853)]]=H[D[d(m(-56610),32040360080527)]]or{}H[D[d(m(-55677),22274380157192)]]=H[D[d(m(-56644),14873925662236)]]or{}H[D[d(m(-57878),28677298055251)]]=H[D[d(m(-56830),33685382757003)]]or{}H[D[d(m(-56791),9277412483520)]]=H[D[d(m(-57596),20124683422006)]]or{}H[D[d(m(-56965),6461975500674)]]=H[D[d(m(-58051),20554193259206)]]or{}H[D[d(m(-57068),10784992012092)]]=nil o[1]=H[D[d(m(-57949),17023622397422)]]o[2]=H[D[d(m(-55698),31140536971593)]]o[3]=H[D[d(m(-55733),35002904182614)]]o[4]=H[D[d(m(-58321),31206037221766)]]o[5]=os[D[d(m(-55502),19756378736607)]]()o[6]=math[D[d(m(-57008),33063667267656)]](o[5]-H[D[d(m(-57364),25871525043742)]],.05)if H[D[d(m(-57877),22846702015261)]]==0 then o[6]=.016 end H[D[d(m(-56439),8117735923080)]]=o[5]o[7]=H[D[d(m(-56411),11886684744510)]]o[8]=function(H)return(Q(H,o[6]))end if o[7]then H[D[d(m(-58080),17498230767528)]]=C(H[D[d(m(-57447),4466902306880)]],0,(o[8](.45)))if H[D[d(m(-57592),32586911348364)]]<.02 then H[D[d(m(-57199),2012253587282)]]=H[D[d(m(-58033),12348407819500)]]H[D[d(m(-56148),3171930147722)]]=false H[D[d(m(-56772),16454521863132)]]=0 H[D[d(m(-57278),23935509452563)]]={}H[D[d(m(-55894),4085712326365)]]={}end else H[D[d(m(-56580),26765979279711)]]=C(H[D[d(m(-56117),33442709698985)]],1,(o[8](.18)))end o[9]=J(H[D[d(m(-57028),20083879987472)]])H:_PollMousePos()if H[D[d(m(-56488),33803497962233)]]and not H[D[d(m(-58209),2766043351568)]]then H[D[d(m(-57939),8461343792840)]]=true H[D[d(m(-55716),20165486856540)]]=false task[D[d(m(-57917),18516169081692)]](function()H:_DoAutoLoad()end)end H:_AutoSaveTick(o[6])o[10]=game:GetService(D[d(m(-57959),3395275263066)])o[11]=false pcall(function()o[11]=o[10]:GetFocusedTextBox()~=nil end)local K=true if type(isrbxactive)==D[d(m(-56481),26342912090069)]then pcall(function()K=isrbxactive()end)end if not H[D[d(m(-57872),8711533273009)]]then H[D[d(m(-57486),8832869802018)]]={}for o in pairs(H[D[d(m(-56177),22527790961140)]])do if o==D[d(m(-56370),2603903388025)]then H[D[d(m(-55887),2380558272681)]][o]=Enum[D[d(m(-55565),14241472426959)]][D[d(m(-57952),11657970756201)]]elseif o==D[d(m(-55612),19767116482537)]then H[D[d(m(-57771),30564993789745)]][o]=Enum[D[d(m(-56082),12901401734895)]][D[d(m(-55827),30825921015844)]]elseif o==D[d(m(-57747),2112114624431)]then H[D[d(m(-58017),24803119323707)]][o]=Enum[D[d(m(-55981),23907591313145)]][D[d(m(-56645),1040487580617)]]else pcall(function()H[D[d(m(-55501),23001325556653)]][o]=Enum[D[d(m(-55294),27132136415924)]][o:upper()]end)end end end for c,Z in pairs(H[D[d(m(-57483),32016737039481)]])do local W=false if type(iskeypressed)==D[d(m(-57340),4892117045708)]then pcall(function()W=iskeypressed(Z[D[d(m(-55527),23192457434207)]])end)else local K=H[D[d(m(-55778),19162581386678)]][c]if K then if c==D[d(m(-55466),29805835152494)]or c==D[d(m(-55596),23704647915068)]or c==D[d(m(-56281),23193531208800)]then W=o[10]:IsMouseButtonPressed(K)==true else W=o[10]:IsKeyDown(K)==true end end end if not o[11]and(K and W)then H[D[d(m(-55899),28311140919038)]][c][D[d(m(-57823),2457870043377)]]=not Z[D[d(m(-56001),22780127990495)]]and not Z[D[d(m(-57701),30289033719344)]]H[D[d(m(-57206),24086911670176)]][c][D[d(m(-57860),14594744268056)]]=true else H[D[d(m(-56024),11961848966020)]][c][D[d(m(-56108),19572763281204)]]=false H[D[d(m(-56042),14561457255673)]][c][D[d(m(-55709),13222460338202)]]=false end end local j=H:_IsKeyPressed(D[d(m(-56713),7856808696981)])local O=H:_IsKeyHeld(D[d(m(-57503),34083753131006)])local r=H:_IsKeyPressed(D[d(m(-56228),31858892174310)])local N=(tostring(H[D[d(m(-57022),34004293811124)]]and H[D[d(m(-57850),17571247439852)]]or D[d(m(-57246),9293519102415)])):lower()local I=H:_IsKeyPressed(N)local S=false local w=false for H,o in pairs(H[D[d(m(-57160),29742482451507)]])do if not R[H]and(not h[H]and(not n[H]and(not E[H]and o[D[d(m(-56631),2691952904651)]])))then w=true break end end local F=j and not w if I then H[D[d(m(-55572),5470881551335)]]=not H[D[d(m(-57664),371526009178)]]if not H[D[d(m(-55317),15487050954839)]]then H:_RemoveDropdown()H:_RemoveColorpicker()H:_RemoveCtxMenu()local o=N:upper()..D[d(m(-55388),30050655759698)]H:Notification(D[d(m(-57595),33191446444223)]..o,3)end end if H[D[d(m(-56121),30455468781259)]]then if H[D[d(m(-56665),16868998856030)]]==D[d(m(-57127),5066068529774)]then H[D[d(m(-56460),6619820365845)]]=C(H[D[d(m(-56433),27222333481736)]]or 1,0,(o[8](.18)))if((H[D[d(m(-56519),30553182269222)]]or 0))<.04 then H[D[d(m(-57203),18099544539608)]]=0 H[D[d(m(-56789),29359144921806)]]=D[d(m(-56503),16002462759479)]H[D[d(m(-55629),10117104215246)]]=false end end end local X=H[D[d(m(-57925),31753662264196)]]and(not((H[D[d(m(-56394),22301224522017)]]==D[d(m(-58237),16355734600576)]or H[D[d(m(-55723),4789034684780)]]==D[d(m(-55724),14431530529920)]))and 1)or 0 local u=H[D[d(m(-57044),31042823483630)]]if u~=X then local K=C(u,X,(o[8](.12)))u=K if math[D[d(m(-58052),21462606564884)]](K-X)<.002 then u=X end H[D[d(m(-56111),14566826128638)]]=u end if H[D[d(m(-58169),9928119886878)]]and(H[D[d(m(-55378),21529180589650)]]==D[d(m(-55772),35028674772846)]and u<.01)then H[D[d(m(-56872),24640979360164)]]=true H:_FullWipe()return end local f=H[D[d(m(-55548),20982629321813)]]local A=H[D[d(m(-58073),22669529207416)]]local P=H[D[d(m(-56826),17275959426777)]]local b=H[D[d(m(-56094),31075036721420)]]and H[D[d(m(-57435),24573331560805)]]or H[D[d(m(-57169),14485219259570)]]local l=((H:_GetTextBounds(b))[D[d(m(-58146),31390726451762)]]+o[3]*2)+4 local y=H[D[d(m(-55632),32086532388026)]]if y~=H[D[d(m(-57242),33475996711368)]]then H[D[d(m(-56477),19773559130095)]]=y H[D[d(m(-55951),19537328719635)]]=y~=D[d(m(-57247),34515410517392)]and y:lower()or D[d(m(-57247),29630809893835)]local o={}if y~=D[d(m(-57247),28007262709219)]then local K=H[D[d(m(-55695),16147422329534)]]for c,Z in ipairs(H[D[d(m(-57261),33043265550389)]])do local W=H[D[d(m(-56891),16329964010344)]][Z]local v=0 if W then for H,o in ipairs(W[D[d(m(-55718),18965006861566)]]or{})do for H,o in ipairs(((W[D[d(m(-58314),28108197520961)]][o]or{[D[d(m(-58253),33028232706087)]]={}}))[D[d(m(-57770),25661065223514)]]or{})do if not o[D[d(m(-58261),11339059702080)]]then o[D[d(m(-56229),12778991431293)]]=o[D[d(m(-56010),4852387385767)]]:lower()end if o[D[d(m(-55805),19368746108534)]]:find(K,1,true)then v=v+1 end end end end o[Z]=v end end H[D[d(m(-56764),11084575123539)]]=o end if not H[D[d(m(-57889),30873167097936)]]then H[D[d(m(-58198),18771727434826)]]=0 end if not H[D[d(m(-56736),10577753515643)]]then H[D[d(m(-56600),35105986543542)]]=0 end local k=H[D[d(m(-56787),28052361242125)]]local t=H[D[d(m(-55765),19965764782242)]][H[D[d(m(-56238),25569794383109)]]]local U={}local a=o[3]local x={}local T=o[3]if t then for K,c in ipairs(t[D[d(m(-56256),14477702837419)]]or{})do local Z=t[D[d(m(-57118),23019579724734)]][c]or{[D[d(m(-56896),6363188238118)]]={}}local W=q(H,c)local v=W[D[d(m(-58074),31604407595769)]]/2 local M=Z[D[d(m(-56174),5922940654988)]]local p=0 local j=o[3]+v for K,c in ipairs(M or{})do local Z=s(H,c)if Z then p=p+1 end local W=c[D[d(m(-57853),22849923339040)]]local v=Z and 1 or 0 local M=H[D[d(m(-56497),5542824449066)]][W]if M==nil then M=v end if M~=v then M=C(M,v,(o[8](.15)))end H[D[d(m(-55579),28226312726191)]][W]=M if M>.001 then j=j+i(H,c)*M end end local O=D[d(m(-56156),27868745786722)]..(H[D[d(m(-57332),9051919818990)]]..(D[d(m(-55309),15408665409550)]..c))local L=p>0 and 1 or 0 H[D[d(m(-55885),27956795303348)]][O]=C(H[D[d(m(-57009),21821247278946)]][O]or L,L,(o[8](.15)))local G=H[D[d(m(-56948),2118557271989)]][O]if G>.001 then local H=j+o[3]*G if K%2==0 then table[D[d(m(-56844),19676919416725)]](x,{[D[d(m(-57046),13912897401501)]]=c,[D[d(m(-56849),543329944058)]]=H,[D[d(m(-55414),31122282803512)]]=W;[D[d(m(-58125),8640664149871)]]=G})T=(T+H)+((W[D[d(m(-55845),10206227506465)]]/2+o[3]))*G else table[D[d(m(-55541),6176351458936)]](U,{[D[d(m(-57544),26625314808028)]]=c;[D[d(m(-57362),32274442941801)]]=H,[D[d(m(-56719),13126894399425)]]=W,[D[d(m(-58067),9417003180610)]]=G})a=(a+H)+((W[D[d(m(-56524),26094870159086)]]/2+o[3]))*G end end end local K=math[D[d(m(-55717),28945741703501)]](a,T)local c=(((l+H[D[d(m(-58091),22666307883637)]])+o[3]*3)+K)+4 local Z=l+H[D[d(m(-57589),26902348653022)]]local W=o[3]*4 local v=H[D[d(m(-57934),28573141919730)]]k=L(c,Z+W,v)end local g=H:_GetScreenSize()if H[D[d(m(-57200),15936962509306)]]then local K=H[D[d(m(-57355),22959448347526)]]local c=H[D[d(m(-56200),27121398669994)]]+9 local Z=math[D[d(m(-56943),18097396990422)]](#((K[D[d(m(-56190),26033665007285)]]or{})),6)*c local W=K[D[d(m(-56702),16523243437084)]]local v=Z+o[3]local M=(W[D[d(m(-56765),24615208769932)]]-P)+v local p=K[D[d(m(-56531),15039286949558)]]local j=M+12 if p[D[d(m(-55546),31124430352698)]]+v<g[D[d(m(-58025),14385358222421)]]-10 and j>k then k=j end end if H[D[d(m(-57642),6866788522235)]]and not H[D[d(m(-58133),4216712826711)]][D[d(m(-57273),32100491457735)]]then local o=H[D[d(m(-56905),2915298019995)]]local K=(o[D[d(m(-57436),24092280543141)]][D[d(m(-56034),26980734198311)]]-P)+215 local c=o[D[d(m(-56118),23694983943731)]]local Z=K+12 local W=c[D[d(m(-56765),19251704677897)]]local v=g[D[d(m(-55907),17187909910151)]]if W+215<v-10 and Z>k then k=Z end end local z=H[D[d(m(-56466),11007263352843)]]or H[D[d(m(-55986),25432351235205)]]if z~=k then local K=C(z,k,(o[8](.22)))z=K if math[D[d(m(-57410),9689741927232)]](K-k)<.5 then z=k end H[D[d(m(-57699),12580343131588)]]=z end local B=((Vector2[D[d(m(-55453),4547435401355)]](A-2,(k-l)-2))[D[d(m(-55990),19228081636851)]]-H[D[d(m(-56029),8373294276214)]])-o[3]*2 local e=math[D[d(m(-56271),14541055538406)]](0,(math[D[d(m(-57005),14046045451033)]](a,T)-B)+o[3])if H[D[d(m(-57725),21896411500456)]]and(O and H[D[d(m(-56247),26790676095350)]])then local o=H[D[d(m(-58117),12859524525768)]]or Vector2[D[d(m(-55959),22834890494738)]]()H[D[d(m(-55820),18728776451106)]]=o[D[d(m(-57063),4151212576538)]]-H[D[d(m(-57100),29661949357032)]][D[d(m(-58301),5438668313545)]]H[D[d(m(-55645),16207553706742)]]=o[D[d(m(-55726),7679635889136)]]-H[D[d(m(-57630),7887948160178)]][D[d(m(-57294),33481365584333)]]elseif not O then H[D[d(m(-58240),10180456916233)]]=nil end local Y=q(H,b)local Hi=Y[D[d(m(-57550),33424455530904)]]local oi=Y[D[d(m(-55937),26200100069200)]]+16 local Ki=Hi+44 local ci=Vector2[D[d(m(-56373),4787960910187)]]((g[D[d(m(-58301),28866282383619)]]-Ki)-16,16)local Zi=H[D[d(m(-57969),4791182233966)]]and(H[D[d(m(-56383),26323584147395)]]==D[d(m(-55853),25963869658740)]and J(u))or 1 if H[D[d(m(-56660),9896980423681)]]then local K=o[1][D[d(m(-57679),22654496363114)]]local c=.2*Zi local Z=Vector2[D[d(m(-56379),17097712844339)]](2,3)local W=ci+Z local v=Vector2[D[d(m(-57292),33331037141313)]](Ki,oi)H:_Draw(D[d(m(-58216),27088111657611)],K,98,c,W,v,true,o[2])local M=o[1][D[d(m(-55434),23713238111812)]]local p=Vector2[D[d(m(-56080),13060320374659)]](Ki,oi)H:_Draw(D[d(m(-56775),34346827906291)],M,99,Zi,ci,p,true,o[2])local j=o[1][D[d(m(-57865),27975049471429)]]local O=Vector2[D[d(m(-58050),26899127329243)]](Ki,oi)H:_Draw(D[d(m(-57233),3342660308009)],j,100,Zi,ci,O,false,o[2])local C=o[1][D[d(m(-58292),11819036945151)]]local L=ci+Vector2[D[d(m(-56991),20042002778345)]](12,oi/2)H:_Draw(D[d(m(-55691),18923129652439)],C,101,Zi,L,3.5,true)local G=o[1][D[d(m(-56410),17933109477693)]]local J=Vector2[D[d(m(-56931),28565625497579)]](22,((oi-H[D[d(m(-55387),7409044691700)]]))/2+1)H:_Draw(D[d(m(-57984),25440941431949)],G,101,Zi,ci+J,b,false,nil,13)end local Wi=16+oi local vi=H[D[d(m(-55644),24137379076047)]]local Mi=Wi+10 local pi=#vi if not((pi<1))then repeat local K=H[D[d(m(-57075),32249746126162)]][pi]local c=K[D[d(m(-55484),17764526866592)]]+K[D[d(m(-55823),17081606225444)]]local Z=o[5]>c local W=math[D[d(m(-55255),1784613373566)]](0,math[D[d(m(-56970),3622915476782)]]((K[D[d(m(-57574),13902159655571)]]-o[5])+((Z and K[D[d(m(-55324),20880620735478)]]+1 or 1)),1))local v=math[D[d(m(-56487),350050517318)]](((Z and 0 or 1))-(W*W)*((3-2*W)))local M=H[D[d(m(-57387),18235913912919)]]local p=K[D[d(m(-56312),29642621414358)]]local j=v*Zi local O=M(H,p)local C=(O[D[d(m(-56457),16004610308665)]]+o[3]*2)+6 local L=O[D[d(m(-57585),20416750111302)]]+o[3]*1.2 local G=((C+40))*((1-J(j)))local V=Vector2[D[d(m(-56409),7842849627272)]](((g[D[d(m(-56146),19481492440799)]]-C)-16)+G,Mi)local h=math[D[d(m(-57504),4590386385075)]](0,math[D[d(m(-55818),5531012928543)]](j,1))local n=o[1][D[d(m(-57536),32114450527444)]]local E=V+Vector2[D[d(m(-56730),11195173906618)]](2,4)local R=Vector2[D[d(m(-56941),1691194983975)]](C,L)local r=o[2]+2 H[D[d(m(-56102),22247535792367)]](H,D[d(m(-56012),7731177069600)],n,103,.15*h,E,R,true,r)local N=o[1][D[d(m(-56921),33506062399972)]]local I=Vector2[D[d(m(-56110),7899759680701)]](C,L)H:_Draw(D[d(m(-55298),22318404915505)],N,104,h,V,I,true,o[2]+2)local q=o[1][D[d(m(-55910),11140411402375)]]local Q=Vector2[D[d(m(-56956),9172182573406)]](C,L)local S=o[2]+2 H[D[d(m(-57540),27351186432896)]](H,D[d(m(-56122),25177866656664)],q,105,h,V,Q,false,S)local w=o[1][D[d(m(-56064),11693405317770)]]local F=Vector2[D[d(m(-57315),35175781892088)]](o[3],((L-H[D[d(m(-57161),17886937170194)]]))/2+1)H:_Draw(D[d(m(-57087),26672560890120)],w,105,h,V+F,K[D[d(m(-57074),9073395310850)]],false)Mi=Mi+((L+6))*j if o[5]>c+1 then table[D[d(m(-58019),27608892335216)]](H[D[d(m(-55949),10792508434243)]],pi)end pi=pi+-1 until pi<1 end if u<=.015 then for o,K in pairs(H[D[d(m(-57276),13715322876389)]]or{})do for c=((H[D[d(m(-57777),28958626998617)]][o]or 0))+1,#K,1 do local Z=K[c]local W=H[D[d(m(-57055),2986167143133)]][o][c]if W and W[D[d(m(-56581),10138579707106)]]~=false then pcall(function()Z[D[d(m(-55263),6752968415377)]]=false end)W[D[d(m(-55528),35179003215867)]]=false end end end return end local ji=((1-J(u)))*50 local Oi=J(u)local Ci=false if H[D[d(m(-57389),11903865137998)]]or H[D[d(m(-55410),20294339807700)]]or H[D[d(m(-57281),34412328156464)]]then Ci=true end local Li=H[D[d(m(-58018),10177235592454)]]if Li then local K=math[D[d(m(-58161),25202563472303)]](#((Li[D[d(m(-57599),4778296938850)]]or{})),6)*((H[D[d(m(-57070),32624493459119)]]+9))local c=H[D[d(m(-58291),15746904406345)]]local Z=Li[D[d(m(-57112),20046297876717)]]local W=K+o[3]local v=c(H)local M=Z[D[d(m(-55775),19472902244055)]]local p=v[D[d(m(-56511),29966901341444)]]if M+W>p-10 then local H=Vector2[D[d(m(-57635),28429256124268)]]local o=Z[D[d(m(-57099),3121462741851)]]local K=Li[D[d(m(-58159),6677804193867)]]Z=H(o,(Z[D[d(m(-57352),13391042949303)]]-W)-((K or 0)))end local j=table[D[d(m(-57527),30078573899116)]](Vector2[D[d(m(-55931),7236166982227)]](Li[D[d(m(-56062),20816194259898)]],W))if H:_IsMouseWithinBounds(Z,table[D[d(m(-57347),11992988429217)]](j,1,j[D[d(m(-55499),7227576785483)]]))then Ci=true end end local Gi=H[D[d(m(-57798),9655381140256)]]if Gi and not Gi[D[d(m(-58242),20437151828569)]]then local o=Gi[D[d(m(-56825),4110409142004)]]local K=table[D[d(m(-55274),23095817720837)]](Vector2[D[d(m(-56508),19545918916379)]](240,215))if H:_IsMouseWithinBounds(o,table[D[d(m(-57886),32480607663657)]](K,1,K[D[d(m(-57294),9478208332411)]]))then Ci=true end end if H[D[d(m(-57538),15880052455877)]]then Ci=true end local Ji=o[1][D[d(m(-58079),1396980745493)]]local Vi=.12*Oi local hi=Vector2[D[d(m(-56415),34579836992972)]]local ni=P+ji local Ei=hi(f-1,ni+3)local Ri=Vector2[D[d(m(-56754),6909739505955)]](A+2,z)H:_Draw(D[d(m(-56009),14939425912409)],Ji,0,Vi,Ei,Ri,true,o[2]+1)local ri=o[1][D[d(m(-56313),22528864735733)]]local Ni=.06*Oi local Ii=Vector2[D[d(m(-57671),9509347795608)]]local qi=P+ji local Qi=Ii(f-3,qi+6)local Si=Vector2[D[d(m(-56883),4049203990203)]](A+6,z)H:_Draw(D[d(m(-56996),6291245340387)],ri,0,Ni,Qi,Si,true,o[2]+3)local wi=o[1][D[d(m(-57473),10069858133154)]]local Fi=P+ji local Xi=Vector2[D[d(m(-56279),10147169903850)]](f,Fi)local ui=Vector2[D[d(m(-55393),5214249423608)]](A,z)H:_Draw(D[d(m(-55689),33486734457298)],wi,1,Oi,Xi,ui,true,o[2])local fi=o[1][D[d(m(-56812),33299897678116)]]local Ai=Vector2[D[d(m(-57000),20543455513276)]](f+1,(P+ji)+1)local Pi=Vector2[D[d(m(-57499),27965385500092)]](A-2,l)H:_Draw(D[d(m(-56842),11563478592017)],fi,20,Oi,Ai,Pi,true,o[2]-1)local bi=o[1][D[d(m(-58188),4129737084678)]]local li=Vector2[D[d(m(-57104),14425087882362)]]local yi=P+ji local ki=li(f+1,yi+l)local ti=Vector2[D[d(m(-56055),19953953261719)]](A-2,1)H:_Draw(D[d(m(-58189),16078700755582)],bi,21,Oi,ki,ti,true)local Ui=(P+ji)+l/2 local ai=f+16 local ii=Vector2[D[d(m(-56077),31906138256402)]](ai,Ui)H:_Draw(D[d(m(-57438),2627526429071)],c,22,Oi,ii,6,true)local si=Vector2[D[d(m(-55436),32331352995230)]](ai+20,Ui)H:_Draw(D[d(m(-58206),18640726934480)],W,22,Oi,si,6,true)local xi=Vector2[D[d(m(-57640),11850176408348)]](ai+40,Ui)H:_Draw(D[d(m(-55635),32315246376335)],M,22,Oi,xi,6,true)local Ti=Vector2[D[d(m(-57338),13863503770223)]](ai,Ui)H:_Draw(D[d(m(-56216),12738187996759)],Z,23,Oi,Ti,6,false)local di=Vector2[D[d(m(-55711),21294023953783)]](ai+20,Ui)H:_Draw(D[d(m(-57088),33052929521726)],v,23,Oi,di,6,false)local Di=Vector2[D[d(m(-56351),25672876744037)]](ai+40,Ui)H:_Draw(D[d(m(-55463),18600997274539)],p,23,Oi,Di,6,false)local gi=F if F then local o=Vector2[D[d(m(-55334),16789539536148)]](ai-6,Ui-6)local K=table[D[d(m(-57665),18651464680410)]](Vector2[D[d(m(-57449),13046361304950)]](12,12))gi=H:_IsMouseWithinBounds(o,table[D[d(m(-57662),9361166901774)]](K,1,K[D[d(m(-56492),20458627320429)]]))end if gi then H[D[d(m(-58002),13065689247624)]]=false H:_RemoveDropdown()H:_RemoveColorpicker()H:_RemoveCtxMenu()H:Notification(D[d(m(-55898),2611419810176)],3)S=true j=false end if H[D[d(m(-57973),14276906988528)]]and u>.5 then local K=o[1][D[d(m(-57409),21718164918018)]]local c=Vector2[D[d(m(-58102),9990398813272)]]local Z=A/2 local W=P+ji local v=c(f+Z,W+l/2)H:_Draw(D[d(m(-56016),4301541019558)],K,22,Oi,v,b,false,D[d(m(-57367),12917508353790)])end H[D[d(m(-58134),11673003600503)]]=H[D[d(m(-56337),22451552965037)]]or D[d(m(-57247),11806151650035)]H[D[d(m(-55512),3258905889755)]]=H[D[d(m(-56045),23819541796519)]]or false H[D[d(m(-56911),22718922838694)]]=H[D[d(m(-55446),7337101793969)]]or 22 H[D[d(m(-58162),12074595298285)]]=C(H[D[d(m(-55289),14240398652366)]],((H[D[d(m(-56162),25169276459920)]]or H[D[d(m(-55462),23513516037514)]]~=D[d(m(-57247),19114261529993)]))and 130 or 22,(o[8](.2)))local mi=f+A local zi=H[D[d(m(-55648),1840449652402)]]local Bi=mi-zi local ei=P+ji local Yi=Bi-10 local Hd=((l-22))/2 local od=ei+Hd local Kd=Vector2[D[d(m(-57880),21705279622902)]](Yi,od)local cd=Vector2[D[d(m(-55344),23469491279201)]](zi,22)local Zd=not Ci and H:_IsMouseWithinBounds(Kd,cd)if F and Zd then H[D[d(m(-58070),25610597817643)]]=true S=true j=false elseif F and not S then H[D[d(m(-55316),2911002921623)]]=false end if H[D[d(m(-56802),13787265774120)]]and H:_IsKeyPressed(D[d(m(-56884),31179192856941)])then H[D[d(m(-55261),382263755108)]]=D[d(m(-57247),13144074792913)]H[D[d(m(-57525),4495894220891)]]=false end if H[D[d(m(-55929),19260294874641)]]then local o={[D[d(m(-57403),11853397732127)]]=D[d(m(-58025),1329332946134)];[D[d(m(-55624),20548824386241)]]=D[d(m(-57873),32638452528828)],[D[d(m(-58308),23300908668100)]]=D[d(m(-56242),18471070548786)];[D[d(m(-57422),5230356042503)]]=D[d(m(-58285),31914728453146)],[D[d(m(-56526),15769453672798)]]=D[d(m(-55546),26813225361803)];[D[d(m(-55952),12316194581710)]]=D[d(m(-55549),16653170162837)],[D[d(m(-57586),18071626400190)]]=D[d(m(-57750),15727576463671)],[D[d(m(-55608),4568910893215)]]=D[d(m(-58183),6841017932003)],[D[d(m(-56250),16717596638417)]]=D[d(m(-55269),9421298278982)],[D[d(m(-57257),10956795946972)]]=D[d(m(-56135),15441952421933)];[D[d(m(-56877),7470249843501)]]=D[d(m(-57210),4606493003970)];[D[d(m(-55364),1363693733110)]]=D[d(m(-57818),24036444264305)];[D[d(m(-55470),2450353621226)]]=D[d(m(-55986),6379294857013)]}local K={[D[d(m(-55692),29654432934881)]]=D[d(m(-56599),33026085156901)];[D[d(m(-57051),24657085979059)]]=D[d(m(-57494),31453005378156)];[D[d(m(-55895),17254483934917)]]=D[d(m(-58264),29169086818845)];[D[d(m(-57873),681846866555)]]=D[d(m(-56567),9611356381943)],[D[d(m(-58285),12281833794734)]]=D[d(m(-56807),26721954521398)];[D[d(m(-56527),23366408918273)]]=D[d(m(-55297),31378914931239)];[D[d(m(-58073),29434309143316)]]=D[d(m(-58230),9176477671778)];[D[d(m(-57750),10081669653677)]]=D[d(m(-55907),20851628821467)];[D[d(m(-55912),6615525267473)]]=D[d(m(-56960),13024885813090)];[D[d(m(-57454),31338111496705)]]=D[d(m(-58264),25044718607132)];[D[d(m(-55451),29918581484759)]]=D[d(m(-55804),30982692106422)],[D[d(m(-57790),6964502010198)]]=D[d(m(-57099),21758968352552)];[D[d(m(-58317),7186773350949)]]=D[d(m(-56101),2784297519649)];[D[d(m(-55863),30793707778054)]]=D[d(m(-58112),27140726612668)],[D[d(m(-55335),3189110541210)]]=D[d(m(-57226),949216740212)],[D[d(m(-57971),9956038026296)]]=D[d(m(-58110),20310446426595)];[D[d(m(-55775),8299203829297)]]=D[d(m(-56324),9946374054959)];[D[d(m(-56456),24579774208363)]]=D[d(m(-58146),6754042189970)];[D[d(m(-58148),2741346535929)]]=D[d(m(-57818),1889843283680)],[D[d(m(-56492),18627841639364)]]=D[d(m(-55304),16903359643006)]}local c=H[D[d(m(-57359),8128473669010)]]local Z=H:_IsKeyHeld(D[d(m(-56189),16012126730816)])or H:_IsKeyHeld(D[d(m(-55915),35015789477730)])local W for o in pairs(H[D[d(m(-57329),11174772189351)]]or{})do if H:_IsKeyHeld(o)then W=o break end end if W then if not H[D[d(m(-57986),9976439743563)]][W]then H[D[d(m(-57995),28232755373749)]][W]=os[D[d(m(-57496),29794023631971)]]()+.4 elseif os[D[d(m(-57164),30174139837893)]]()>H[D[d(m(-58121),1872662890192)]][W]then H[D[d(m(-55626),10663655483083)]][W]=os[D[d(m(-57056),34483197279602)]]()+.05 local v=o[W]or W if v==D[d(m(-55703),12616851467750)]then c=c:sub(1,-2)elseif#v==1 then if Z and K[v]then v=K[v]elseif Z then v=v:upper()end if#c<24 then c=c..v end end H[D[d(m(-56598),15054319793860)]]=c end else H[D[d(m(-55727),28357313226537)]]={}end for W in pairs(H[D[d(m(-55679),6327753676549)]]or{})do if H:_IsKeyPressed(W)then local v=o[W]or W if v==D[d(m(-57183),6442647558)]then H[D[d(m(-57021),759158637251)]]=false break end if v==D[d(m(-58322),8589122969407)]then c=c:sub(1,-2)elseif#v==1 then if Z and K[v]then v=K[v]elseif Z then v=v:upper()end if#c<24 then c=c..v end end H[D[d(m(-55526),514338030047)]]=c end end end local Wd=L(((zi-22))/108,0,1)local vd=G(o[1][D[d(m(-55933),34965322071859)]],o[1][D[d(m(-56587),30599354576721)]],Wd)H:_Draw(D[d(m(-55743),8687910231963)],vd,22,Oi,Kd,cd,true,11)H:_Draw(D[d(m(-56392),9348281606658)],H[D[d(m(-56348),26779938349420)]]and o[1][D[d(m(-56835),3847334366719)]]or o[1][D[d(m(-55398),20826932005828)]],23,Oi,Kd,cd,false,11)local Md=cd[D[d(m(-56966),34127777889319)]]local pd=Kd[D[d(m(-57210),22361355899225)]]local jd=Kd[D[d(m(-56263),31996335322214)]]+10 local Od=pd+Md/2 local Cd=o[1][D[d(m(-55415),27014021210694)]]local Ld=o[1][D[d(m(-56273),6254737004225)]]local Gd=Od-1 local Jd=G(Cd,Ld,Wd)local Vd=Vector2[D[d(m(-55837),14686015108461)]](jd,Gd)H:_Draw(D[d(m(-56326),18068405076411)],Jd,24,Oi,Vd,3,false)local hd=Vector2[D[d(m(-58302),6827058862294)]](jd+2,Gd+2)local nd=Vector2[D[d(m(-56222),9736988009324)]]local Ed=Gd+5 local Rd=nd(jd+5,Ed)H:_Draw(D[d(m(-55982),23165613069382)],Jd,24,Oi,hd,Rd,2)if Wd>.05 then local K=H[D[d(m(-57932),23317015286995)]]if H[D[d(m(-58107),20631505029902)]]then K=K..((math[D[d(m(-57316),12416055618859)]](os[D[d(m(-55651),31635547058966)]]()*2)%2==0 and D[d(m(-55645),12930393648906)]or D[d(m(-57247),29301161093784)]))end if K==D[d(m(-57247),17579837636596)]and not H[D[d(m(-55958),13947258188477)]]then K=D[d(m(-57757),9060510015734)]end if(H:_GetTextBounds(K))[D[d(m(-55692),27755999454457)]]>(cd[D[d(m(-55804),1534423893397)]]-24)-8 then for o=1,#K,1 do local c=K:sub(o)if(H:_GetTextBounds(c))[D[d(m(-55708),23026022372292)]]<=(cd[D[d(m(-57550),15223976179554)]]-24)-8 then K=c break end end end local c=((H[D[d(m(-56328),14865335465492)]]~=D[d(m(-57247),25998230445716)]or H[D[d(m(-55580),23448015787341)]]))and o[1][D[d(m(-55373),33226881005792)]]or o[1][D[d(m(-55382),12540613471647)]]local Z=Oi*Wd local W=Vector2[D[d(m(-57125),21149064383728)]](24,cd[D[d(m(-57494),9486798529155)]]/2-H[D[d(m(-56959),723724075682)]]/2)H:_Draw(D[d(m(-55483),3693784599920)],c,24,Z,Kd+W,K,false)end local rd=Vector2[D[d(m(-55474),18274569798267)]](f+1,(P+l)+1)local Nd=Vector2[D[d(m(-57401),25884410338858)]]local Id=P+ji local qd=Nd(f+1,(Id+l)+1)local Qd=Vector2[D[d(m(-56786),28892052973851)]]local Sd=z-l local wd=Qd(A-2,Sd-2)local Fd=(qd[D[d(m(-55460),18415234269950)]]+H[D[d(m(-56632),19548066465565)]])+o[3]local Xd=(wd[D[d(m(-56054),17479976599447)]]-H[D[d(m(-57513),24491724691737)]])-o[3]*2 local ud=Fd+Xd local fd=H[D[d(m(-56545),4248926064501)]]H[D[d(m(-56437),180394131624)]]=0 pcall(function()if fd==0 then local H=getmousedelta()if H and H[D[d(m(-55548),24574405335398)]]~=0 then fd=H[D[d(m(-56732),21607566134939)]]>0 and 18 or-18 end end end)if fd~=0 then if H[D[d(m(-56704),9728397812580)]]then H:_RemoveColorpicker()end end local Ad=wd[D[d(m(-56885),13121525526460)]]local Pd=#H[D[d(m(-57826),13960143483593)]]local bd=Ad-12 local ld=math[D[d(m(-57673),6829206411480)]](1,Pd)local yd=bd/ld local kd=Vector2[D[d(m(-57349),9541561033398)]](6,6)local td=qd+kd local Ud=Vector2[D[d(m(-55604),31861039723496)]](6,6)local ad=o[1][D[d(m(-58030),3058110040864)]]local id=rd+Ud local sd=Vector2[D[d(m(-55802),26254862573443)]](bd,H[D[d(m(-57711),10140727256292)]])H:_Draw(D[d(m(-55705),7440184154897)],ad,20,Oi,td,sd,true,o[2])local xd=o[1][D[d(m(-58269),34027916852170)]]local Td=Vector2[D[d(m(-56195),3657276263758)]](bd,H[D[d(m(-55686),1487177811305)]])H:_Draw(D[d(m(-56679),29751072648251)],xd,21,Oi,td,Td,false,o[2])for K,c in ipairs(H[D[d(m(-56822),18603144823725)]])do local Z=Vector2[D[d(m(-57085),6722902726773)]](yd*((K-1)),0)local W=td+Z local v=Vector2[D[d(m(-57396),16689678498999)]](yd*((K-1)),0)local M=id+v local p=Vector2[D[d(m(-57848),3383463742543)]](yd,H[D[d(m(-58118),6568279185381)]])local O=H[D[d(m(-56697),20030191257822)]]==c local C=H[D[d(m(-57220),15706100971811)]][c]or 0 local L=O and o[1][D[d(m(-57731),25413023292531)]]or o[1][D[d(m(-56301),30393189854865)]]local G=W+Vector2[D[d(m(-55829),30882831069273)]](yd/2,H[D[d(m(-56771),15163844802346)]]/2)H:_Draw(D[d(m(-57985),14066447168300)],L,24,Oi,G,c,false,D[d(m(-56504),30499493539572)])if H[D[d(m(-56718),2378410723495)]]~=D[d(m(-57247),34942772805406)]and(C>0 and not O)then local K=H:_GetTextBounds(c,nil,H[D[d(m(-55992),4667698155771)]])local Z=W[D[d(m(-57585),34030064401356)]]local v=yd/2 local M=K[D[d(m(-56322),7024633387406)]]local p=((Z+v)+M/2)+6 local j=(W[D[d(m(-58223),10816131475289)]]+H[D[d(m(-57892),1015790764978)]]/2)-4 local O=o[1][D[d(m(-57987),29870261628074)]]local C=Vector2[D[d(m(-58062),20387758197291)]](p,j)H:_Draw(D[d(m(-55336),31087922016536)],O,25,Oi,C,3,true)end if not O and(not Ci and(H:_IsMouseWithinBounds(M,p)and(j and not S)))then if not H[D[d(m(-55498),27471449187312)]]then H[D[d(m(-56661),9552298779328)]]=true H[D[d(m(-55719),32361418683834)]]=c H[D[d(m(-55323),3908539518520)]]=nil H:_RemoveDropdown()H:_RemoveColorpicker()H:_RemoveCtxMenu()H[D[d(m(-56154),4790108459373)]]=yd*((K-1))j=false S=true end end end H[D[d(m(-58129),26101312806644)]]=C(H[D[d(m(-55361),33357881506138)]],H[D[d(m(-56048),19769264031723)]],(o[8](.16)))local dd=o[1][D[d(m(-56300),21682730356449)]]local Dd=td[D[d(m(-55856),4139401056015)]]+H[D[d(m(-55996),34548697529775)]]local gd=Vector2[D[d(m(-56452),5808046773537)]](Dd+3,td[D[d(m(-56242),21999493861384)]]+3)local md=Vector2[D[d(m(-57968),24753725692429)]](yd-6,H[D[d(m(-55917),4536697655425)]]-6)local zd=o[2]-2 H[D[d(m(-55348),9220502430091)]](H,D[d(m(-55594),2254926645300)],dd,22,Oi,gd,md,true,zd)local Bd=o[1][D[d(m(-57802),3931088784973)]]local ed=Vector2[D[d(m(-56277),18594554626981)]](Dd+3,td[D[d(m(-57232),10412392228321)]]+3)local Yd=Vector2[D[d(m(-55266),12325858553047)]](yd-6,H[D[d(m(-55353),13651970175402)]]-6)H:_Draw(D[d(m(-58287),12645843381761)],Bd,23,Oi,ed,Yd,false,o[2]-2)for K,c in ipairs(H[D[d(m(-58103),22190625738938)]])do if H[D[d(m(-58040),15600871061697)]][c]and(H[D[d(m(-57481),2684436482500)]]==c and(H[D[d(m(-57894),21548508532324)]]and u>.5))then H[D[d(m(-57782),8999304863933)]][c]=H[D[d(m(-56589),14150201586554)]][c]or{[D[d(m(-55577),31102954860838)]]=0;[D[d(m(-56874),1078069691372)]]=0,[D[d(m(-56538),7084764764614)]]=0}local K=H[D[d(m(-56330),10283539277161)]][c]local Z=math[D[d(m(-57610),14255431496668)]](a,T)-Xd K[D[d(m(-57736),29033791220127)]]=math[D[d(m(-56601),1493620458863)]](0,Z+o[3])if e>0 and(K[D[d(m(-57238),6982756178279)]]>0 and o[9]>.75)then local o=((qd[D[d(m(-56381),3080659307317)]]+wd[D[d(m(-55549),17822510694614)]])-3)-2 local Z=math[D[d(m(-56780),622789263940)]](20,Xd*((Xd/((Xd+K[D[d(m(-56423),21085711682741)]])))))local W=Vector2[D[d(m(-55374),26425592733730)]](19,Xd)local v=Vector2[D[d(m(-56794),13415739764942)]]local M=v(o-8,Fd)local p=not Ci and H:_IsMouseWithinBounds(M,W)if O then if((p or H[D[d(m(-57236),14399317292130)]]==c))and(j and not S)then H[D[d(m(-56614),19120704177551)]]=c S=true j=false end if H[D[d(m(-57577),2261369292858)]]==c then local o=((H:_GetMousePos())[D[d(m(-56422),17543329300434)]]-Fd)-Z/2 local c=Xd-Z K[D[d(m(-57271),14210332963762)]]=L(o/math[D[d(m(-55585),34024695528391)]](1,c),0,1)*K[D[d(m(-56438),8070489840988)]]end elseif H[D[d(m(-55919),17784928583859)]]==c then H[D[d(m(-57207),20462922418801)]]=nil end end end end for K,c in ipairs(H[D[d(m(-57897),33147421685910)]])do local Z=H[D[d(m(-56955),34150327155772)]][c]if Z and H[D[d(m(-55271),14974860473978)]]==c then H[D[d(m(-55681),11509789862367)]][c]=H[D[d(m(-56671),23164539294789)]][c]or{[D[d(m(-56369),19379483854464)]]=0,[D[d(m(-56006),25829647834615)]]=0,[D[d(m(-56582),19190499526096)]]=0}local K=H[D[d(m(-56744),24600175925630)]][c]local W=H[D[d(m(-58186),33799202863861)]]and u>.5 local v=wd[D[d(m(-58064),1779244500601)]]/2-o[3]*1.5 local M=math[D[d(m(-56011),18662202426340)]](a,T)local p=math[D[d(m(-57250),3407086783589)]](0,(M-Xd)+o[3])K[D[d(m(-56572),2048761923444)]]=p if W then if e>0 and(p>0 and o[9]>.75)then local c=((qd[D[d(m(-56867),21530254364243)]]+wd[D[d(m(-56242),21299392826748)]])-3)-2 local Z=Xd+p local W=math[D[d(m(-55738),9037960749281)]](20,Xd*((Xd/Z)))local v=Xd-W local M=K[D[d(m(-56163),4263958908803)]]local j=math[D[d(m(-56399),15083311707871)]](1,p)local O=Fd+v*((M/j))if fd~=0 and(not Ci and H:_IsMouseWithinBounds(qd,wd))then K[D[d(m(-57452),8236924902903)]]=L(K[D[d(m(-57704),29782212111448)]]-fd,0,p)end local C=L(((o[9]-.75))/.25,0,1)local G=Oi*C local J=o[1][D[d(m(-55939),27670097487017)]]local V=.35*G local h=Vector2[D[d(m(-57374),19249557128711)]](c,Fd)local n=Vector2[D[d(m(-57767),10150391227629)]](3,Xd)H:_Draw(D[d(m(-57885),6984903727465)],J,13,V,h,n,true,1.5)local E=o[1][D[d(m(-56569),33497472203228)]]local R=.7*G local r=Vector2[D[d(m(-58203),2884158556798)]](c,O)local N=Vector2[D[d(m(-58047),17482124148633)]](3,W)H:_Draw(D[d(m(-56105),14420792783990)],E,14,R,r,N,true,1.5)elseif fd~=0 and(not Ci and H:_IsMouseWithinBounds(qd,wd))then K[D[d(m(-57753),34571246796228)]]=L(K[D[d(m(-57645),16728334384347)]]-fd,0,p)end end if K[D[d(m(-57437),14982376896129)]]~=K[D[d(m(-56940),21159802129658)]]then K[D[d(m(-57150),19448205428416)]]=C(K[D[d(m(-57222),3180520344466)]],K[D[d(m(-56886),11441068288415)]],(o[8](.18)))if math[D[d(m(-57195),17897674916124)]](K[D[d(m(-55983),17637821464618)]]-K[D[d(m(-56004),27251325395747)]])<.5 then K[D[d(m(-56058),2129295017919)]]=K[D[d(m(-57243),28455026714500)]]end end local h=K[D[d(m(-57358),5815563195688)]]local function n(K,M,p)local n=Fd+o[3]local E=n-h for K,M in ipairs(K)do local h=M[D[d(m(-57444),3140790684525)]]local n=M[D[d(m(-56061),22800529707762)]]local R=M[D[d(m(-58110),3322258590742)]]local N=M[D[d(m(-58251),19102450009470)]]local I=D[d(m(-56551),30507009961723)]..(c..(D[d(m(-58073),10121399313618)]..h))H[D[d(m(-56385),4970502590997)]]=H[D[d(m(-56532),29935761878247)]]or{}if H[D[d(m(-55798),19739198343119)]][I]==nil then H[D[d(m(-57789),16332111559530)]][I]=10 end local Q=H[D[d(m(-57641),17678624899152)]][I]if Q~=0 then Q=C(Q,0,(o[8](.14)))if math[D[d(m(-55993),3415676980333)]](Q)<.25 then Q=0 end H[D[d(m(-57637),29097143921114)]][I]=Q end local w=(E+(N[D[d(m(-55895),23563983443385)]]/2)*n)+Q local F=Vector2[D[d(m(-56127),28960774547803)]](p,w)if W then local K=F[D[d(m(-55878),16944163077540)]]local W=F[D[d(m(-58187),5615841121390)]]+R local M=math[D[d(m(-58231),22421487276433)]](K,Fd)local p=math[D[d(m(-57101),26476060139601)]](W,ud)-M local I=math[D[d(m(-57248),5939047273883)]](0,p)local Q=I>0 local w=n*o[9]if H[D[d(m(-55574),4839502090651)]]and H[D[d(m(-56860),32634157430456)]]==D[d(m(-56834),15316320794552)]then w=w*((H[D[d(m(-56854),1265980245147)]]or 1))end if Q and w>.001 then local K=o[1][D[d(m(-57102),23909738862331)]]local c=.1*w H:_Draw(D[d(m(-57941),16132389485232)],K,2,c*Oi,Vector2[D[d(m(-58049),12438604885312)]](F[D[d(m(-57934),13732503269877)]]+2,M+3),Vector2[D[d(m(-55403),12739261771352)]](v,I),true,o[2])H:_Draw(D[d(m(-57905),33696120502933)],o[1][D[d(m(-55803),30478018047712)]],3,w*Oi,Vector2[D[d(m(-55430),30633715363697)]](F[D[d(m(-56774),25315309804568)]],M),Vector2[D[d(m(-55790),32714690524931)]](v,I),true,o[2])H:_Draw(D[d(m(-56662),17537960427469)],o[1][D[d(m(-57006),9959259350075)]],4,w*Oi,Vector2[D[d(m(-56288),24257641830463)]](F[D[d(m(-57551),34973912268603)]],M),Vector2[D[d(m(-55390),20989071969371)]](v,I),false,o[2])end local X=F[D[d(m(-56412),16817457675566)]]-(N[D[d(m(-57551),19467533371090)]]/2)*n local u=N[D[d(m(-56966),10860156233602)]]local f=X-7 local A=f+u local P=n*o[9]if A>Fd and f<ud then local o=f-Fd local K=ud-A if o<12 then P=math[D[d(m(-56578),6266548524748)]](P,math[D[d(m(-56889),14930835715665)]](0,o/12))end if K<12 then P=math[D[d(m(-55320),29487997872966)]](P,math[D[d(m(-55507),17253410160324)]](0,K/12))end if o<0 or K<0 then P=0 end if H[D[d(m(-57270),10554130474597)]]and H[D[d(m(-58063),25738376994210)]]==D[d(m(-56705),30848470282297)]then P=P*((H[D[d(m(-56354),19651148826493)]]or 1))end else P=0 end if P>.001 then local K=o[1][D[d(m(-56676),12309751934152)]]H:_Draw(D[d(m(-56361),14039602803475)],K,6,Oi*P,Vector2[D[d(m(-57082),24018190096224)]](F[D[d(m(-57818),32945552062426)]]+o[3],f),h,false)end local b=Z[D[d(m(-57583),5906834036093)]]and Z[D[d(m(-58207),2700543101395)]][h]local l=((o[3]+N[D[d(m(-57613),10378031441345)]]/2))*n for K,Z in ipairs(((b or{[D[d(m(-56855),1403423393051)]]={}}))[D[d(m(-55836),14244693750738)]]or{})do local W=H[D[d(m(-57975),21662328639182)]][Z[D[d(m(-55461),17106303041083)]]]or 0 if W>.001 then local M=i(H,Z)local p=M*W local E=Vector2[D[d(m(-55881),795666973413)]](F[D[d(m(-56483),6725050275959)]]+o[3],F[D[d(m(-57501),12027349216193)]]+l)local R=Z[D[d(m(-56134),15895085300179)]]local N=Z[D[d(m(-55519),12093923240959)]]local I=Z[D[d(m(-57600),27425276879813)]]local w=h..tostring(K)local X=E[D[d(m(-55452),10794655983429)]]local u=c..w local f=(E[D[d(m(-55642),7486356462396)]]+p)-o[3]*W local A=Q and(f>=Fd and X<=ud)local P=W*o[9]if A then local o=X-Fd local K=ud-f if o<12 then P=math[D[d(m(-56715),19554509113123)]](P,math[D[d(m(-57656),21979092144117)]](0,o/12))end if K<12 then P=math[D[d(m(-57772),14005242016499)]](P,math[D[d(m(-57792),2722018593255)]](0,K/12))end if o<0 or K<0 then P=0 end if H[D[d(m(-56349),34821436276397)]]and H[D[d(m(-58284),1967155054376)]]==D[d(m(-56291),34706542394946)]then P=P*((H[D[d(m(-58036),24330658502787)]]or 1))end end if P<=.001 then A=false end local b=Z[D[d(m(-57187),32848912349056)]]local y=A and P>.4 if A then H[D[d(m(-56753),3294340451324)]][b]=true local K=y and(j and not S)local c=(Oi*P)*n if R==D[d(m(-57375),20372725352989)]then local W=N and 1 or 0 local M=H[D[d(m(-55767),30005557226792)]][u]if M==nil then M=W elseif M~=W then M=C(M,W,(o[8](.1)))end H[D[d(m(-55426),16270906407729)]][u]=M local p=H[D[d(m(-57717),34441320070475)]]+2 local O=Z[D[d(m(-58124),2631821527443)]]local L=Z[D[d(m(-56207),27034422927961)]]local J=0 if O then local W=O[D[d(m(-56605),15353902905307)]]J=o[4]+o[3]local M=((W or D[d(m(-58257),21378852146630)])):upper()local C=O[D[d(m(-58293),28280001455841)]]and D[d(m(-56091),30906454110319)]or M local L=12 while L>7 and(H:_GetTextBounds(C,nil,L))[D[d(m(-55845),27717343569109)]]>o[4]-6 do L=L-1 end local V=Vector2[D[d(m(-58204),27869819561315)]]local h=(F[D[d(m(-56642),16920540036494)]]+v)-o[4]local n=E[D[d(m(-57890),21021285207161)]]local R=h-o[3]local r=V(R,n+((p-H[D[d(m(-57368),15862872062389)]]))/2)local N=Vector2[D[d(m(-56533),22051035041848)]](o[4],H[D[d(m(-55932),12498736262520)]]+2)local q=not Ci and H:_IsMouseWithinBounds(r,N)local Q=q and G(o[1][D[d(m(-55586),17883715846415)]],o[1][D[d(m(-55617),7472397392687)]],.2)or o[1][D[d(m(-56053),24151338145756)]]if O[D[d(m(-57563),14879294535201)]]and not O[D[d(m(-58171),17466017529738)]]then if H:_IsKeyPressed(O[D[d(m(-56039),13422182412500)]])then if Z[D[d(m(-56678),1602071692756)]]then local H=not Z[D[d(m(-55619),24163149666279)]]Z[D[d(m(-57944),20725997194086)]]=H if I then I(H)end else H:Notification(D[d(m(-56984),25546171342063)]..(Z[D[d(m(-56541),11186583709874)]]..D[d(m(-55482),15121967593219)]),3)end end end local w=o[1][D[d(m(-56224),8577311448884)]]H:_Draw(D[d(m(-56315),14676351137124)],w,6,.1*c,r+Vector2[D[d(m(-55311),12640474508796)]](1,2),N,true,6)H:_Draw(D[d(m(-58060),25408728194159)],Q,7,c,r,N,true,6)H:_Draw(D[d(m(-56284),29501956942675)],O[D[d(m(-56784),1959638632225)]]and o[1][D[d(m(-55991),23284802049205)]]or o[1][D[d(m(-55319),21845944094585)]],8,c,r,N,false,6)local X=((q or O[D[d(m(-56479),14867483014678)]]))and o[1][D[d(m(-55794),28551666427870)]]or o[1][D[d(m(-55598),11368051616091)]]local u=Vector2[D[d(m(-56404),2565247502677)]]local f=N[D[d(m(-57535),17943847223623)]]H:_Draw(D[d(m(-55905),615272841789)],X,8,c,r+u(o[4]/2,f/2),C,false,D[d(m(-58056),31792318149544)],L)if q and K then O[D[d(m(-57970),21200605564192)]]=true O[D[d(m(-56734),17417697673053)]]=os[D[d(m(-57305),3167635049350)]]()j=false S=true end if O[D[d(m(-55654),30064614829407)]]then local o=os[D[d(m(-58268),11005115803657)]]()-O[D[d(m(-58271),34590574738902)]]if o>6 then O[D[d(m(-56235),15322763442110)]]=false elseif o>.15 then for o,K in pairs(H[D[d(m(-56985),13758273860109)]]or{})do if H:_IsKeyPressed(o)then if o==D[d(m(-56239),34424139676987)]then O[D[d(m(-56305),7813857713261)]]=false else local c=o~=D[d(m(-57940),2602829613432)]and o if c then for o,K in ipairs(H[D[d(m(-57982),11495830792658)]]or{})do local W=K[D[d(m(-55636),12850934329024)]]if W~=Z and(W[D[d(m(-55722),24384347232437)]]and W[D[d(m(-58022),13342723092618)]][D[d(m(-57019),28625756874787)]]==c)then H:Notification(D[d(m(-56695),958880711549)]..(c:upper()..(D[d(m(-57825),12286128893106)]..W[D[d(m(-58156),16007831632444)]])),4)end end end if O[D[d(m(-56945),19051982603599)]]and H[D[d(m(-57644),25134915672944)]][c]then O[D[d(m(-56311),16406202006447)]](K[D[d(m(-58100),6870009846014)]])end O[D[d(m(-57298),5799456576793)]]=c O[D[d(m(-57981),33575857748517)]]=false end end end end end elseif L then local Z=Vector2[D[d(m(-56486),17208311627418)]](24,14)local W=Vector2[D[d(m(-57918),24010673674073)]]local M=v-o[3]*2 local O=Z[D[d(m(-57484),24177108735988)]]local C=Z[D[d(m(-56765),17056909409805)]]local G=E+W(M-O,((p-C))/2)J=Z[D[d(m(-55762),16138832132790)]]+o[3]*2 local V=not Ci and H:_IsMouseWithinBounds(G,Z)H:_Draw(D[d(m(-55745),18643948258259)],o[1][D[d(m(-57034),19620009363296)]],7,c,G,Z,true,4)H:_Draw(D[d(m(-57505),20748546460539)],L[D[d(m(-55901),4552804274320)]],8,c,G+Vector2[D[d(m(-55973),5518127633427)]](1,1),Z-Vector2[D[d(m(-56692),34213679856759)]](2,2),true,4)if V and K then H:_SpawnColorpicker(nil,L[D[d(m(-56655),28849101990131)]],L[D[d(m(-56638),32767305479988)]],function(H)L[D[d(m(-57654),18491472266053)]]=H if L[D[d(m(-58210),27698015626435)]]then L[D[d(m(-56435),30963364163748)]](H)end end)j=false S=true end end local V=Z[D[d(m(-57839),15290550204320)]]and o[1][D[d(m(-57040),13125820624832)]]or(N and o[1][D[d(m(-57263),33865776888627)]]or o[1][D[d(m(-58154),16623104474233)]])if not L or not L[D[d(m(-57606),16465259609062)]]then if not Ci and(H:_IsMouseWithinBounds(E,Vector2[D[d(m(-57864),29702752791566)]](34,p))and K)then local H=not N Z[D[d(m(-56204),10920287610810)]]=H if I then I(H)end j=false S=true end local W=G(o[1][D[d(m(-56416),20338364566013)]],o[1][D[d(m(-58029),32518189774412)]],M)H:_Draw(D[d(m(-56334),10189047112977)],W,7,c,E,Vector2[D[d(m(-55682),31398242873913)]](34,p),true,p/2)H:_Draw(D[d(m(-58082),3603587534108)],G(o[1][D[d(m(-57497),33966711700369)]],o[1][D[d(m(-56537),26470691266636)]],M),8,c,E,Vector2[D[d(m(-57064),7005305444732)]](34,p),false,p/2)local v=p/2-1 local O=(E[D[d(m(-55759),4594681483447)]]+v)+1 local C=((34-p))*M local L=E[D[d(m(-55878),32939109414868)]]local J=O+C local V=L+p/2 H:_Draw(D[d(m(-55928),34227638926468)],o[1][D[d(m(-58199),8533286690571)]],8,.15*c,Vector2[D[d(m(-56766),20236355979678)]](J,V+1),v,true)H:_Draw(D[d(m(-55930),28485092403104)],o[1][D[d(m(-57576),32946625837019)]],9,c,Vector2[D[d(m(-55315),10327564035474)]](J,V),v,true)else V=o[1][D[d(m(-55340),9270969835962)]]end local h=Z[D[d(m(-58111),33788465117931)]]local n=false local R=(((v-34)-o[3]*2)-J)-((Z[D[d(m(-57658),26686519959829)]]and 36 or 0))while#h>1 and(H:_GetTextBounds(h))[D[d(m(-55893),19341901743709)]]>R do h=h:sub(1,-2)n=true end if n then h=h:sub(1,-2)..D[d(m(-56811),13308362305642)]end local r=H:_GetTextBounds(h)local q=E+Vector2[D[d(m(-56729),20210585389446)]](34+o[3],((p-H[D[d(m(-56065),20233134655899)]]))/2)H:_Draw(D[d(m(-58109),14175972176786)],V,7,c,q,h,false)if y and(n and(not Ci and H:_IsMouseWithinBounds(q,r)))then H[D[d(m(-56167),4871715328441)]]={[D[d(m(-57549),12039160736716)]]=b;[D[d(m(-55606),33739071486653)]]=Z[D[d(m(-56949),14355292533817)]]}end if Z[D[d(m(-55605),14343481013294)]]then local K=q+Vector2[D[d(m(-56750),5532086703136)]](r[D[d(m(-57205),32359271134648)]]+8,-2)H:_Draw(D[d(m(-57720),19612492941145)],o[1][D[d(m(-57303),22789791961832)]],8,c,K,Vector2[D[d(m(-55595),2944289934006)]](28,14),true,4)H:_Draw(D[d(m(-55847),17882642071822)],o[1][D[d(m(-58028),34408033058092)]],9,c,K+Vector2[D[d(m(-56155),565879210511)]](14,7),D[d(m(-58249),991093949339)],false,D[d(m(-55782),24884726192775)],9)end elseif R==D[d(m(-58202),25979976277635)]then local W=Z[D[d(m(-58141),10446753015297)]]or 0 local p=Z[D[d(m(-56566),20931088141349)]]or 100 local C=Z[D[d(m(-56475),17336090803985)]]or 1 local J=H:_GetTextBounds(Z[D[d(m(-57972),27680835232947)]])local h=H[D[d(m(-55661),12451490180428)]]local n=(E[D[d(m(-56492),20053814298868)]]+h)+o[3]local R=(v-o[3]*2)-h*2 local q=o[3]*2 local Q=R-q local w=Vector2[D[d(m(-58260),30745387921369)]](n,(E[D[d(m(-57310),17318910410497)]]+J[D[d(m(-56585),13660560372146)]])+o[3])local F=Vector2[D[d(m(-57446),32454837073425)]](Q,6)local X=Z[D[d(m(-57739),25513958104273)]]local u=false local f=o[3]*2 local A=Z[D[d(m(-56981),13577879728485)]]local P=(v-f)-((A and 36 or 0))while#X>1 and(H:_GetTextBounds(X))[D[d(m(-57842),29649064061916)]]>P do X=X:sub(1,-2)u=true end if u then X=X:sub(1,-2)..D[d(m(-55831),25242293132244)]end local l=H:_GetTextBounds(X)H:_Draw(D[d(m(-57857),6053941155334)],o[1][D[d(m(-56041),22143379656846)]],7,c,E,X,false)if y and(u and(not Ci and H:_IsMouseWithinBounds(E,l)))then H[D[d(m(-56577),4204901306188)]]={[D[d(m(-56684),20621841058565)]]=b;[D[d(m(-57421),10771032942383)]]=Z[D[d(m(-57773),17357566295845)]]}end if Z[D[d(m(-56637),9505052697236)]]then local K=E+Vector2[D[d(m(-55840),9965701997633)]](l[D[d(m(-56599),22404306882945)]]+8,0)H:_Draw(D[d(m(-55710),22083248279638)],o[1][D[d(m(-57096),10932099131333)]],8,c,K,Vector2[D[d(m(-58226),12815499767455)]](28,14),true,4)H:_Draw(D[d(m(-57638),6540361045963)],o[1][D[d(m(-58283),14170603303821)]],9,c,K+Vector2[D[d(m(-57277),11316510435627)]](14,7),D[d(m(-57588),18026527867284)],false,D[d(m(-57760),22194920837310)],9)end local k=N or W local t=Vector2[D[d(m(-57998),3707743669629)]]local U=F[D[d(m(-56517),34694730874423)]]local a=h+o[3]local i=w-t(a,U+o[3])local s=Vector2[D[d(m(-57176),19263516198420)]](Q+((h+o[3]))*2,M)if not Ci and(H:_IsMouseWithinBounds(i,s)and(r and y))then local o=Z[D[d(m(-55459),14169529529228)]]~=nil and Z[D[d(m(-57007),9456732840551)]]or W k=o Z[D[d(m(-55581),25492482612413)]]=o if I then I(o)end H:Notification(D[d(m(-57106),22809119904506)],2)r=false end local x=not Ci if x then local o=Vector2[D[d(m(-57547),5143380300470)]](0,6)x=H:_IsMouseWithinBounds(w-o,F+Vector2[D[d(m(-57911),32325984122265)]](0,12))end if O then if y and(((x or H[D[d(m(-58295),2851945319008)]]==b))and(j and H[D[d(m(-57965),28770716444842)]]~=b))then H[D[d(m(-55591),15700732098846)]]=b j=false S=true end if H[D[d(m(-55753),606682645045)]]==b then local o=H:_GetMousePos()local K=w[D[d(m(-57531),18221954843210)]]local c=o[D[d(m(-56960),4386369212405)]]local Z=F[D[d(m(-57477),8079080037732)]]local v=L(((c-K))/Z,0,1)local M=W+((p-W))*v local j=math[D[d(m(-55602),31116913930547)]](M/C+.5)k=L(j*C,W,p)end else H[D[d(m(-56019),26454584647741)]]=nil end local T=E[D[d(m(-56963),26233387081583)]]local g=h/2 local z=n+Q local B=T+g local e=(z+o[3])+h/2 local Y=w[D[d(m(-57585),30968733036713)]]+F[D[d(m(-57311),15724355139892)]]/2 local Hi=E[D[d(m(-56511),13427551285465)]]local oi=h/2 local Ki=Vector2[D[d(m(-55920),4477640052810)]](Hi,Y-oi)local ci=n+Q local Zi=Vector2[D[d(m(-56182),33258020468989)]](ci+o[3],Y-h/2)local Wi=Vector2[D[d(m(-57133),33460963867066)]](h,h)local vi=not Ci and H:_IsMouseWithinBounds(Ki,Wi)local Mi=not Ci and H:_IsMouseWithinBounds(Zi,Wi)H:_Draw(D[d(m(-55630),9949595378738)],vi and o[1][D[d(m(-56302),19565246859053)]]or o[1][D[d(m(-55267),16979597639109)]],7,c,Vector2[D[d(m(-57178),10805393729359)]](B,Y),D[d(m(-58248),34890157850349)],false,D[d(m(-56084),1873736664785)])H:_Draw(D[d(m(-55945),8970312949922)],Mi and o[1][D[d(m(-55940),27942836233639)]]or o[1][D[d(m(-55345),11645085461085)]],7,c,Vector2[D[d(m(-56726),35010420604765)]](e,Y),D[d(m(-58264),16397611809703)],false,D[d(m(-56978),10675467003606)])if K and not Ci then if vi then k=L(k-C,W,p)j=false S=true elseif Mi then k=L(k+C,W,p)j=false S=true end end if k~=N then Z[D[d(m(-55712),21806214434644)]]=k if I then I(k)end end local pi=k-W local ji=p-W local Oi=L(pi/math[D[d(m(-58193),33308487874860)]](.01,ji),0,1)H[D[d(m(-56453),12467596799323)]][b..D[d(m(-55509),28752462276761)]]=k local Li=H[D[d(m(-57342),11177993513130)]]==b local Gi=((x or Li))and G(o[1][D[d(m(-56928),28459321812872)]],o[1][D[d(m(-57748),30901085237354)]],.12)H:_Draw(D[d(m(-57694),34426287226173)],Gi or o[1][D[d(m(-55876),15545034782861)]],7,c,w,F,true,3)H:_Draw(D[d(m(-56888),6792698075318)],((x or Li))and o[1][D[d(m(-55413),25181087980443)]]or o[1][D[d(m(-55352),25216522542012)]],8,c,w,F,false,3)local Ji=math[D[d(m(-55543),28615019128857)]](0,F[D[d(m(-56539),10776401815348)]]*Oi-2)local Vi=o[1][D[d(m(-55290),25841459355138)]]local hi=Vector2[D[d(m(-55813),16263389985578)]](1,1)H:_Draw(D[d(m(-55922),19010105394472)],Vi,9,c,w+hi,Vector2[D[d(m(-56757),4464754757694)]](Ji,F[D[d(m(-55856),20744251362167)]]-2),true,3)local ni=w[D[d(m(-55986),34445615168847)]]local Ei=F[D[d(m(-56457),22656643912300)]]*Oi local Ri=F[D[d(m(-56901),5383905809302)]]local ri=ni+Ei local Ni=w[D[d(m(-56609),21242482773319)]]+Ri/2 local Ii=Li and 7 or 5 H:_Draw(D[d(m(-56795),8172498427323)],o[1][D[d(m(-55513),17735534952581)]],10,c,Vector2[D[d(m(-58048),20660496943913)]](ri,Ni),Ii,true)H:_Draw(D[d(m(-56720),4713870463270)],o[1][D[d(m(-58170),4579648639145)]],11,c,Vector2[D[d(m(-57622),23121588311069)]](ri,Ni),Ii,false)local qi=V(k)..Z[D[d(m(-58123),26512568475763)]]H:_Draw(D[d(m(-56217),9155002179918)],o[1][D[d(m(-55535),13018443165532)]],15,c,Vector2[D[d(m(-56878),21099670752450)]](ri,(Ni+Ii)+6),qi,false,D[d(m(-56376),13620830712205)],11)elseif R==D[d(m(-55821),22306593394982)]then local W=H:_GetTextBounds(Z[D[d(m(-56543),15836027697564)]])local M=Vector2[D[d(m(-58076),23890410919657)]](E[D[d(m(-55335),14747220260262)]],(E[D[d(m(-55828),1497915557235)]]+W[D[d(m(-56557),26983955522090)]])+o[3])local p=Vector2[D[d(m(-56327),32743682438942)]](v-o[3]*2,W[D[d(m(-57966),12588933328332)]]+o[3])local O=not Ci and H:_IsMouseWithinBounds(M,p)local L=H[D[d(m(-56338),4487304024147)]]and H[D[d(m(-56260),5854219081036)]]==b if L then H[D[d(m(-56623),6980608629093)]][D[d(m(-57605),20336217016827)]]=Vector2[D[d(m(-55763),26324657921988)]](M[D[d(m(-58224),21227449929017)]],M[D[d(m(-55553),19820805212187)]]+p[D[d(m(-57614),26017558388390)]])H[D[d(m(-55593),22712480191136)]][D[d(m(-56666),11081353799760)]]=p[D[d(m(-57842),20091396409623)]]end if O and K then if L then H:_RemoveDropdown()H[D[d(m(-57159),8022169984303)]]=nil else H:_SpawnDropdown(Vector2[D[d(m(-57553),29086406175184)]](M[D[d(m(-56609),10070931907747)]],M[D[d(m(-57494),26306403753907)]]+p[D[d(m(-58110),18374430835416)]]),p[D[d(m(-57707),6488819865499)]],N,Z[D[d(m(-56815),12421424491824)]],Z[D[d(m(-56777),19112113980807)]],function(H)Z[D[d(m(-57512),31658096325419)]]=H if I then I(H)end end)H[D[d(m(-57685),17719428333686)]][D[d(m(-55779),28419592152931)]]=p[D[d(m(-57551),22503094145501)]]H[D[d(m(-55524),4837354541465)]]=b end j=false S=true end local J=b..D[d(m(-57343),17074089803293)]H[D[d(m(-57039),33498545977821)]][J]=C(H[D[d(m(-55570),14677424911717)]][J]or 0,L and 1 or 0,(o[8](.25)))local V=H[D[d(m(-55810),6839944157410)]][J]local h=math[D[d(m(-58087),13319100051572)]](((M[D[d(m(-58110),8292761181739)]]+p[D[d(m(-56194),24931972274867)]])-o[3])-4)local n=math[D[d(m(-57651),29486924098373)]](M[D[d(m(-57584),9203322036603)]]+p[D[d(m(-55708),24126641330117)]]/2)local R=Vector2[D[d(m(-58010),15416181831701)]](math[D[d(m(-58011),9833627722694)]](C(h+2,h-3,V)+.5),math[D[d(m(-56591),15465575462979)]](C(n-3,n-2,V)+.5))local r=Vector2[D[d(m(-55510),16442710342609)]](math[D[d(m(-57474),6862493423863)]](C(h+2,h+3,V)+.5),math[D[d(m(-58309),20033412581601)]](C(n+3,n-2,V)+.5))local Q=Vector2[D[d(m(-57218),1820047935135)]](math[D[d(m(-56691),9849734341589)]](C(h-3,h,V)+.5),math[D[d(m(-58078),4726755758386)]](C(n,n+3,V)+.5))local w=O and G(o[1][D[d(m(-57552),27533728113706)]],o[1][D[d(m(-57621),2480419309830)]],.06)or o[1][D[d(m(-56756),14388579546200)]]H:_Draw(D[d(m(-58013),20647611648797)],o[1][D[d(m(-57967),20149380237645)]],6,.1*c,M+Vector2[D[d(m(-55988),9127084040500)]](1,2),p,true,6)H:_Draw(D[d(m(-57900),5576111461449)],w,7,c,M,p,true,6)H:_Draw(D[d(m(-57627),14319857972248)],o[1][D[d(m(-57031),30017368747315)]],8,c,M,p,false,6)H:_Draw(D[d(m(-56181),12431088463161)],o[1][D[d(m(-55963),20981555547220)]],8,c,true,R,r,Q)local F=type(N)==D[d(m(-57821),12625441664494)]and table[D[d(m(-56145),32728649594640)]](N,D[d(m(-56340),4893190820301)])or tostring(N or D[d(m(-57247),26215132913502)])local X=false if F==D[d(m(-57247),25494630161599)]then X=true F=Z[D[d(m(-55948),14309120226318)]]and(Z[D[d(m(-56509),33735850162874)]][1]and tostring(Z[D[d(m(-55914),22017748029465)]][1]))or D[d(m(-57247),28115713943112)]end if(H:_GetTextBounds(F))[D[d(m(-57051),29012315728267)]]>(p[D[d(m(-57535),14363882730561)]]-o[3])-14 then if X then local K=(p[D[d(m(-57752),10124620637397)]]-o[3])-26 while#F>1 and(H:_GetTextBounds(F))[D[d(m(-57311),14951237432932)]]>K do F=F:sub(1,-2)end F=F..D[d(m(-58252),6460901726081)]else local H=type(N)==D[d(m(-55366),14217849385913)]and#((N or{}))or 1 F=tostring(H)..(D[d(m(-56741),25728713022873)]..((H==1 and D[d(m(-57247),29914286386387)]or D[d(m(-55309),17391927082821)])))end end H:_Draw(D[d(m(-58222),4520591036530)],X and o[1][D[d(m(-56403),24253346732091)]]or o[1][D[d(m(-56013),675404218997)]],8,c,M+Vector2[D[d(m(-56390),1640727578104)]](6,(H:_GetTextBounds(F))[D[d(m(-57158),8808172986379)]]/2-1),F,false)local u=false local f=(v-o[3]*2)-((Z[D[d(m(-57989),9462101713516)]]and 36 or 0))local A=Z[D[d(m(-55288),1154307687475)]]local P=(q(H,A))[D[d(m(-57494),17728018530430)]]if P>f then local H=f/math[D[d(m(-55867),4922182734312)]](1,P)local o=math[D[d(m(-55555),1777096951415)]]local K=#A A=A:sub(1,o(1,math[D[d(m(-56432),16303119645519)]](K*H)-2))..D[d(m(-56876),17156770446954)]u=true end local l=q(H,A)H:_Draw(D[d(m(-57693),1274570441891)],o[1][D[d(m(-56346),34498230123904)]],7,c,E+Vector2[D[d(m(-55815),16568341969990)]](o[3],0),A,false)if y and(u and(not Ci and H:_IsMouseWithinBounds(E+Vector2[D[d(m(-57416),2206606788615)]](o[3],0),l)))then H[D[d(m(-57198),1711596701242)]]={[D[d(m(-55358),15987429915177)]]=b..D[d(m(-57684),24726881327604)];[D[d(m(-56586),13807667491387)]]=Z[D[d(m(-56763),855798350621)]]}end if Z[D[d(m(-56199),17941699674437)]]then local K=E+Vector2[D[d(m(-56170),33700415601305)]]((o[3]+l[D[d(m(-57786),8973534273701)]])+8,-2)H:_Draw(D[d(m(-56241),30807666847763)],o[1][D[d(m(-57296),23645590312453)]],8,c,K,Vector2[D[d(m(-57875),17504673415086)]](28,14),true,4)H:_Draw(D[d(m(-55909),4521664811123)],o[1][D[d(m(-58262),23290170922170)]],9,c,K+Vector2[D[d(m(-56559),17529370230725)]](14,7),D[d(m(-57405),2332238415996)],false,D[d(m(-55268),30776527384566)],9)end elseif R==D[d(m(-56979),24149190596570)]then local W=Z[D[d(m(-56158),25192899500966)]]local M=0 local p=(H:_GetTextBounds(Z[D[d(m(-56769),7296298359435)]]))[D[d(m(-57232),20047371651310)]]+o[3]if W then local Z=Vector2[D[d(m(-57623),26041181429436)]](24,14)local O=Vector2[D[d(m(-55408),23051792962524)]]local C=v-o[3]*2 local L=Z[D[d(m(-57158),18847965430929)]]local G=Z[D[d(m(-57327),13888200585862)]]local J=O(C-L,((p-G))/2)local V=Z[D[d(m(-57663),22477323555269)]]local h=E+J M=V+o[3]*2 local n=not Ci and H:_IsMouseWithinBounds(h,Z)H:_Draw(D[d(m(-56893),22886431675202)],o[1][D[d(m(-58088),16013200505409)]],7,c,h,Z,true,4)H:_Draw(D[d(m(-57710),13835585630805)],W[D[d(m(-56050),14455153570966)]],8,c,h+Vector2[D[d(m(-56980),24542192097608)]](1,1),Z-Vector2[D[d(m(-57808),28588174764032)]](2,2),true,4)if n and K then H:_SpawnColorpicker(nil,W[D[d(m(-57043),2161508255709)]],W[D[d(m(-57813),16737998355684)]],function(H)W[D[d(m(-56132),14819163157993)]]=H if W[D[d(m(-58027),17794592555196)]]then W[D[d(m(-57431),18706227184653)]](H)end end)j=false S=true end end local L=Vector2[D[d(m(-56232),34754862251631)]](E[D[d(m(-55880),14073963590451)]],E[D[d(m(-57912),6145211995739)]])local V=Vector2[D[d(m(-57759),9062657564920)]]((v-o[3]*2)-M,p)local h=not Ci and H:_IsMouseWithinBounds(L,V)if O then if h and K then H[D[d(m(-56579),33965637925776)]]=b j=false S=true if I then I()end end else H[D[d(m(-56895),33105544476783)]]=nil end local n=O and H[D[d(m(-56129),11014779774994)]]==b local R=b..D[d(m(-57861),506821607896)]H[D[d(m(-57913),28630051973159)]][R]=C(H[D[d(m(-57874),4750378799432)]][R]or 0,n and 1 or 0,(o[8](.45)))local r=H[D[d(m(-58007),7951300861165)]][R]local N=math[D[d(m(-56388),6824911313108)]](r*2+.5)local q=L+Vector2[D[d(m(-57846),30837732536367)]](N,N)local Q=V-Vector2[D[d(m(-56144),3483324779692)]](N*2,N*2)local w=G(h and G(o[1][D[d(m(-56863),17862240354555)]],o[1][D[d(m(-56400),31450857828970)]],.08)or o[1][D[d(m(-58289),30784043806717)]],o[1][D[d(m(-55330),27516547720218)]],r*.85)H:_Draw(D[d(m(-57071),30134410177952)],o[1][D[d(m(-56639),6831353960666)]],6,(((1-r))*.1)*c,L+Vector2[D[d(m(-57429),28578510792695)]](1,2),V,true,6)H:_Draw(D[d(m(-58116),21905001697200)],w,7,c,q,Q,true,6)H:_Draw(D[d(m(-57696),835396633354)],n and o[1][D[d(m(-55956),12195931827294)]]or o[1][D[d(m(-56485),8080153812325)]],8,c,q,Q,false,6)local F=((n or h))and o[1][D[d(m(-56104),8166055779765)]]or o[1][D[d(m(-58015),5300151391048)]]if Z[D[d(m(-56785),16758400072951)]]==nil then Z[D[d(m(-56021),26841143501221)]]=Z[D[d(m(-57706),8656770768766)]]end local X=b..D[d(m(-55649),23239703516299)]if Z[D[d(m(-56066),21661254864589)]]~=Z[D[d(m(-57695),28042697270788)]]then Z[D[d(m(-56540),30895716364389)]]=Z[D[d(m(-56573),21024506530940)]]Z[D[d(m(-56499),15219681081182)]]=Z[D[d(m(-55970),32003851744365)]]H[D[d(m(-55664),7138453494264)]][X]=0 end local u=C(H[D[d(m(-56823),6440500008814)]][X]or 1,1,(o[8](.35)))H[D[d(m(-56658),21643000696508)]][X]=u if u<.995 and Z[D[d(m(-56685),29676982201334)]]then local o=J(u)local K=c*((1-o))local W=q[D[d(m(-56267),5580406559821)]]+Q[D[d(m(-57707),34884788977384)]]/2 local v=10*o local M=W-v H:_Draw(D[d(m(-56717),30086090321267)],F,8,K,Vector2[D[d(m(-57780),5476250424300)]](q[D[d(m(-58158),22273306382599)]]+Q[D[d(m(-57130),24208248199185)]]/2,M),Z[D[d(m(-56022),19826174085152)]],false,D[d(m(-56603),7616283188149)])local p=q[D[d(m(-58112),26744503787851)]]local j=c*o local O=(p+Q[D[d(m(-57130),25920918675020)]]/2)+10*((1-o))H:_Draw(D[d(m(-57766),28229534049970)],F,8,j,Vector2[D[d(m(-56906),23422245197109)]](q[D[d(m(-56480),8993935990968)]]+Q[D[d(m(-57966),12769327459956)]]/2,O),Z[D[d(m(-56368),23131252282406)]],false,D[d(m(-58266),24005304801108)])else H:_Draw(D[d(m(-57391),3891359125032)],F,8,c,q+Vector2[D[d(m(-55864),4670919479550)]](Q[D[d(m(-58317),6930141223222)]]/2,Q[D[d(m(-55548),33622030056016)]]/2),Z[D[d(m(-55357),10428498847216)]],false,D[d(m(-55953),18067331301818)])end if Z[D[d(m(-56558),13204206170121)]]then local K=H:_GetTextBounds(Z[D[d(m(-56947),1930646718214)]])local W=q+Vector2[D[d(m(-56804),31922244875297)]]((Q[D[d(m(-55452),28795413260481)]]/2+K[D[d(m(-55450),3673382882653)]]/2)+8,((Q[D[d(m(-58301),9415929406017)]]-14))/2)H:_Draw(D[d(m(-56927),34319983541466)],o[1][D[d(m(-55757),34347901680884)]],9,c,W,Vector2[D[d(m(-57420),33503914850786)]](28,14),true,4)H:_Draw(D[d(m(-56470),18850112980115)],o[1][D[d(m(-55547),14434751853699)]],10,c,W+Vector2[D[d(m(-57404),32814551562080)]](14,7),D[d(m(-57571),12833753935536)],false,D[d(m(-56564),9130305364279)],9)end elseif R==D[d(m(-55835),32897232205741)]then local W=Vector2[D[d(m(-58140),9778865218451)]](v-o[3]*2,H[D[d(m(-56633),26072320892633)]]+o[3])local M=not Ci and H:_IsMouseWithinBounds(E,W)local p=H[D[d(m(-56783),28631125747752)]]==b local O=math[D[d(m(-56929),33957047729032)]](os[D[d(m(-56833),22382831391085)]]()*2)%2==0 and D[d(m(-55912),1618178311651)]or D[d(m(-55828),22955153249154)]local L=N and N~=D[d(m(-57247),17953511194960)]local J=b..D[d(m(-56254),29919655259352)]H[D[d(m(-55493),26551224361111)]][J]=C(H[D[d(m(-55431),27155759456970)]][J]or(L and 1 or 0),L and 1 or 0,(o[8](.18)))local V=H[D[d(m(-58031),18297119064720)]][J]local h=p and((N or D[d(m(-57247),14306972677132)]))..O or((L and N or Z[D[d(m(-56377),9168961249627)]]))..D[d(m(-57712),32875756713881)]local n=((p or M))and o[1][D[d(m(-55966),13211722592272)]]or G(o[1][D[d(m(-58153),23094743946244)]],o[1][D[d(m(-56758),18506505110355)]],V)if(H:_GetTextBounds(h))[D[d(m(-55852),24829963688532)]]>W[D[d(m(-57130),18474291872565)]]then local o=1 local K=#h while o<K do local c=math[D[d(m(-57945),11231682242780)]](((o+K))/2)if(H:_GetTextBounds(h:sub(c)))[D[d(m(-58317),24521790380341)]]<=W[D[d(m(-57244),8155318033835)]]-4 then K=c else o=c+1 end end h=h:sub(o)end local R=H:_GetTextBounds(h)if H:_IsKeyPressed(D[d(m(-56915),9748799529847)])then if K and M then H[D[d(m(-56274),25699721108862)]]=b H:_RemoveCtxMenu()j=false S=true elseif p then H[D[d(m(-57014),17138516278873)]]=nil H:_RemoveDropdown()p=false end end if r and(y and M)then local o=H:_GetMousePos()H:_SpawnCtxMenu(o[D[d(m(-56901),25123104152421)]],o[D[d(m(-55912),17614198423572)]],b,Z)r=false end if p then local o={[D[d(m(-56530),25856492199440)]]=D[d(m(-56787),12747851968096)];[D[d(m(-58016),23160244196417)]]=D[d(m(-57614),1433489081655)];[D[d(m(-55397),3800088284627)]]=D[d(m(-56544),33590890592819)];[D[d(m(-55746),31349923017228)]]=D[d(m(-56457),30193467780567)],[D[d(m(-55560),13165550284773)]]=D[d(m(-57399),24839627659869)];[D[d(m(-57221),6116220081728)]]=D[d(m(-55912),20107503028518)],[D[d(m(-57849),31741850743673)]]=D[d(m(-58110),2022991333212)],[D[d(m(-57870),17400517279565)]]=D[d(m(-56431),33022863833122)],[D[d(m(-56875),15766232349019)]]=D[d(m(-57842),20191257446772)],[D[d(m(-56153),6881821366537)]]=D[d(m(-58025),33288086157593)];[D[d(m(-57251),17921297957170)]]=D[d(m(-57352),31337037722112)],[D[d(m(-57027),17175024615035)]]=D[d(m(-58223),3787202989511)];[D[d(m(-56850),21259663166807)]]=D[d(m(-56135),27281391084351)]}local K={[D[d(m(-57175),21146916834542)]]=D[d(m(-57582),22570741944860)],[D[d(m(-56524),30387820981900)]]=D[d(m(-55759),12443973758277)];[D[d(m(-57835),15371083298795)]]=D[d(m(-57226),22548192678407)];[D[d(m(-57254),2076680062862)]]=D[d(m(-55762),23594049131989)],[D[d(m(-55741),30542444523292)]]=D[d(m(-56609),27735597737190)],[D[d(m(-57494),5731808777434)]]=D[d(m(-57130),3981556190844)];[D[d(m(-55546),3516611792075)]]=D[d(m(-56457),18497914913611)];[D[d(m(-57484),10885926823834)]]=D[d(m(-56454),9166813700441)];[D[d(m(-55804),14300530029574)]]=D[d(m(-58223),26507199602798)];[D[d(m(-56707),17966396490076)]]=D[d(m(-55379),31287644090834)];[D[d(m(-56521),5945489921441)]]=D[d(m(-55539),16986040286667)],[D[d(m(-58246),13460838297848)]]=D[d(m(-55564),26698331480352)],[D[d(m(-56849),3728145386896)]]=D[d(m(-55895),1025454736315)],[D[d(m(-57535),24247977859126)]]=D[d(m(-56046),12762884812398)],[D[d(m(-56807),10576679741050)]]=D[d(m(-55838),6099039688240)],[D[d(m(-56002),11595691829807)]]=D[d(m(-56963),18902727935172)];[D[d(m(-57558),13603650318717)]]=D[d(m(-58264),14660244518229)],[D[d(m(-55460),3692710825327)]]=D[d(m(-57535),23412581225772)];[D[d(m(-56585),25570868157702)]]=D[d(m(-57258),33729407515316)];[D[d(m(-56242),20524127570602)]]=D[d(m(-57990),19163655161271)]}local c=N or D[d(m(-57247),9334322536949)]local W=H:_IsKeyHeld(D[d(m(-57427),16072258108024)])or H:_IsKeyHeld(D[d(m(-57758),28841585567980)])local v for o in pairs(H[D[d(m(-56809),14995262191245)]]or{})do if H:_IsKeyHeld(o)then v=o break end end if v then if not H[D[d(m(-56643),17559435919329)]][v]then H[D[d(m(-58043),5959448991150)]][v]=os[D[d(m(-57922),10335080457625)]]()+.4 elseif os[D[d(m(-57229),21392811216339)]]()>H[D[d(m(-56386),28973659842919)]][v]then H[D[d(m(-56171),9721955165022)]][v]=os[D[d(m(-55785),33761620753106)]]()+.05 local M=o[v]or v if M==D[d(m(-57314),2957175229122)]then c=c:sub(1,-2)elseif#M==1 then if W and K[M]then M=K[M]elseif W then M=M:upper()end if#c<200 then c=c..M end end if Z[D[d(m(-56491),6178499008122)]]then Z[D[d(m(-55826),31978081154133)]](c)end Z[D[d(m(-57209),26006820642460)]]=c end else H[D[d(m(-58258),34086974454785)]]={}end for v in pairs(H[D[d(m(-55424),20567078554322)]]or{})do if H:_IsKeyPressed(v)then local M=o[v]or v if M==D[d(m(-58041),32524632421970)]or M==D[d(m(-57964),19005810296100)]then H[D[d(m(-57763),24506757536039)]]=nil break end if M==D[d(m(-56708),34743050731108)]then c=c:sub(1,-2)elseif#M==1 then if W and K[M]then M=K[M]elseif W then M=M:upper()end if#c<200 then c=c..M end end if Z[D[d(m(-56426),769896383181)]]then Z[D[d(m(-56781),4777223164257)]](c)end Z[D[d(m(-57514),29043455191464)]]=c end end end H:_Draw(D[d(m(-55825),3980482416251)],p and o[1][D[d(m(-55356),11538781776378)]]or o[1][D[d(m(-57433),17805330301126)]],7,c,E,W,true,6)H:_Draw(D[d(m(-58135),29406391003898)],p and o[1][D[d(m(-56607),26736987365700)]]or(M and o[1][D[d(m(-55834),8145654062498)]]or o[1][D[d(m(-58197),22272232608006)]]),8,c,E,W,false,6)H:_Draw(D[d(m(-57659),29364513794771)],n,8,c,E+Vector2[D[d(m(-55313),33310635424046)]](6,R[D[d(m(-55708),5436520764359)]]/2-2),h,false)end else H[D[d(m(-57490),11040550365226)]][b]=false end l=l+p end end local y=N[D[d(m(-56169),26091648835307)]]E=(E+R)+((y/2+o[3]))*n end end end local E=wd[D[d(m(-57262),16938794204575)]]/2 local R=o[3]*1.5 local N=rd[D[d(m(-58257),16642432416907)]]local I=E-R n(U,false,N+o[3])n(x,true,(rd[D[d(m(-56263),18383021032160)]]+o[3]*2)+I)end end local HU=H[D[d(m(-58127),29141168679427)]]if HU then HU[D[d(m(-57615),16464185834469)]]=C(HU[D[d(m(-55399),21799771787086)]]or 0,1,(o[8](.3)))local K=HU[D[d(m(-56159),7995325619478)]]local c=HU[D[d(m(-55916),31377841156646)]]local Z=H[D[d(m(-56555),32005999293551)]]+8 local W=#c*Z local v=HU[D[d(m(-55838),31636620833559)]]local M=W+4 local p=HU[D[d(m(-56687),2412771510471)]]if v+80>(f+A)-4 then v=((f+A)-80)-4 end local O=P+z if p+M>O-4 then p=p-M end local L=Vector2[D[d(m(-55873),29738187353135)]](v,p)local J=Vector2[D[d(m(-57926),2264590616637)]](80,M)local V=o[1][D[d(m(-58278),1706227828277)]]local h=.18*K local n=h*Oi local E=Vector2[D[d(m(-57380),28335837734677)]](2,4)H:_Draw(D[d(m(-57239),149254668427)],V,700,n,L+E,J,true,6)H:_Draw(D[d(m(-55375),24899759037077)],o[1][D[d(m(-55811),2514780096806)]],701,K*Oi,L,J,true,6)H:_Draw(D[d(m(-56792),30031327817024)],o[1][D[d(m(-56747),33802424187640)]],702,K*Oi,L,J,false,6)for c,W in ipairs(HU[D[d(m(-56246),13734650819063)]])do local M=(p+2)+((c-1))*Z local O=Vector2[D[d(m(-55293),20116093225262)]](v+2,M)local C=Vector2[D[d(m(-58300),29503030717268)]](76,Z)local L=H:_IsMouseWithinBounds(O,C)if L then local c=G(o[1][D[d(m(-58218),27330784715629)]],o[1][D[d(m(-56950),25758778711477)]],.18)H:_Draw(D[d(m(-57465),3458627964053)],c,703,K*Oi,O,C,true,4)end local J=L and o[1][D[d(m(-56796),6179572782715)]]or o[1][D[d(m(-57395),10484335126052)]]local V=K*Oi local h=Vector2[D[d(m(-57114),25372219857997)]](38,Z/2)H:_Draw(D[d(m(-55550),781707903704)],J,704,V,O+h,W[D[d(m(-58075),2976503171796)]],false,D[d(m(-55812),16482440002550)],12)if L and(j and not S)then local o=HU[D[d(m(-55839),24602323474816)]]if W[D[d(m(-57510),2612493584769)]]==D[d(m(-55395),21252146744656)]then local K=o[D[d(m(-55857),34461721787742)]]or D[d(m(-57247),23620893496814)]if type(setclipboard)==D[d(m(-55402),17734461177988)]then pcall(setclipboard,K)end H:Notification(D[d(m(-58143),24361797965984)],2)elseif W[D[d(m(-56226),11713807035037)]]==D[d(m(-56880),17562657243108)]then o[D[d(m(-57633),4338049355720)]]=D[d(m(-57247),7875062865062)]if o[D[d(m(-57779),3974039768693)]]then o[D[d(m(-56398),10414539777507)]](D[d(m(-57247),4991978082857)])end H:_MarkDirty()H:Notification(D[d(m(-57467),34520779390357)],2)end H:_RemoveCtxMenu()j=false S=true end end if((j or r))and(not S and not H:_IsMouseWithinBounds(L,J))then H:_RemoveCtxMenu()j=false S=true r=false end end local oU=H[D[d(m(-57108),5167003341516)]]if oU then oU[D[d(m(-55514),15062909990604)]]=C(oU[D[d(m(-55613),25749114740140)]]or 0,1,(o[8](.15)))local K=oU[D[d(m(-55760),31818088739776)]]local c=oU[D[d(m(-55609),29645842738137)]]local Z=oU[D[d(m(-55897),1444226827585)]]local W=H[D[d(m(-57017),2105671976873)]]+9 local v=#((Z or{}))local M=math[D[d(m(-57033),213681144007)]](v,6)local p=oU[D[d(m(-56799),16967786118586)]]local V=M*W+o[3]local h=H:_GetScreenSize()local n=false if c[D[d(m(-57873),6298761762538)]]+V>h[D[d(m(-56480),5119757259424)]]-10 then n=true local H=c[D[d(m(-58246),25249809554395)]]local o=Vector2[D[d(m(-57415),8229408480752)]]local K=oU[D[d(m(-55349),31285496541648)]]c=o(H,(c[D[d(m(-55828),3719555190152)]]-V)-((K or 0)))end local E=v>6 local R=V-o[3]local r=math[D[d(m(-56406),904118207306)]](0,v*W-R)if fd~=0 then local o=table[D[d(m(-55405),24862176926322)]](Vector2[D[d(m(-57293),13775454253597)]](p,V))if H:_IsMouseWithinBounds(c,table[D[d(m(-56672),17699026616419)]](o,1,o[D[d(m(-57327),4313352540081)]]))then oU[D[d(m(-56892),19132515698074)]]=L(((oU[D[d(m(-57730),18096323215829)]]or 0))-fd,0,r)end end oU[D[d(m(-56459),6309499508468)]]=oU[D[d(m(-56124),4143696154387)]]or 0 oU[D[d(m(-56562),389780177259)]]=C(oU[D[d(m(-57852),6245073032888)]]or 0,oU[D[d(m(-58280),25435572558984)]],(o[8](.25)))if math[D[d(m(-55968),24708627159523)]](oU[D[d(m(-55927),5946563696034)]]-oU[D[d(m(-56535),10548761601632)]])<.5 then oU[D[d(m(-56930),20308298877409)]]=oU[D[d(m(-55720),15703953422625)]]end local N=math[D[d(m(-55557),3652981165386)]](1,V*J(K))local I=n if n then local H=V-N I=Vector2[D[d(m(-55766),25704016207234)]](c[D[d(m(-57327),15331353638854)]],c[D[d(m(-58073),5097207992971)]]+H)end I=I or c local q=o[1][D[d(m(-57743),7818152811633)]]local Q=.15*Oi local w=I+Vector2[D[d(m(-55381),4349860876243)]](2,4)local F=Vector2[D[d(m(-56294),9726250263394)]](p,N)H:_Draw(D[d(m(-57373),34295286725827)],q,500,Q,w,F,true,6)local X=o[1][D[d(m(-57331),25533286046947)]]local u=Vector2[D[d(m(-58137),17158917996140)]](p,N)H:_Draw(D[d(m(-56075),4295098372)],X,501,Oi,I,u,true,6)local f=o[1][D[d(m(-55575),1331480495320)]]local A=Vector2[D[d(m(-55729),27754925679864)]](p,N)H:_Draw(D[d(m(-57674),23764779292276)],f,502,Oi,I,A,false,6)local P=I[D[d(m(-57912),31708563731290)]]local b=I[D[d(m(-56135),5441889637324)]]+N if E and N>20 then local K=(p-3)-2 local c=N-o[3]local Z=math[D[d(m(-56178),11948963670904)]](10,c*((c/((c+r)))))if O then local W=I+Vector2[D[d(m(-58093),8278802112030)]](K-5,o[3]/2)local v=table[D[d(m(-57647),29439678016281)]](Vector2[D[d(m(-55830),26269895417745)]](13,c))if H:_IsMouseWithinBounds(W,table[D[d(m(-55342),22364577223004)]](v,1,v[D[d(m(-56350),720502751903)]]))and(j and not S)then H[D[d(m(-56098),20374872902175)]]=D[d(m(-55669),23246146163857)]S=true j=false end if H[D[d(m(-57893),23393253283098)]]==D[d(m(-57072),29644768963544)]then local K=((H:_GetMousePos())[D[d(m(-56119),26380494200824)]]-((I[D[d(m(-58181),26420223860765)]]+o[3]/2)))-Z/2 local W=c-Z oU[D[d(m(-57657),20268569217468)]]=L(K/math[D[d(m(-55647),25479597317297)]](1,W),0,1)*r end else H[D[d(m(-56646),24159928342500)]]=nil end local W=oU[D[d(m(-57173),19244188255746)]]local v=c-Z local M=o[3]/2 local C=v*((W/r))local G=o[1][D[d(m(-55903),11159739345049)]]local J=M+C local V=.35*Oi local h=Vector2[D[d(m(-56501),7924456496340)]](K,o[3]/2)local n=I+h local E=Vector2[D[d(m(-57094),34469238209893)]](3,c)H:_Draw(D[d(m(-55668),6065752675857)],G,503,V,n,E,true,1.5)local R=o[1][D[d(m(-58145),25184309304222)]]local q=.7*Oi local Q=I+Vector2[D[d(m(-57249),26448142000183)]](K,J)local w=Vector2[D[d(m(-57572),1887695734494)]](3,Z)H:_Draw(D[d(m(-57556),6874304944386)],R,504,q,Q,w,true,1.5)end for K,Z in ipairs(oU[D[d(m(-57541),10440310367739)]]or{})do local v=((((n and c[D[d(m(-57334),12955090464545)]]or c[D[d(m(-55458),18999367648542)]]))+o[3]/2)+((K-1))*W)-oU[D[d(m(-57463),19855165999163)]]local M=v+W if M>P and v<b then local K=1 local O=b-M local C=v-P if C<3 then K=math[D[d(m(-57933),24634536712606)]](0,C/3)end if O<3 then K=math[D[d(m(-57366),24037518038898)]](K,math[D[d(m(-57384),386558853480)]](0,O/3))end if C<0 or O<0 then K=0 end if K>.05 then local M=type(oU[D[d(m(-56902),12339817622756)]])==D[d(m(-56920),14097586631497)]and table[D[d(m(-56446),15043582047930)]](oU[D[d(m(-56838),5761874466038)]],Z)or false local O=Vector2[D[d(m(-55573),33886178605894)]](c[D[d(m(-57912),23428687844667)]]+6,v)local C=Vector2[D[d(m(-57855),13428625060058)]](p-((E and 16 or 12)),W)local L=K>.4 and H:_IsMouseWithinBounds(O,C)if L then local c=math[D[d(m(-58220),31050339905781)]](O[D[d(m(-58074),20180519700842)]]+1,P+2)local Z=math[D[d(m(-56269),182541680810)]]((O[D[d(m(-56263),15461280364607)]]+C[D[d(m(-55642),25271285046255)]])-1,b-2)-c local W=math[D[d(m(-56647),11620388645446)]](0,Z)if W>0 then local Z=G(o[1][D[d(m(-58037),2476124211458)]],o[1][D[d(m(-56656),30159106993591)]],.18)local v=Oi*K local M=Vector2[D[d(m(-56096),27017242534473)]](O[D[d(m(-55297),29741408676914)]]+2,c)local p=Vector2[D[d(m(-58267),28734208108680)]](C[D[d(m(-56141),31477702193795)]]-4,W)H:_Draw(D[d(m(-57805),7593733921696)],Z,505,v,M,p,true,4)end end local J=L and o[1][D[d(m(-58211),8982124470445)]]or(M and o[1][D[d(m(-56414),15381821044725)]]or o[1][D[d(m(-55515),17323205508869)]])local V=Oi*K local h=O+Vector2[D[d(m(-57950),8139211414940)]](2,4)H:_Draw(D[d(m(-56018),20776464599957)],J,506,V,h,Z,false,nil,12)if L and(j and not S)then if oU[D[d(m(-58323),33295602579744)]]then if type(oU[D[d(m(-56393),20899948678152)]])~=D[d(m(-57746),33782022470373)]then oU[D[d(m(-57283),2471829113086)]]={}end local H=table[D[d(m(-56087),7238314531413)]](oU[D[d(m(-58042),22086469603417)]],Z)if H then table[D[d(m(-56430),24572257786212)]](oU[D[d(m(-56231),17986798207343)]],H)else table[D[d(m(-56549),13872093966967)]](oU[D[d(m(-57240),3253537016790)]],Z)end else oU[D[d(m(-56468),16871146405216)]]={Z}end if oU[D[d(m(-56969),33449152346543)]]then oU[D[d(m(-57545),26748798886223)]](oU[D[d(m(-57026),12089628142587)]])end if not oU[D[d(m(-58172),483198566850)]]then H:_RemoveDropdown()end j=false S=true break end end end end if j and not S then local o=table[D[d(m(-57001),30708879585207)]](Vector2[D[d(m(-57300),28014779131370)]](p,N))if not H:_IsMouseWithinBounds(I,table[D[d(m(-55351),24551856068945)]](o,1,o[D[d(m(-55975),33682161433224)]]))then H:_RemoveDropdown()H[D[d(m(-57487),29766105492553)]]=nil j=false S=true end end end local KU=H[D[d(m(-57776),35122093162438)]]if KU then KU[D[d(m(-56629),4470123630659)]]=C(KU[D[d(m(-56611),12754294615654)]]or 0,KU[D[d(m(-57424),5454774932440)]]and 0 or 1,(o[8](.15)))local K=KU[D[d(m(-56186),24153485694942)]]if KU[D[d(m(-56990),22793013285611)]]and K<.05 then H[D[d(m(-56862),26347207188441)]]=nil else local c=Vector2[D[d(m(-56797),1235914556543)]](240,215)local Z=KU[D[d(m(-55322),9672561533744)]]local W=H:_GetTextBounds(KU[D[d(m(-57223),5602955826274)]])local v=Vector2[D[d(m(-58228),17428435418983)]](c[D[d(m(-56933),21775074971447)]],math[D[d(m(-57698),1957491083039)]](1,c[D[d(m(-57011),7577627302801)]]*J(K)))local M=o[1][D[d(m(-56816),5265790604072)]]local p=.18*Oi local C=Vector2[D[d(m(-56808),4754673897804)]](2,4)local G=Z+C H[D[d(m(-57120),2272107038788)]](H,D[d(m(-55904),32854281222021)],M,600,p,G,v,true,o[2])H:_Draw(D[d(m(-55793),18161823466002)],o[1][D[d(m(-55270),24584069306735)]],601,Oi,Z,v,true,o[2])H:_Draw(D[d(m(-56356),12782212755072)],o[1][D[d(m(-56917),8040424152384)]],602,Oi,Z,v,false,o[2])if v[D[d(m(-57155),2426730580180)]]>20 then local K=o[1][D[d(m(-55318),24622725192083)]]local c=Vector2[D[d(m(-57639),16517874564119)]](o[3],o[3]+1)local W=Z+c H[D[d(m(-55751),11189805033653)]](H,D[d(m(-56651),12933614972685)],K,603,Oi,W,KU[D[d(m(-57648),25669655420258)]],false)end if v[D[d(m(-57061),25419465940089)]]>40 then local K=Color3[D[d(m(-57141),6149507094111)]](KU[D[d(m(-57650),783855452890)]],KU[D[d(m(-55969),30741092822997)]],KU[D[d(m(-55500),19960395909277)]])local v=Vector2[D[d(m(-56909),16957048372656)]](24,14)local M=Vector2[D[d(m(-56321),791371875041)]]((c[D[d(m(-56761),18496841139018)]]-o[3])-v[D[d(m(-56539),3468291935390)]],o[3]+1)local p=o[1][D[d(m(-58026),23394327057691)]]local j=Z+M H:_Draw(D[d(m(-56683),21138326637798)],p,603,Oi,j,v,true,4)local C=j+Vector2[D[d(m(-55438),9804635808683)]](1,1)local G=Vector2[D[d(m(-57090),4156581449503)]](2,2)H:_Draw(D[d(m(-57320),17297434918637)],K,604,Oi,C,v-G,true,4)local J=Vector2[D[d(m(-58084),23280506950833)]](o[3],(o[3]+W[D[d(m(-57175),31004167598282)]])+10)local V=Z+J local h=Vector2[D[d(m(-57322),25705089981827)]](c[D[d(m(-57399),2404181313727)]]-o[3]*2,100)H:_Draw(D[d(m(-56047),23502778291584)],o[1][D[d(m(-55420),25236924259279)]],602,Oi,V,h,false)H:_Draw(D[d(m(-56060),16322447588193)],o[1][D[d(m(-57439),25458121825437)]],604,Oi,V,h,true)local n=H:_GetMousePos()local E=Vector2[D[d(m(-55902),13950479512256)]](h[D[d(m(-57712),23570426090943)]],14)local R=V+Vector2[D[d(m(-56447),18619251442620)]](0,h[D[d(m(-55788),26196878745421)]]+10)local r=R+Vector2[D[d(m(-56225),25478523542704)]](0,E[D[d(m(-57934),13799077294643)]]+10)local N=Vector2[D[d(m(-57317),21671992610519)]](h[D[d(m(-56901),21668771286740)]],24)if H:_IsMouseWithinBounds(R,E)and O then local H=L(((n[D[d(m(-55937),1320742749390)]]-R[D[d(m(-55460),24737619073534)]]))/math[D[d(m(-57963),29217406675530)]](1,E[D[d(m(-56141),29203447605821)]]),0,1)if H~=KU[D[d(m(-56859),4690247422224)]]then KU[D[d(m(-55791),6414729418582)]]=H if KU[D[d(m(-56650),1809310189205)]]then KU[D[d(m(-55371),28676224280658)]](Color3[D[d(m(-56768),22980923839386)]](KU[D[d(m(-58054),32223975535930)]],KU[D[d(m(-57053),24352133994647)]],KU[D[d(m(-57406),3971892219507)]]))end end end if H:_IsMouseWithinBounds(V,h)and O then local H=L(((n[D[d(m(-55569),12977639730998)]]-V[D[d(m(-55521),8613819785046)]]))/math[D[d(m(-56518),20732439841644)]](1,h[D[d(m(-57626),15044655822523)]]),0,1)local o=L(((n[D[d(m(-57707),15196058040136)]]-V[D[d(m(-55553),33714374671014)]]))/math[D[d(m(-58201),34129925438505)]](1,h[D[d(m(-55893),1303562355902)]]),0,1)local K=KU[D[d(m(-55425),14247915074517)]]local c=1-o if H~=K or c~=KU[D[d(m(-56627),24014968772445)]]then KU[D[d(m(-56043),23668139578906)]]=H KU[D[d(m(-55503),26957111157265)]]=c if KU[D[d(m(-56759),28609650255892)]]then KU[D[d(m(-56382),33850744044325)]](Color3[D[d(m(-56297),3317963492370)]](KU[D[d(m(-56073),13454395650290)]],KU[D[d(m(-57400),29424645171979)]],KU[D[d(m(-58034),31759031137161)]]))end end end local I=Color3[D[d(m(-56512),13963364807372)]](KU[D[d(m(-55628),35146789978077)]],1,1)local q=Color3[D[d(m(-57259),25891926761009)]](255,255,255)H:_Draw(D[d(m(-57765),17269516779219)],nil,605,Oi,D[d(m(-58294),1508653303165)],V,h,q,I)H:_Draw(D[d(m(-55392),10306088543614)],nil,606,Oi,D[d(m(-57601),15962733099538)],V,h,{[D[d(m(-56934),16573710842955)]]=0,[D[d(m(-58264),2267811940416)]]=0;[D[d(m(-57131),24601249700223)]]=0,[D[d(m(-56324),16331037784937)]]=0},{[D[d(m(-58158),109525008486)]]=0,[D[d(m(-55309),30290107493937)]]=0,[D[d(m(-58168),15320615892924)]]=0;[D[d(m(-55499),1855482496704)]]=1})local Q=Color3[D[d(m(-57841),11395969755509)]](255,0,0)local S=Color3[D[d(m(-56259),7150265014787)]](255,255,0)local w=Color3[D[d(m(-57241),28180140418692)]](0,255,0)local F=Color3[D[d(m(-56733),30220312145392)]](0,255,255)local X=Color3[D[d(m(-56131),33692899179154)]](0,0,255)local u=Color3[D[d(m(-56942),30493050892014)]](255,0,255)local f=table[D[d(m(-56515),33603775887935)]](Color3[D[d(m(-57727),15824216177041)]](255,0,0))H:_Draw(D[d(m(-56248),19927108896894)],nil,606,Oi,D[d(m(-56289),9619946578687)],R,E,Q,S,w,F,X,u,table[D[d(m(-57916),31838490457043)]](f,1,f[D[d(m(-57558),22671676756602)]]))local A=h[D[d(m(-58146),1578448651710)]]local P=KU[D[d(m(-58281),34287770303676)]]local b=Vector2[D[d(m(-56079),32389336823252)]]local l=KU[D[d(m(-56093),34911633342209)]]local y=V+b(A*P,h[D[d(m(-57934),7161002760717)]]*((1-l)))local k=Color3[D[d(m(-55273),11372346714463)]](255,255,255)H:_Draw(D[d(m(-55440),22186330640566)],k,607,.9*Oi,y,5,false)local t=R[D[d(m(-56696),2013327361875)]]local U=E[D[d(m(-57709),14735408739739)]]*KU[D[d(m(-56669),33765915851478)]]local a=t+U local i=Color3[D[d(m(-55640),10888074373020)]](255,255,255)local s=Vector2[D[d(m(-57714),10404875806170)]]local x=R[D[d(m(-56539),3899949321776)]]local T=s(a-2,x-2)local g=Vector2[D[d(m(-56740),9488946078341)]](4,E[D[d(m(-57582),11671929825910)]]+4)H:_Draw(D[d(m(-56473),18974670832903)],i,607,Oi,T,g,true)local z=Color3[D[d(m(-57119),7310257429144)]](50,50,50)local B=Vector2[D[d(m(-57297),14514211173581)]](a-2,R[D[d(m(-57626),14680646235496)]]-2)local e=Vector2[D[d(m(-57407),10471449830936)]](4,E[D[d(m(-57750),18768506111047)]]+4)H:_Draw(D[d(m(-56197),14136242516845)],z,608,Oi,B,e,false)local Y=string[D[d(m(-56219),34717280140876)]](D[d(m(-56051),27342596236152)],math[D[d(m(-56044),28737429432459)]](K[D[d(m(-55907),29070299556289)]]*255),math[D[d(m(-56992),29208816478786)]](K[D[d(m(-56653),34089122003971)]]*255),math[D[d(m(-55314),30207426850276)]](K[D[d(m(-55878),16179635567324)]]*255))local Hi=o[1][D[d(m(-55278),19907780954220)]]local oi=D[d(m(-58089),29587858910115)]..Y H:_Draw(D[d(m(-55571),148180893834)],Hi,605,Oi,r,N,true,4)H:_Draw(D[d(m(-55658),27456416343010)],o[1][D[d(m(-55576),16116282866337)]],606,Oi,r,N,false,4)local Ki=o[1][D[d(m(-57726),17379041787705)]]local ci=N[D[d(m(-56807),12025201667007)]]local Zi=Vector2[D[d(m(-58120),22000567635977)]]local Wi=N[D[d(m(-57712),23990271956806)]]local vi=Zi(ci/2,Wi/2)H:_Draw(D[d(m(-56640),1841523426995)],Ki,607,Oi,r+vi,oi,false,D[d(m(-55891),1290677060786)],12)end if j and(not S and not H:_IsMouseWithinBounds(Z,v))then H:_RemoveColorpicker()S=true j=false end end end if H[D[d(m(-55944),5172372214481)]]then if not H[D[d(m(-56846),2559878629712)]]or H[D[d(m(-57784),24107313387443)]][D[d(m(-57493),24627020290455)]]~=H[D[d(m(-57795),18884473767091)]][D[d(m(-58191),26826110656919)]]then H[D[d(m(-58212),107377459300)]]={[D[d(m(-57388),8552614633245)]]=H[D[d(m(-55623),33196815317188)]][D[d(m(-55310),5718923482318)]],[D[d(m(-57876),10547687827039)]]=H[D[d(m(-57646),25992861572751)]][D[d(m(-57532),23508147164549)]];[D[d(m(-56014),8664287190917)]]=0,[D[d(m(-56357),21044908248207)]]=0}end else H[D[d(m(-58058),8044719250756)]]=nil end if H[D[d(m(-57681),33218290809048)]]then local K=H[D[d(m(-56903),16885105474925)]]K[D[d(m(-55523),28708437518448)]]=((K[D[d(m(-56220),17891232268566)]]or 0))+o[6]K[D[d(m(-55627),8321753095750)]]=C(K[D[d(m(-57478),14498104554686)]]or 0,K[D[d(m(-56458),34338237709547)]]>.5 and 1 or 0,(o[8](.28)))local c=J(K[D[d(m(-57734),167508836508)]])if c>.01 then local Z=H:_GetTextBounds(K[D[d(m(-56553),9916308366355)]])local W=Z[D[d(m(-56283),10029054698620)]]local v=o[3]*1.5 local M=Z[D[d(m(-56119),17459574882180)]]local p=W+v local j=o[3]*.8 local O=M+j local C=H[D[d(m(-57213),18577374233493)]](H)local L=Vector2[D[d(m(-56597),33556529805843)]](C[D[d(m(-57061),2191573944313)]]+10,(C[D[d(m(-58181),8201490341334)]]-O)-6)local G=o[1][D[d(m(-58290),27085964108425)]]local J=.18*Zi local V=J*c local h=L+Vector2[D[d(m(-55464),31542128669375)]](1,2)local n=Vector2[D[d(m(-57179),5389274682267)]](p,O)H:_Draw(D[d(m(-55551),15183172745020)],G,999,V,h,n,true,6)local E=Zi*c local R=o[1][D[d(m(-56396),2659739666861)]]local r=Vector2[D[d(m(-55404),21680582807263)]](p,O)H:_Draw(D[d(m(-57899),8472081538770)],R,1000,E,L,r,true,6)local N=o[1][D[d(m(-57560),18425972015880)]]local I=Zi*c local q=Vector2[D[d(m(-57903),33377209448812)]](p,O)H:_Draw(D[d(m(-55833),4292950822814)],N,1001,I,L,q,false,6)local Q=Zi*c local S=o[1][D[d(m(-56793),33428750629276)]]local w=Vector2[D[d(m(-57428),29640473865172)]]local F=H[D[d(m(-57895),9558741426886)]]local X=w(o[3]*.75,((O-F))/2+1)H:_Draw(D[d(m(-57426),16096954923663)],S,1001,Q,L+X,K[D[d(m(-56032),21170539875588)]],false)end end if F and(not S and not H[D[d(m(-57797),6914034604327)]])then local o=Vector2[D[d(m(-56474),15232566376298)]](f,P)local K=table[D[d(m(-56827),29977639087374)]](Vector2[D[d(m(-57806),4821247922570)]](A,l))if H:_IsMouseWithinBounds(o,table[D[d(m(-55256),13145148567506)]](K,1,K[D[d(m(-57835),25823205187057)]]))then local o=H[D[d(m(-57138),31915802227739)]]or Vector2[D[d(m(-56690),25760926260663)]]()H[D[d(m(-58180),14166308205449)]]=Vector2[D[d(m(-55667),14472333964454)]](o[D[d(m(-57709),16856113560914)]]-H[D[d(m(-55731),4747157475653)]],o[D[d(m(-56381),28873798805770)]]-H[D[d(m(-57232),2429951903959)]])end end for o,K in pairs(H[D[d(m(-55925),28836216695015)]]or{})do for c=((H[D[d(m(-55442),14154496684926)]][o]or 0))+1,#K,1 do local Z=K[c]local W=H[D[d(m(-55479),24145969272791)]][o][c]if W and W[D[d(m(-56751),22305519620389)]]~=false then pcall(function()Z[D[d(m(-57318),7179256928798)]]=false end)W[D[d(m(-57882),11190878808246)]]=false end end end end local x=rawget(_G,D[d(m(-57468),28540928681940)])if type(x)==D[d(m(-57956),14146980262775)]then if x[D[d(m(-56036),6745451993226)]]then pcall(function()x[D[d(m(-58311),11145780275340)]]:Disconnect()end)end for H,o in ipairs(x[D[d(m(-57369),14641990350148)]]or{})do pcall(function()o:Disconnect()end)end if x[D[d(m(-57617),11430330542485)]]then pcall(function()x:_FullWipe()end)elseif x[D[d(m(-57151),20652980521762)]]then pcall(function()x:Destroy()end)elseif x[D[d(m(-57832),17915929084205)]]then pcall(function()x:Unload()end)end end U:SetMenuTitle(D[d(m(-58196),3411381881961)])U:SetMenuSize(Vector2[D[d(m(-55532),11626831293004)]](480,310))U:CenterMenu()U[D[d(m(-57629),33762694527699)]]=U:Tab(D[d(m(-56444),21955469103071)])U:CreateSettingsTab(D[d(m(-57803),30038844239175)])_G[D[d(m(-56861),12673761521179)]]=U local T T=(game:GetService(D[d(m(-56086),5610472248425)]))[D[d(m(-56026),20698079054668)]]:Connect(function()if U[D[d(m(-58020),34268442361002)]]then T:Disconnect()for H,o in ipairs(U[D[d(m(-56099),18059814879667)]])do pcall(function()o:Disconnect()end)end if rawget(_G,D[d(m(-56571),2230229829661)])==U then _G[D[d(m(-57060),1763137881706)]]=nil end return end U:Step()end)U[D[d(m(-56674),27370514375570)]]=T return U end)(...)
+local tbl = {
+	_font_face = Drawing.Fonts.SystemBold,
+	_font_size = 13,
+	_pool = {Square = {}, Text = {}, Triangle = {}, Circle = {}, Line = {}},
+	_pool_state = {Square = {}, Text = {}, Triangle = {}, Circle = {}, Line = {}},
+	_pIdx = {Square = 0, Text = 0, Triangle = 0, Circle = 0, Line = 0},
+	_tree = {},
+	_tab_order = {},
+	_menu_open = true,
+	_watermark_enabled = true,
+	_notifications = {},
+	_notifications_spawned = 0
+}
+
+tbl._open_tab = nil
+tbl._next_tab = nil
+tbl._tab_changing = false
+tbl._tab_fade = 1
+tbl._search_query = ""
+tbl._search_typing = false
+tbl._search_w_anim = 22
+
+tbl._inputs = {
+	m1 = {id = 1, held = false, click = false},
+	m2 = {id = 2, held = false, click = false},
+	mb = {id = 4, held = false, click = false},
+	backspace = {id = 8, held = false, click = false},
+	tab = {id = 9, held = false, click = false},
+	enter = {id = 13, held = false, click = false},
+	shift = {id = 16, held = false, click = false},
+	ctrl = {id = 17, held = false, click = false},
+	alt = {id = 18, held = false, click = false},
+	pause = {id = 19, held = false, click = false},
+	capslock = {id = 20, held = false, click = false},
+	esc = {id = 27, held = false, click = false},
+	space = {id = 32, held = false, click = false},
+	pageup = {id = 33, held = false, click = false},
+	pagedown = {id = 34, held = false, click = false},
+	["end"] = {id = 35, held = false, click = false},
+	home = {id = 36, held = false, click = false},
+	left = {id = 37, held = false, click = false},
+	up = {id = 38, held = false, click = false},
+	right = {id = 39, held = false, click = false},
+	down = {id = 40, held = false, click = false},
+	insert = {id = 45, held = false, click = false},
+	delete = {id = 46, held = false, click = false},
+	["0"] = {id = 48, held = false, click = false},
+	["1"] = {id = 49, held = false, click = false},
+	["2"] = {id = 50, held = false, click = false},
+	["3"] = {id = 51, held = false, click = false},
+	["4"] = {id = 52, held = false, click = false},
+	["5"] = {id = 53, held = false, click = false},
+	["6"] = {id = 54, held = false, click = false},
+	["7"] = {id = 55, held = false, click = false},
+	["8"] = {id = 56, held = false, click = false},
+	["9"] = {id = 57, held = false, click = false},
+	a = {id = 65, held = false, click = false},
+	b = {id = 66, held = false, click = false},
+	c = {id = 67, held = false, click = false},
+	d = {id = 68, held = false, click = false},
+	e = {id = 69, held = false, click = false},
+	f = {id = 70, held = false, click = false},
+	g = {id = 71, held = false, click = false},
+	h = {id = 72, held = false, click = false},
+	i = {id = 73, held = false, click = false},
+	j = {id = 74, held = false, click = false},
+	k = {id = 75, held = false, click = false},
+	l = {id = 76, held = false, click = false},
+	m = {id = 77, held = false, click = false},
+	n = {id = 78, held = false, click = false},
+	o = {id = 79, held = false, click = false},
+	p = {id = 80, held = false, click = false},
+	q = {id = 81, held = false, click = false},
+	r = {id = 82, held = false, click = false},
+	s = {id = 83, held = false, click = false},
+	t = {id = 84, held = false, click = false},
+	u = {id = 85, held = false, click = false},
+	v = {id = 86, held = false, click = false},
+	w = {id = 87, held = false, click = false},
+	x = {id = 88, held = false, click = false},
+	y = {id = 89, held = false, click = false},
+	z = {id = 90, held = false, click = false},
+	f1 = {id = 112, held = false, click = false},
+	f2 = {id = 113, held = false, click = false},
+	f3 = {id = 114, held = false, click = false},
+	f4 = {id = 115, held = false, click = false},
+	f5 = {id = 116, held = false, click = false},
+	f6 = {id = 117, held = false, click = false},
+	f7 = {id = 118, held = false, click = false},
+	f8 = {id = 119, held = false, click = false},
+	f9 = {id = 120, held = false, click = false},
+	f10 = {id = 121, held = false, click = false},
+	f11 = {id = 122, held = false, click = false},
+	f12 = {id = 123, held = false, click = false}
+}
+
+tbl._slider_drag = nil
+tbl._dd_drag = nil
+tbl._slider_disp = {}
+tbl._menu_drag = nil
+tbl._input_ctx = nil
+tbl._key_repeat = {}
+tbl._overwrite_menu_key = false
+tbl._menu_key = "f5"
+tbl._active_dropdown = nil
+tbl._dropdown_scroll = 0
+tbl._dropdown_scroll_v = 0
+tbl._active_colorpicker = nil
+tbl._copied_color = nil
+tbl._activities = {}
+tbl._toggle_anim = {}
+tbl._dd_arrow_anim = {}
+tbl._frame_tooltip = nil
+tbl._menu_scale = 0
+tbl._current_h = 500
+tbl._KB_W = 52
+tbl._unloaded = false
+tbl._unloading_sequence = false
+tbl._unload_phase = "sections"
+tbl._unload_section_alpha = 1
+tbl._last_step_time = 0
+tbl._real_m1_click = false
+tbl._sec_scroll = {}
+tbl._sec_slide = {}
+tbl._item_vis = {}
+tbl._tab_scroll = {}
+tbl._config_folder = "macosUI"
+tbl._config_name = "default"
+tbl._config_refs = {}
+tbl._config_callbacks = {}
+tbl._autosave_dirty = false
+tbl._autosave_timer = 0
+tbl._autosave_delay = 3
+tbl._autosave_last = 0
+tbl._config_list = {}
+tbl._autoload_requested = false
+tbl._boot_loaded = false
+tbl.title = "macosUI"
+tbl._custom_title_enabled = false
+tbl._custom_title = "macosUI"
+tbl.w = 420
+tbl.h = 500
+tbl.x = 20
+tbl.y = 100
+tbl._padding = 10
+tbl._tab_h = 36
+tbl._corner = 10
+tbl._theme_name = "Midnight"
+
+tbl._themes = {
+	Light = {
+		accent = Color3.fromRGB(0, 122, 255),
+		unsafe = Color3.fromRGB(255, 59, 48),
+		body = Color3.fromRGB(236, 236, 236),
+		text = Color3.fromRGB(28, 28, 28),
+		subtext = Color3.fromRGB(142, 142, 147),
+		border1 = Color3.fromRGB(198, 198, 203),
+		border0 = Color3.fromRGB(212, 212, 216),
+		surface1 = Color3.fromRGB(218, 218, 223),
+		surface0 = Color3.fromRGB(250, 250, 252),
+		crust = Color3.fromRGB(175, 175, 180),
+		shadow = Color3.fromRGB(150, 150, 160)
+	},
+	Dark = {
+		accent = Color3.fromRGB(10, 132, 255),
+		unsafe = Color3.fromRGB(255, 69, 58),
+		body = Color3.fromRGB(28, 28, 30),
+		text = Color3.fromRGB(255, 255, 255),
+		subtext = Color3.fromRGB(99, 99, 102),
+		border1 = Color3.fromRGB(56, 56, 58),
+		border0 = Color3.fromRGB(44, 44, 46),
+		surface1 = Color3.fromRGB(44, 44, 46),
+		surface0 = Color3.fromRGB(36, 36, 38),
+		crust = Color3.fromRGB(18, 18, 18),
+		shadow = Color3.fromRGB(5, 5, 5)
+	},
+	Catppuccin = {
+		accent = Color3.fromRGB(137, 180, 250),
+		unsafe = Color3.fromRGB(243, 139, 168),
+		body = Color3.fromRGB(30, 30, 46),
+		text = Color3.fromRGB(205, 214, 244),
+		subtext = Color3.fromRGB(166, 173, 200),
+		border1 = Color3.fromRGB(54, 58, 79),
+		border0 = Color3.fromRGB(45, 50, 68),
+		surface1 = Color3.fromRGB(49, 50, 68),
+		surface0 = Color3.fromRGB(36, 39, 58),
+		crust = Color3.fromRGB(17, 17, 27),
+		shadow = Color3.fromRGB(5, 5, 10)
+	},
+	Dracula = {
+		accent = Color3.fromRGB(189, 147, 249),
+		unsafe = Color3.fromRGB(255, 85, 85),
+		body = Color3.fromRGB(40, 42, 54),
+		text = Color3.fromRGB(248, 248, 242),
+		subtext = Color3.fromRGB(98, 114, 164),
+		border1 = Color3.fromRGB(68, 71, 90),
+		border0 = Color3.fromRGB(58, 60, 78),
+		surface1 = Color3.fromRGB(68, 71, 90),
+		surface0 = Color3.fromRGB(48, 50, 65),
+		crust = Color3.fromRGB(21, 22, 30),
+		shadow = Color3.fromRGB(5, 5, 8)
+	},
+	Nord = {
+		accent = Color3.fromRGB(136, 192, 208),
+		unsafe = Color3.fromRGB(191, 97, 106),
+		body = Color3.fromRGB(46, 52, 64),
+		text = Color3.fromRGB(236, 239, 244),
+		subtext = Color3.fromRGB(129, 161, 193),
+		border1 = Color3.fromRGB(67, 76, 94),
+		border0 = Color3.fromRGB(59, 66, 82),
+		surface1 = Color3.fromRGB(67, 76, 94),
+		surface0 = Color3.fromRGB(59, 66, 82),
+		crust = Color3.fromRGB(36, 41, 51),
+		shadow = Color3.fromRGB(10, 12, 16)
+	},
+	Rose = {
+		accent = Color3.fromRGB(235, 111, 146),
+		unsafe = Color3.fromRGB(235, 111, 146),
+		body = Color3.fromRGB(25, 23, 36),
+		text = Color3.fromRGB(224, 222, 244),
+		subtext = Color3.fromRGB(110, 106, 134),
+		border1 = Color3.fromRGB(64, 61, 82),
+		border0 = Color3.fromRGB(57, 53, 74),
+		surface1 = Color3.fromRGB(64, 61, 82),
+		surface0 = Color3.fromRGB(42, 39, 60),
+		crust = Color3.fromRGB(14, 12, 23),
+		shadow = Color3.fromRGB(5, 4, 10)
+	},
+	Midnight = {
+		accent = Color3.fromRGB(59, 130, 246),
+		unsafe = Color3.fromRGB(239, 68, 68),
+		body = Color3.fromRGB(17, 17, 19),
+		text = Color3.fromRGB(232, 232, 236),
+		subtext = Color3.fromRGB(90, 90, 98),
+		border1 = Color3.fromRGB(42, 42, 46),
+		border0 = Color3.fromRGB(34, 34, 38),
+		surface1 = Color3.fromRGB(20, 20, 22),
+		surface0 = Color3.fromRGB(26, 26, 29),
+		crust = Color3.fromRGB(13, 13, 15),
+		shadow = Color3.fromRGB(0, 0, 0)
+	}
+}
+
+tbl._theming = nil
+tbl._ctx_menu = nil
+tbl._search_tab_results = {}
+tbl._tab_content_alpha = 1
+tbl._tab_pill_w_anim = {}
+local color3
+local macosUI; macosUI, color3 = tbl, Color3
+local v1 = color3.fromRGB(255, 95, 86)
+local color = Color3.fromRGB(196, 68, 62)
+local color1 = Color3.fromRGB(255, 189, 46)
+local color2 = Color3.fromRGB(196, 146, 30)
+local color4 = Color3.fromRGB(39, 201, 63)
+local color5 = Color3.fromRGB(22, 160, 44)
+local themeUI = macosUI
+themeUI._theming = themeUI._themes[themeUI._theme_name]
+
+local function func(arg1, arg2)
+	return type(arg1) == "number" and arg1 == arg1 and arg1 or (arg2 or 0)
+end
+
+local function func1(arg1, arg2, arg3)
+	return arg1 + (arg2 - arg1) * arg3
+end
+
+local function func2(arg1, arg2, arg3)
+	if arg1 > arg3 then
+		return arg3
+	end
+
+	if arg1 < arg2 then
+		return arg2
+	end
+
+	return arg1
+end
+
+local function func3(arg1, arg2, arg3)
+	return
+		Color3.new(
+			func1(arg1.R, arg2.R, arg3),
+			func1(arg1.G, arg2.G, arg3),
+			(func1(arg1.B, arg2.B, arg3))
+		)
+end
+
+local function func4(arg1)
+	return 1 - (1 - arg1) * (1 - arg1)
+end
+
+local function func5(arg1)
+	local v1 = func(arg1)
+	local v2 = math.floor(v1)
+
+	if v1 == v2 then
+		return tostring(v2)
+	end
+
+	return tostring(math.floor(v1 * 100 + 0.5) / 100)
+end
+
+local tbl1 = {
+	lshift = true,
+	rshift = true,
+	lctrl = true,
+	rctrl = true,
+	lalt = true,
+	ralt = true,
+	shift = true,
+	ctrl = true,
+	alt = true
+}
+
+local tbl2 = {
+	f1 = true,
+	f2 = true,
+	f3 = true,
+	f4 = true,
+	f5 = true,
+	f6 = true,
+	f7 = true,
+	f8 = true,
+	f9 = true,
+	f10 = true,
+	f11 = true,
+	f12 = true
+}
+
+local tbl3 = {
+	left = true,
+	right = true,
+	up = true,
+	down = true,
+	pageup = true,
+	pagedown = true,
+	home = true,
+	end_ = true,
+	insert = true,
+	delete = true,
+	tab = true,
+	enter = true,
+	backspace = true,
+	esc = true,
+	capslock = true,
+	pause = true,
+	space = true
+}
+
+local tbl4 = {m1 = true, m2 = true, mb = true}
+local Players = game:GetService("Players")
+local tbl5 = {}
+local num = 0
+
+local function func6(arg1, arg2, arg3, arg4)
+	local v1 = arg2 or ""
+	local v2 =
+		tostring(arg3 or arg1._font_face) .. ":" .. tostring(arg4 or arg1._font_size) .. ":" .. v1
+	local v3 = tbl5[v2]
+
+	if v3 then
+		return v3
+	end
+
+	local v4 = arg1:_GetTextBounds(v1, arg3, arg4)
+
+	if num >= 600 then
+		tbl5 = {}
+		num = 0
+	end
+
+	tbl5[v2] = v4
+	num = num + 1
+	return v4
+end
+
+local function func7(arg1, arg2)
+	return 1 - (1 - arg1) ^ (arg2 * 60)
+end
+
+local inputUI = macosUI
+
+local function func8(arg1, arg2, arg3)
+	local v1 = math.max(arg1, arg2, arg3)
+	local num = 0
+	local v2 = v1 - math.min(arg1, arg2, arg3)
+	local num1 = 0
+
+	if v1 > 0 then
+		num1 = v2 / v1
+	end
+
+	if v2 > 0 then
+		if v1 == arg1 then
+			num = (arg2 - arg3) / v2
+			if arg2 < arg3 then
+				num = num + 6
+			end
+		elseif v1 == arg2 then
+			num = (arg3 - arg1) / v2 + 2
+		elseif v1 == arg3 then
+			num = (arg1 - arg2) / v2 + 4
+		end
+		num = num / 6
+	end
+
+	return num, num1, v1
+end
+
+inputUI._scroll_delta = 0
+inputUI._uiConnections = {}
+pcall(function()
+	local LocalPlayer = Players.LocalPlayer
+	if LocalPlayer then
+		local Mouse = LocalPlayer:GetMouse()
+		if Mouse then
+			table.insert(inputUI._uiConnections, Mouse.WheelForward:Connect(function()
+				local themeUI = macosUI
+				themeUI._scroll_delta = themeUI._scroll_delta + 60
+			end))
+			table.insert(inputUI._uiConnections, Mouse.WheelBackward:Connect(function()
+				local themeUI = macosUI
+				themeUI._scroll_delta = themeUI._scroll_delta - 60
+			end))
+		end
+	end
+end)
+
+local function func9()
+	return type(writefile) == "function" and type(readfile) == "function"
+end
+
+local function func10(arg1)
+	if type(makefolder) == "function" then
+		pcall(makefolder, arg1)
+	end
+end
+
+local function func11(arg1)
+	if type(isfile) == "function" then
+		local ok, result = pcall(isfile, arg1)
+		return ok and result
+	end
+	return false
+end
+
+local function func12(arg1, arg2)
+	if type(writefile) == "function" then
+		pcall(writefile, arg1, arg2)
+	end
+end
+
+local function func13(arg1)
+	if type(readfile) == "function" then
+		local ok, result = pcall(readfile, arg1)
+		if ok then
+			return result
+		end
+	end
+	return nil
+end
+
+local function func14(arg1)
+	if type(listfiles) == "function" then
+		local ok, result = pcall(listfiles, arg1)
+		if ok and type(result) == "table" then
+			return result
+		end
+	end
+	return {}
+end
+
+local function func15(arg1)
+	local HttpService = game:GetService("HttpService")
+	local ok, result = pcall(function()
+		return HttpService:JSONEncode(arg1)
+	end)
+	return ok and result or nil
+end
+
+local configUI = macosUI
+
+local function _RegisterConfigRef(arg1, arg2, arg3, arg4)
+	arg1._config_refs = arg1._config_refs or {}
+	table.insert(arg1._config_refs, {tab = arg2, sec = arg3, label = arg4.label, item = arg4})
+end
+
+local function func16(arg1)
+	local HttpService = game:GetService("HttpService")
+	local ok, result = pcall(function()
+		return HttpService:JSONDecode(arg1)
+	end)
+	return ok and result or nil
+end
+
+configUI._RegisterConfigRef = _RegisterConfigRef
+
+local function func17(arg1)
+	if not arg1 then
+		return nil
+	end
+	return
+		string.format(
+			"%02X%02X%02X",
+			math.floor(arg1.R * 255 + 0.5),
+			math.floor(arg1.G * 255 + 0.5),
+			math.floor(arg1.B * 255 + 0.5)
+		)
+end
+
+local uiLibrary = macosUI
+
+local function func18(arg1)
+	if not arg1 or #arg1 < 6 then
+		return nil
+	end
+
+	local v1 = arg1:match("^#?(%x%x%x%x%x%x)$")
+
+	if not v1 then
+		return nil
+	end
+
+	return
+		Color3.fromRGB(
+			tonumber(v1:sub(1, 2), 16),
+			tonumber(v1:sub(3, 4), 16),
+			tonumber(v1:sub(5, 6), 16)
+		)
+end
+
+function uiLibrary:_BuildConfigData()
+	local tbl = {}
+
+	for _, v1 in ipairs(self._config_refs or {}) do
+		local v2 = v1.tab .. "/" .. v1.sec .. "/" .. v1.label
+		local item = v1.item
+
+		if item.type_ == "toggle" then
+			tbl[v2] = item.value
+		elseif item.type_ == "slider" then
+			tbl[v2] = item.value
+		elseif item.type_ == "dropdown" then
+			tbl[v2] =
+				type(item.value) == "table" and table.concat(item.value, ",")
+					or tostring(item.value or "")
+		elseif item.type_ == "textbox" then
+			tbl[v2] = item.value or ""
+		end
+
+		if item.keybind then
+			tbl[v2 .. "__kb"] = item.keybind.value or ""
+		end
+
+		if item.colorpicker then
+			tbl[v2 .. "__cp"] = func17(item.colorpicker.value)
+		end
+	end
+
+	tbl.__theme = self._theme_name
+	tbl.__menukey = self._menu_key
+	return tbl
+end
+
+function uiLibrary:_ApplyConfigData(arg2)
+	if type(arg2) ~= "table" then
+		return
+	end
+
+	for _, v1 in ipairs(self._config_refs or {}) do
+		local tab = v1.tab
+		local v2 = "/" .. v1.sec .. "/" .. v1.label
+		local item = v1.item
+		local v3 = tab .. v2
+		local v4 = arg2[v3]
+		local _rawcb = item._rawcb
+
+		if v4 ~= nil then
+			if item.type_ == "toggle" then
+				item.value = v4 == true or v4 == "true"
+
+				if _rawcb then
+					pcall(_rawcb, item.value)
+				end
+
+				local tab1 = v1.tab
+				local v5 = v1.sec .. v1.label
+				self._toggle_anim[tab1 .. v5] = item.value and 1 or 0
+			elseif item.type_ == "slider" then
+				local num = tonumber(v4)
+				if num then
+					item.value = num
+					if _rawcb then
+						pcall(_rawcb, num)
+					end
+				end
+			elseif item.type_ == "dropdown" then
+				local tbl = {}
+
+				for k in tostring(v4):gmatch("[^,]+") do
+					table.insert(tbl, k)
+				end
+
+				item.value = tbl
+
+				if _rawcb then
+					pcall(_rawcb, item.value)
+				end
+			elseif item.type_ == "textbox" then
+				item.value = tostring(v4)
+				if _rawcb then
+					pcall(_rawcb, item.value)
+				end
+			end
+		end
+
+		if item.keybind then
+			local v6 = arg2[v3 .. "__kb"]
+			if v6 ~= nil then
+				item.keybind.value = tostring(v6)
+			end
+		end
+
+		if item.colorpicker then
+			local v7 = arg2[v3 .. "__cp"]
+			if v7 then
+				local v8 = func18(tostring(v7))
+				if v8 then
+					item.colorpicker.value = v8
+					if item.colorpicker.callback then
+						pcall(item.colorpicker.callback, v8)
+					end
+				end
+			end
+		end
+	end
+
+	if arg2.__theme and self._themes[arg2.__theme] then
+		self:_ApplyTheme(arg2.__theme)
+	end
+
+	if arg2.__menukey and self._inputs[arg2.__menukey] then
+		self._menu_key = arg2.__menukey
+	end
+
+	for _, v9 in ipairs(self._config_callbacks or {}) do
+		pcall(v9, arg2)
+	end
+end
+
+function uiLibrary:_AutoSaveTick(arg2)
+	if not self._autosave_dirty then
+		return
+	end
+
+	self._autosave_timer = self._autosave_timer + func(arg2, 0.016)
+
+	if self._autosave_timer < self._autosave_delay then
+		return
+	end
+
+	self._autosave_dirty = false
+	self._autosave_timer = 0
+	self._autosave_last = os.clock()
+
+	if not func9() then
+		return
+	end
+
+	func10(self._config_folder)
+	local v1 = self:_BuildConfigData()
+
+	if self._config_name and self._config_name ~= "default" then
+		v1.__savedas = self._config_name
+	end
+
+	local v2 = func15(v1)
+
+	if not v2 then
+		return
+	end
+
+	func12(self._config_folder .. "/_last.json", v2)
+end
+
+function uiLibrary:_RefreshConfigList()
+	local v1 = self:ListConfigs()
+	local flag = false
+	local tbl = {}
+
+	for _, v2 in ipairs(v1 or {}) do
+		if v2 ~= "_last" then
+			table.insert(tbl, v2)
+			if v2 == "default" then
+				flag = true
+			end
+		end
+	end
+
+	if not flag then
+		table.insert(tbl, 1, "default")
+	end
+
+	self._config_list = tbl
+	return tbl
+end
+
+function uiLibrary:SaveConfig(arg2)
+	local str = tostring(arg2 or self._config_name or "default")
+
+	if str == "default" or str == "" then
+		self:Notification("Set a config name first", 5)
+		return
+	end
+
+	if not func9() then
+		self:Notification("No filesystem API", 5)
+		return
+	end
+
+	func10(self._config_folder)
+	local v1 = self:_BuildConfigData()
+	v1.__savedas = str
+	local v2 = func15(v1)
+
+	if not v2 then
+		self:Notification("Encode failed", 4)
+		return
+	end
+
+	func12(self._config_folder .. "/" .. str .. ".json", v2)
+	func12(self._config_folder .. "/_last.json", v2)
+	self._autosave_dirty = false
+	self._autosave_timer = 0
+	self._config_name = str
+	self:_RefreshConfigList()
+	self:Notification("Saved: " .. str, 4)
+end
+
+function uiLibrary:LoadConfig(arg2)
+	local str = tostring(arg2 or self._config_name or "default")
+
+	if not func9() then
+		self:Notification("No filesystem API", 5)
+		return
+	end
+
+	local v1 = self._config_folder .. "/" .. str .. ".json"
+
+	if not func11(v1) then
+		if str ~= "_last" then
+			self:Notification("Not found: " .. str, 4)
+		end
+		return
+	end
+
+	local v2 = func13(v1)
+
+	if not v2 then
+		self:Notification("Read failed: " .. str, 4)
+		return
+	end
+
+	local v3 = func16(v2)
+
+	if not v3 then
+		self:Notification("Config corrupted, using defaults", 4)
+
+		if type(delfile) == "function" then
+			pcall(delfile, v1)
+		end
+
+		return
+	end
+
+	self:_ApplyConfigData(v3)
+
+	if str ~= "_last" then
+		self._config_name = str
+		self:_RefreshConfigList()
+		self:Notification("Loaded: " .. str, 4)
+	end
+end
+
+function uiLibrary:DeleteConfig(arg2)
+	local str = tostring(arg2 or self._config_name or "default")
+
+	if str == "default" then
+		self:Notification("Cannot delete default config", 4)
+		return
+	end
+
+	if not func9() then
+		return
+	end
+
+	local _config_folder = self._config_folder
+	local v1 = "/" .. str .. ".json"
+	local v2 = _config_folder .. v1
+
+	if type(delfile) == "function" then
+		pcall(delfile, v2)
+	end
+
+	if self._config_name == str then
+		self._config_name = "default"
+	end
+
+	self:_RefreshConfigList()
+	self:Notification("Deleted: " .. str, 4)
+end
+
+function uiLibrary:ListConfigs()
+	if not func9() then
+		return {}
+	end
+
+	func10(self._config_folder)
+	local v1 = func14(self._config_folder)
+	local tbl = {}
+
+	for _, v2 in ipairs(v1 or {}) do
+		local v3 = tostring(v2):gsub("\\", "/"):match("([^/]+)%.json$")
+		if v3 then
+			table.insert(tbl, v3)
+		end
+	end
+
+	return tbl
+end
+
+function uiLibrary:_MarkDirty()
+	if not self._autosave_dirty then
+		self._autosave_timer = 0
+	end
+	self._autosave_dirty = true
+end
+
+function uiLibrary:AutoLoadConfig()
+	self._autoload_requested = true
+end
+
+function uiLibrary:_DoAutoLoad()
+	if not func9() then
+		return
+	end
+
+	local _config_folder = self._config_folder
+	local v1 = _config_folder .. "/_last.json"
+	local v2 = _config_folder .. "/default.json"
+	func10(_config_folder)
+
+	if func11(v1) then
+		local v3 = func13(v1)
+		local v4 = v3 and func16(v3)
+
+		if v4 then
+			self:_ApplyConfigData(v4)
+			self:Notification(
+				"Config restored: "
+					.. (v4.__savedas and v4.__savedas ~= "" and '"' .. tostring(v4.__savedas) .. '"'
+						or "last session"),
+				4
+			)
+			self._config_name = v4.__savedas or "default"
+			return
+		end
+
+		self:Notification("Config corrupted, using defaults", 4)
+
+		if type(delfile) == "function" then
+			pcall(delfile, v1)
+		end
+	end
+
+	if func11(v2) then
+		local v5 = func13(v2)
+		local v6 = v5 and func16(v5)
+
+		if v6 then
+			self:_ApplyConfigData(v6)
+		end
+
+		return
+	end
+
+	local v7 = self:_BuildConfigData()
+	local v8 = func15(v7)
+
+	if v8 then
+		func12(v2, v8)
+	end
+end
+
+function uiLibrary:_GetSec(arg2)
+	self._sec_scroll = self._sec_scroll or {}
+
+	if not self._sec_scroll[arg2] then
+		self._sec_scroll[arg2] = {offset = 0, target = 0, maxScroll = 0}
+	end
+
+	return self._sec_scroll[arg2]
+end
+
+function uiLibrary._TickScroll(arg1, arg2, arg3)
+	local v1 = arg1:_GetSec(arg2)
+	v1.offset = func1(v1.offset, v1.target, (func7(0.12, arg3)))
+
+	if math.abs(v1.offset - v1.target) < 0.5 then
+		v1.offset = v1.target
+	end
+
+	return v1.offset
+end
+
+function uiLibrary._ScrollSection(arg1, arg2, arg3)
+	local v1 = arg1:_GetSec(arg2)
+	local target = v1.target
+	local maxScroll = v1.maxScroll
+	v1.target = func2(target + arg3, 0, maxScroll)
+end
+
+function uiLibrary:_KeyIDToName(arg2)
+	for k, v1 in pairs(self._inputs or {}) do
+		if v1.id == arg2 then
+			return k
+		end
+	end
+	return nil
+end
+
+function uiLibrary:_IsKeyPressed(arg2)
+	return self._inputs and self._inputs[arg2] and self._inputs[arg2].click
+end
+
+function uiLibrary:_IsKeyHeld(arg2)
+	return self._inputs and self._inputs[arg2] and self._inputs[arg2].held
+end
+
+function uiLibrary:_GetScreenSize()
+	local v1 = os.clock()
+
+	if not self._cached_ss or v1 - (self._cached_ss_at or 0) > 1 then
+		local vector2 = Vector2.new(1920, 1080)
+		local CurrentCamera = workspace.CurrentCamera
+
+		if CurrentCamera and CurrentCamera.ViewportSize then
+			vector2 = CurrentCamera.ViewportSize
+		end
+
+		self._cached_ss = vector2
+		self._cached_ss_at = v1
+	end
+
+	return self._cached_ss
+end
+
+function uiLibrary:_GetMousePos()
+	return self._cached_mouse or Vector2.new()
+end
+
+function uiLibrary:_PollMousePos()
+	local LocalPlayer = Players.LocalPlayer
+
+	if LocalPlayer then
+		local Mouse = LocalPlayer:GetMouse()
+		if Mouse then
+			local _cached_mouse = self._cached_mouse
+			local Y = Mouse.Y
+			local X = Mouse.X
+
+			if not _cached_mouse or _cached_mouse.x ~= X or _cached_mouse.y ~= Y then
+				self._cached_mouse = Vector2.new(X, Y)
+			end
+
+			return
+		end
+	end
+
+	if not self._cached_mouse then
+		self._cached_mouse = Vector2.new()
+	end
+end
+
+function uiLibrary:_IsMouseWithinBounds(arg2, arg3)
+	local v1 = self:_GetMousePos()
+	return v1.x >= arg2.x and v1.x <= arg2.x + arg3.x and v1.y >= arg2.y and v1.y <= arg2.y + arg3.y
+end
+
+function uiLibrary:_ApplyTheme(_theme_name)
+	self._theme_name = _theme_name
+	self._theming = self._themes[_theme_name] or self._themes.Light
+end
+
+function uiLibrary:_GetTextBounds(arg2, arg3, arg4)
+	if not arg2 or arg2 == "" then
+		return Vector2.new(0, arg4 or self._font_size)
+	end
+
+	local v1 = arg4 or self._font_size
+
+	if (arg3 or self._font_face) == Drawing.Fonts.UI then
+		return Vector2.new(#arg2 * v1 * 0.53846, v1)
+	end
+
+	local v2 = #arg2
+	return Vector2.new(v2 * v1 * 0.58, v1)
+end
+
+function uiLibrary:_Draw(arg2, color, zIndex, arg5, ...)
+	local v1 =
+		arg2 == "rect" and "Square"
+			or (arg2 == "text" and "Text"
+				or (arg2 == "circle" and "Circle" or (arg2 == "triangle" and "Triangle" or "Line")))
+
+	if arg2 == "gradient" then
+		local v2, v3, v4 = ...
+		local tbl = {select(4, ...)}
+		local v5 = #tbl - 1
+
+		for i = 1, v5 do
+			local v6 = tbl[i]
+			local v7 = tbl[i + 1]
+			local v8 = math.max(1, v4.x) / v5
+			local v9 = math.max(1, v4.y) / v5
+
+			for i1 = 1, 10 do
+				local v10 = (i1 - 1) / 9
+				local color3 = Color3.new(
+					func1(v6.R, v7.R, v10),
+					func1(v6.G, v7.G, v10),
+					(func1(v6.B, v7.B, v10))
+				)
+				local v11 = func1(v6.A or 1, v7.A or 1, v10) * arg5
+				local vector2Ref
+				local vector21
+
+				if v2 == "horizontal" then
+					local vector2 = Vector2.new(v8 / 10, v4.y)
+					vector2Ref = vector2
+					vector21 = Vector2.new(v3.x + (i - 1) * v8 + (i1 - 1) * vector2.x, v3.y)
+				elseif v2 == "vertical" then
+					local vector22 = Vector2.new(v4.x, v9 / 10)
+					vector2Ref = vector22
+					vector21 = Vector2.new(v3.x, v3.y + (i - 1) * v9 + (i1 - 1) * vector22.y)
+				end
+
+				self:_Draw("rect", color3, zIndex, v11, vector21, vector2Ref, true)
+			end
+		end
+
+		return
+	end
+
+	self._pIdx[v1] = self._pIdx[v1] + 1
+	local v12 = self._pIdx[v1]
+	local v13 = self._pool[v1][v12]
+	local v14 = self._pool_state[v1][v12]
+
+	if not v13 then
+		local drawing = Drawing.new(v1)
+		v13 = drawing
+		drawing.Visible = false
+		self._pool[v1][v12] = drawing
+		local tbl1 = {Visible = false}
+		v14 = tbl1
+		self._pool_state[v1][v12] = tbl1
+	end
+
+	if v14.ZIndex ~= zIndex then
+		v13.ZIndex = zIndex
+		v14.ZIndex = zIndex
+	end
+
+	if color ~= nil and v14.Color ~= color then
+		v13.Color = color
+		v14.Color = color
+	end
+
+	local v15 = func2(arg5, 0, 1)
+
+	if v14.Transparency ~= v15 then
+		v13.Transparency = v15
+		v14.Transparency = v15
+	end
+
+	if v14.Visible ~= true then
+		v13.Visible = true
+		v14.Visible = true
+	end
+
+	if arg2 == "rect" then
+		local v16, v17, v18, v19 = ...
+
+		if v14.Position ~= v16 then
+			v13.Position = v16
+			v14.Position = v16
+		end
+
+		if v14.Size ~= v17 then
+			v13.Size = v17
+			v14.Size = v17
+		end
+
+		if v14.Filled ~= v18 then
+			v13.Filled = v18
+			v14.Filled = v18
+		end
+
+		if v19 and v19 > 0 then
+			if v14.Corner ~= v19 then
+				v13.Corner = v19
+				v14.Corner = v19
+			end
+		elseif v14.Corner ~= 0 then
+			v13.Corner = 0
+			v14.Corner = 0
+		end
+	elseif arg2 == "text" then
+		local v20, v21, v22, v23, v24, v25 = ...
+		local v26 = v23 == "center"
+
+		if v14.Center ~= v26 then
+			v13.Center = v26
+			v14.Center = v26
+		end
+
+		if v14.Position ~= v20 then
+			v13.Position = v20
+			v14.Position = v20
+		end
+
+		if v14.Text ~= v21 then
+			v13.Text = v21
+			v14.Text = v21
+		end
+
+		if v14.Outline ~= v22 then
+			v13.Outline = v22
+			v14.Outline = v22
+		end
+
+		local v27 = v25 or self._font_face
+
+		if v14.Font ~= v27 then
+			v13.Font = v27
+			v14.Font = v27
+		end
+
+		local v28 = v24 or self._font_size
+
+		if v14.Size ~= v28 then
+			v13.Size = v28
+			v14.Size = v28
+		end
+	elseif arg2 == "triangle" then
+		local v29, v30, v31, v32 = ...
+
+		if v14.Filled ~= v29 then
+			v13.Filled = v29
+			v14.Filled = v29
+		end
+
+		if v14.PointA ~= v30 then
+			v13.PointA = v30
+			v14.PointA = v30
+		end
+
+		if v14.PointB ~= v31 then
+			v13.PointB = v31
+			v14.PointB = v31
+		end
+
+		if v14.PointC ~= v32 then
+			v13.PointC = v32
+			v14.PointC = v32
+		end
+	elseif arg2 == "circle" then
+		local v33, v34, v35 = ...
+
+		if v14.Position ~= v33 then
+			v13.Position = v33
+			v14.Position = v33
+		end
+
+		if v14.Radius ~= v34 then
+			v13.Radius = v34
+			v14.Radius = v34
+		end
+
+		if v14.Filled ~= v35 then
+			v13.Filled = v35
+			v14.Filled = v35
+		end
+	elseif arg2 == "line" then
+		local v36, v37, v38 = ...
+
+		if v14.From ~= v36 then
+			v13.From = v36
+			v14.From = v36
+		end
+
+		if v14.To ~= v37 then
+			v13.To = v37
+			v14.To = v37
+		end
+
+		local v39 = v38 or 1
+
+		if v14.Thickness ~= v39 then
+			v13.Thickness = v39
+			v14.Thickness = v39
+		end
+	end
+end
+
+function uiLibrary:_FullWipe()
+	for _, v1 in pairs(self._pool or {}) do
+		for _, v2 in ipairs(v1) do
+			v2.Visible = false
+			pcall(function()
+				v2:Remove()
+			end)
+		end
+	end
+
+	self._pool = {Square = {}, Text = {}, Triangle = {}, Circle = {}, Line = {}}
+	self._pool_state = {Square = {}, Text = {}, Triangle = {}, Circle = {}, Line = {}}
+end
+
+function uiLibrary:_SpawnColorpicker(arg2, arg3, arg4, arg5)
+	local v1, v2, v3 = func8(arg4.R, arg4.G, arg4.B)
+	self._active_colorpicker = {
+		position = arg2 or Vector2.new(self.x + self.w + self._padding, self.y),
+		label = arg3,
+		callback = arg5,
+		_h = v1,
+		_s = v2,
+		_v = v3,
+		_anim = 0,
+		_closing = false
+	}
+end
+
+function uiLibrary:_RemoveColorpicker()
+	if self._active_colorpicker then
+		self._active_colorpicker._closing = true
+	end
+end
+
+function uiLibrary:_SpawnDropdown(arg2, arg3, arg4, arg5, arg6, arg7)
+	self._active_dropdown = {
+		position = arg2,
+		width = arg3,
+		value = arg4,
+		choices = arg5,
+		multi = arg6,
+		callback = arg7,
+		_spawned_at = os.clock(),
+		_anim = 0
+	}
+
+	self._dropdown_scroll_target = 0
+	self._dropdown_scroll_v = 0
+end
+
+function uiLibrary:_RemoveDropdown()
+	self._active_dropdown = nil
+end
+
+function uiLibrary:_SpawnCtxMenu(arg2, arg3, arg4, arg5)
+	self._ctx_menu = {
+		x = arg2,
+		y = arg3,
+		siid = arg4,
+		sItem = arg5,
+		_anim = 0,
+		items = {{label = "Copy", action = "copy"}, {label = "Clear", action = "clear"}}
+	}
+end
+
+function uiLibrary:_RemoveCtxMenu()
+	self._ctx_menu = nil
+end
+
+function uiLibrary:_Toggle(arg2, arg3, arg4, arg5, arg6, arg7, arg8)
+	local v1 = arg4
+
+	if type(arg4) == "table" then
+		v1 = arg4.Label or arg4.label
+		arg5 = arg4.Value or arg4.value
+		arg6 = arg4.Callback or arg4.callback
+		arg7 = arg4.IsNew or arg4.isNew
+		arg8 = arg4.Tooltip or arg4.tooltip
+	end
+
+	self._tree = self._tree or {}
+	self._tree[arg2] = self._tree[arg2] or {_items = {}, _searchQuery = ""}
+	self._tree[arg2]._items[arg3] = self._tree[arg2]._items[arg3] or {_items = {}, _count = 0}
+	local v2 = #self._tree[arg2]._items[arg3]._items + 1
+	local v3 = arg2 .. "_" .. arg3 .. "_" .. v2
+
+	local tbl = {
+		type_ = "toggle",
+		_rawcb = arg6,
+		label = v1,
+		value = arg5,
+		callback = function(arg1)
+			self:_MarkDirty()
+			if arg6 then
+				arg6(arg1)
+			end
+		end,
+		isNew = arg7 or false,
+		tooltip = arg8,
+		_id = v3,
+		_anim_key = "s_anim_" .. v3,
+	}
+
+	table.insert(self._tree[arg2]._items[arg3]._items, tbl)
+	local str = tostring(v2)
+	self._toggle_anim[arg2 .. arg3 .. str] = arg5 and 1 or 0
+	self:_RegisterConfigRef(arg2, arg3, tbl)
+	return
+		{
+			Set = function(_, value)
+				self._tree[arg2]._items[arg3]._items[v2].value = value
+				if self._tree[arg2]._items[arg3]._items[v2].callback then
+					self._tree[arg2]._items[arg3]._items[v2].callback(value)
+				end
+			end,
+			AddKeybind = function(_, arg21, arg31)
+				self._tree[arg2]._items[arg3]._items[v2].keybind = {
+					value = arg21,
+					callback = arg31,
+					_listening = false,
+					_listening_start = 0
+				}
+				return
+					{
+						Set = function(_, value)
+							self._tree[arg2]._items[arg3]._items[v2].keybind.value = value
+							if self._tree[arg2]._items[arg3]._items[v2].keybind.callback then
+								self._tree[arg2]._items[arg3]._items[v2].keybind.callback(value)
+							end
+						end,
+					}
+			end,
+			AddColorpicker = function(_, arg21, arg31, arg4, arg5)
+				self._tree[arg2]._items[arg3]._items[v2].colorpicker = {
+					label = arg21,
+					value = arg31 or self._theming.accent,
+					overwrite = arg4,
+					callback = arg5
+				}
+				return
+					{
+						Set = function(_, value)
+							self._tree[arg2]._items[arg3]._items[v2].colorpicker.value = value
+							if self._tree[arg2]._items[arg3]._items[v2].colorpicker.callback then
+								self._tree[arg2]._items[arg3]._items[v2].colorpicker.callback(value)
+							end
+						end,
+					}
+			end,
+		}
+end
+
+function uiLibrary:_Slider(arg2, arg3, arg4, arg5, arg6, arg7, arg8, arg9, arg10, arg11)
+	local v1 = arg4
+	local v2 = arg10
+
+	if type(arg4) == "table" then
+		v1 = arg4.Label or arg4.label
+		arg5 = arg4.Value or arg4.value
+		arg6 = arg4.Step or arg4.step
+		arg7 = arg4.Min or arg4.min
+		arg8 = arg4.Max or arg4.max
+		arg9 = arg4.Suffix or arg4.suffix
+		v2 = arg4.IsNew or arg4.isNew
+		arg11 = arg4.Callback or arg4.callback
+	elseif type(arg10) == "function" then
+		arg11 = arg10
+		v2 = false
+	end
+
+	self._tree = self._tree or {}
+	self._tree[arg2] = self._tree[arg2] or {_items = {}, _searchQuery = ""}
+	self._tree[arg2]._items[arg3] = self._tree[arg2]._items[arg3] or {_items = {}, _count = 0}
+	local v3 = #self._tree[arg2]._items[arg3]._items + 1
+	local v4 = arg2 .. "_" .. arg3 .. "_" .. v3
+
+	local tbl = {
+		type_ = "slider",
+		_rawcb = arg11,
+		label = v1,
+		value = arg5,
+		default = arg5,
+		step = arg6,
+		min = arg7,
+		max = arg8,
+		suffix = arg9 or "",
+		isNew = v2 or false,
+		callback = function(arg1)
+			self:_MarkDirty()
+			if arg11 then
+				arg11(arg1)
+			end
+		end,
+		_id = v4,
+		_anim_key = "s_anim_" .. v4,
+	}
+
+	table.insert(self._tree[arg2]._items[arg3]._items, tbl)
+	self:_RegisterConfigRef(arg2, arg3, tbl)
+	return
+		{
+			Set = function(_, value)
+				self._tree[arg2]._items[arg3]._items[v3].value = value
+				if self._tree[arg2]._items[arg3]._items[v3].callback then
+					self._tree[arg2]._items[arg3]._items[v3].callback(value)
+				end
+			end,
+		}
+end
+
+function uiLibrary:_Dropdown(arg2, arg3, arg4, arg5, arg6, arg7, arg8, arg9)
+	local v1 = arg4
+	local v2 = arg8
+
+	if type(arg4) == "table" then
+		v1 = arg4.Label or arg4.label
+		arg5 = arg4.Value or arg4.value
+		arg6 = arg4.Choices or arg4.choices
+		arg7 = arg4.Multi or arg4.multi
+		v2 = arg4.IsNew or arg4.isNew
+		arg9 = arg4.Callback or arg4.callback
+	elseif type(arg8) == "function" then
+		arg9 = arg8
+		v2 = false
+	end
+
+	self._tree = self._tree or {}
+	self._tree[arg2] = self._tree[arg2] or {_items = {}, _searchQuery = ""}
+	self._tree[arg2]._items[arg3] = self._tree[arg2]._items[arg3] or {_items = {}, _count = 0}
+	local v3 = #self._tree[arg2]._items[arg3]._items + 1
+	local v4 = arg2 .. "_" .. arg3 .. "_" .. v3
+
+	local tbl = {
+		type_ = "dropdown",
+		_rawcb = arg9,
+		label = v1,
+		value = arg5,
+		choices = arg6,
+		multi = arg7,
+		isNew = v2 or false,
+		callback = function(arg1)
+			self:_MarkDirty()
+			if arg9 then
+				arg9(arg1)
+			end
+		end,
+		_id = v4,
+		_anim_key = "s_anim_" .. v4,
+	}
+
+	table.insert(self._tree[arg2]._items[arg3]._items, tbl)
+	self:_RegisterConfigRef(arg2, arg3, tbl)
+	return
+		{
+			Set = function(_, value)
+				self._tree[arg2]._items[arg3]._items[v3].value = value
+				if self._tree[arg2]._items[arg3]._items[v3].callback then
+					self._tree[arg2]._items[arg3]._items[v3].callback(value)
+				end
+			end,
+			UpdateChoices = function(_, choices)
+				self._tree[arg2]._items[arg3]._items[v3].choices = choices
+			end,
+		}
+end
+
+function uiLibrary:_Button(arg2, arg3, arg4, arg5, arg6)
+	local v1 = arg4
+	local v2 = arg5
+
+	if type(arg4) == "table" then
+		v1 = arg4.Label or arg4.label
+		v2 = arg4.IsNew or arg4.isNew
+		arg6 = arg4.Callback or arg4.callback
+	elseif type(arg5) == "function" then
+		v2 = false
+		arg6 = arg5
+	end
+
+	self._tree = self._tree or {}
+	self._tree[arg2] = self._tree[arg2] or {_items = {}, _searchQuery = ""}
+	self._tree[arg2]._items[arg3] = self._tree[arg2]._items[arg3] or {_items = {}, _count = 0}
+	local v3 = #self._tree[arg2]._items[arg3]._items + 1
+	local v4 = arg2 .. "_" .. arg3 .. "_" .. v3
+
+	local tbl = {
+		type_ = "button",
+		label = v1,
+		isNew = v2 or false,
+		callback = arg6,
+		_id = v4,
+		_anim_key = "s_anim_" .. v4
+	}
+
+	table.insert(self._tree[arg2]._items[arg3]._items, tbl)
+	return
+		{
+			AddColorpicker = function(_, arg21, arg31, arg4, arg5)
+				self._tree[arg2]._items[arg3]._items[v3].colorpicker = {
+					label = arg21,
+					value = arg31 or self._theming.accent,
+					overwrite = arg4,
+					callback = arg5
+				}
+				return
+					{
+						Set = function(_, value)
+							self._tree[arg2]._items[arg3]._items[v3].colorpicker.value = value
+							if self._tree[arg2]._items[arg3]._items[v3].colorpicker.callback then
+								self._tree[arg2]._items[arg3]._items[v3].colorpicker.callback(value)
+							end
+						end,
+					}
+			end,
+		}
+end
+
+function uiLibrary:_Textbox(arg2, arg3, arg4, arg5, arg6)
+	local v1 = arg4
+
+	if type(arg4) == "table" then
+		v1 = arg4.Label or arg4.label
+		arg5 = arg4.Value or arg4.value
+		arg6 = arg4.Callback or arg4.callback
+	end
+
+	self._tree = self._tree or {}
+	self._tree[arg2] = self._tree[arg2] or {_items = {}, _searchQuery = ""}
+	self._tree[arg2]._items[arg3] = self._tree[arg2]._items[arg3] or {_items = {}, _count = 0}
+	local v2 = #self._tree[arg2]._items[arg3]._items + 1
+	local v3 = arg2 .. "_" .. arg3 .. "_" .. v2
+
+	local tbl = {
+		type_ = "textbox",
+		_rawcb = arg6,
+		label = v1,
+		value = arg5,
+		callback = function(arg1)
+			self:_MarkDirty()
+			if arg6 then
+				arg6(arg1)
+			end
+		end,
+		_id = v3,
+		_anim_key = "s_anim_" .. v3,
+	}
+
+	table.insert(self._tree[arg2]._items[arg3]._items, tbl)
+	self:_RegisterConfigRef(arg2, arg3, tbl)
+	return
+		{
+			Set = function(_, value)
+				self._tree[arg2]._items[arg3]._items[v2].value = value
+				if self._tree[arg2]._items[arg3]._items[v2].callback then
+					self._tree[arg2]._items[arg3]._items[v2].callback(value)
+				end
+			end,
+		}
+end
+
+function uiLibrary:_Section(arg2, arg3)
+	self._tree = self._tree or {}
+	self._tree[arg2] = self._tree[arg2] or {_items = {}, _searchQuery = ""}
+	self._tree[arg2]._items[arg3] = {_items = {}, _count = 0}
+	self._tree[arg2]._secCount = (self._tree[arg2]._secCount or 0) + 1
+
+	if not self._tree[arg2]._sec_order then
+		self._tree[arg2]._sec_order = {}
+	end
+
+	table.insert(self._tree[arg2]._sec_order, arg3)
+	return
+		{
+			Toggle = function(_, ...)
+				return self:_Toggle(arg2, arg3, ...)
+			end,
+			Slider = function(_, ...)
+				return self:_Slider(arg2, arg3, ...)
+			end,
+			Dropdown = function(_, ...)
+				return self:_Dropdown(arg2, arg3, ...)
+			end,
+			Button = function(_, ...)
+				return self:_Button(arg2, arg3, ...)
+			end,
+			Textbox = function(_, ...)
+				return self:_Textbox(arg2, arg3, ...)
+			end,
+		}
+end
+
+function uiLibrary:GetMenuSize()
+	return Vector2.new(self.w, self.h)
+end
+
+function uiLibrary:SetWatermarkEnabled(_watermark_enabled)
+	self._watermark_enabled = _watermark_enabled
+end
+
+function uiLibrary:SetKeybindList(enabled)
+	self._keybind_list_enabled = enabled and true or false
+end
+
+function uiLibrary.SetMenuTitle(arg1, arg2)
+	local str = tostring(arg2)
+
+	if #str > 32 then
+		str = str:sub(1, 32)
+	end
+
+	arg1.title = str
+	arg1._custom_title = str
+end
+
+function uiLibrary:SetMenuPosition(arg2)
+	self.x = arg2.x or self.x
+	self.y = arg2.y or self.y
+end
+
+function uiLibrary.SetMenuSize(arg1, arg2)
+	arg1.w = arg2.x or arg1.w
+	arg1.h = arg2.y or arg1.h
+end
+
+function uiLibrary.SetMenuKey(arg1, arg2)
+	local v1 = tostring(arg2):lower()
+	if arg1._inputs[v1] then
+		arg1._menu_key = v1
+		arg1:Notification("Menu key set to " .. v1:upper(), 3)
+	else
+		arg1:Notification("Invalid key: " .. v1, 3)
+	end
+end
+
+function uiLibrary.CenterMenu(arg1)
+	local v1 = arg1:_GetScreenSize()
+	local MenuSize = arg1:GetMenuSize()
+	arg1:SetMenuPosition(Vector2.new(v1.x / 2 - MenuSize.x / 2, v1.y / 2 - MenuSize.y / 2))
+end
+
+function uiLibrary:Notification(arg2, time)
+	local str = tostring(arg2)
+	self._notifications = self._notifications or {}
+
+	for _, _notification in ipairs(self._notifications) do
+		if _notification.text == str then
+			if os.clock() - _notification._spawned_at < 1 then
+				return
+			end
+
+			_notification._spawned_at = os.clock()
+			_notification.time = time
+			return
+		end
+	end
+
+	if #self._notifications >= 6 then
+		table.remove(self._notifications, 1)
+	end
+
+	table.insert(
+		self._notifications,
+		{text = str, time = time or 3, _id = self._notifications_spawned, _spawned_at = os.clock()}
+	)
+	self._notifications_spawned = self._notifications_spawned + 1
+end
+
+function uiLibrary:Tab(_open_tab)
+	self._tree = self._tree or {}
+	self._tree[_open_tab] = {_items = {}, _searchQuery = ""}
+	self._tab_order = self._tab_order or {}
+	table.insert(self._tab_order, _open_tab)
+
+	if not self._open_tab then
+		self._open_tab = _open_tab
+		self._tab_fade = 1
+	end
+
+	if not self._autoload_requested and not self._boot_loaded then
+		self:AutoLoadConfig()
+	end
+
+	return
+		{
+			Section = function(_, arg2)
+				return self:_Section(_open_tab, arg2)
+			end,
+		}
+end
+
+function uiLibrary.RegisterActivity(arg1, arg2)
+	arg1._activities = arg1._activities or {}
+	local v1 = #arg1._activities + 1
+	arg1._activities[v1] = arg2
+	return
+		{
+			Remove = function(_)
+				arg1._activities[v1] = nil
+			end,
+		}
+end
+
+function uiLibrary:Unload()
+	self._unloading_sequence = true
+	self._unload_phase = "sections"
+	self._unload_section_alpha = 1
+end
+
+function uiLibrary.CreateSettingsTab(arg1, arg2)
+	local v1 = arg1:Tab(arg2 or "Settings")
+	local v2 = arg2 or "Settings"
+	arg1._tab_order = arg1._tab_order or {}
+
+	for i, v3 in ipairs(arg1._tab_order) do
+		if v3 == v2 then
+			table.remove(arg1._tab_order, i)
+			break
+		end
+	end
+
+	table.insert(arg1._tab_order, v2)
+	local v4 = v1:Section("Menu")
+	v4:Toggle(
+		"Menu Key",
+		arg1._overwrite_menu_key,
+		function(_overwrite_menu_key)
+			arg1._overwrite_menu_key = _overwrite_menu_key
+		end
+	)
+		:AddKeybind(
+			arg1._menu_key,
+			function(arg2)
+				arg1._menu_key = arg1:_KeyIDToName(arg2)
+			end
+		)
+	v4:Toggle(
+		"Watermark",
+		true,
+		function(arg2)
+			arg1:SetWatermarkEnabled(arg2)
+		end
+	)
+	v4:Toggle("Keybind list", false, function(enabled)
+		arg1:SetKeybindList(enabled)
+	end)
+	v4:Toggle(
+		"Custom watermark",
+		arg1._custom_title_enabled,
+		function(_custom_title_enabled)
+			arg1._custom_title_enabled = _custom_title_enabled
+		end
+	)
+	v4:Textbox(
+		"Watermark text",
+		arg1.title,
+		function(arg2)
+			local str = tostring(arg2)
+
+			if #str > 32 then
+				str = str:sub(1, 32)
+			end
+
+			arg1._custom_title = str
+		end
+	)
+	v4:Button(
+		"Unload Script",
+		false,
+		function()
+			arg1:Unload()
+		end
+	)
+	local v5 = v1:Section("Config & Theme")
+	local tbl = {}
+
+	for k in pairs(arg1._themes or {}) do
+		table.insert(tbl, k)
+	end
+
+	table.sort(tbl)
+	v5:Dropdown(
+		"Theme",
+		{arg1._theme_name},
+		tbl,
+		false,
+		false,
+		function(arg2)
+			if arg2 and arg2[1] then
+				arg1:_ApplyTheme(arg2[1])
+			end
+		end
+	)
+	v5:Textbox(
+		"New config name",
+		"",
+		function(_config_name)
+			if _config_name and _config_name ~= "" then
+				arg1._config_name = _config_name
+			end
+		end
+	)
+	arg1:_RefreshConfigList()
+	local _config_list = arg1._config_list
+
+	if #_config_list == 0 then
+		_config_list = {"default"}
+	end
+
+	local v6 = v5:Dropdown(
+		"Saved configs",
+		{arg1._config_name},
+		_config_list,
+		false,
+		false,
+		function(arg2)
+			if arg2 and arg2[1] then
+				arg1._config_name = arg2[1]
+			end
+		end
+	)
+	v5:Button(
+		"Save config",
+		false,
+		function()
+			arg1:SaveConfig(arg1._config_name)
+			local v1 = arg1:_RefreshConfigList()
+
+			if #v1 == 0 then
+				v1 = {"default"}
+			end
+
+			v6:UpdateChoices(v1)
+		end
+	)
+	v5:Button(
+		"Load config",
+		false,
+		function()
+			arg1:LoadConfig(arg1._config_name)
+		end
+	)
+	v5:Button(
+		"Delete config",
+		false,
+		function()
+			arg1:DeleteConfig(arg1._config_name)
+			local v1 = arg1:_RefreshConfigList()
+
+			if #v1 == 0 then
+				v1 = {"default"}
+			end
+
+			v6:UpdateChoices(v1)
+			arg1._config_name = v1[1] or "default"
+		end
+	)
+	return v1, v4, v5
+end
+
+local function func19(arg1, arg2)
+	local type_ = arg2.type_
+
+	if type_ == "toggle" then
+		local _font_size = arg1._font_size
+		local _padding = arg1._padding
+		return _font_size + 2 + _padding
+	end
+
+	if type_ == "slider" then
+		local v1 = func6(arg1, arg2.label).y + 6
+		local _padding1 = arg1._padding
+		return v1 + 18 + _padding1 * 3
+	end
+
+	if type_ == "dropdown" then
+		return func6(arg1, arg2.label).y * 2 + arg1._padding * 4
+	end
+
+	if type_ == "button" then
+		return func6(arg1, arg2.label).y + arg1._padding * 3
+	end
+
+	if type_ == "textbox" then
+		return arg1._font_size + arg1._padding * 2
+	end
+
+	return 0
+end
+
+local function func20(arg1, arg2)
+	local _search_lower = arg1._search_lower
+
+	if not _search_lower or _search_lower == "" then
+		return true
+	end
+
+	if not arg2._lower_label then
+		arg2._lower_label = arg2.label:lower()
+	end
+
+	return arg2._lower_label:find(_search_lower, 1, true) ~= nil
+end
+
+function uiLibrary.Step(arg1)
+	local tbl = {}
+
+	if arg1._unloaded then
+		return
+	end
+
+	arg1._pIdx = {Square = 0, Text = 0, Triangle = 0, Circle = 0, Line = 0}
+	arg1._tree = arg1._tree or {}
+	arg1._tab_order = arg1._tab_order or {}
+	arg1._sec_scroll = arg1._sec_scroll or {}
+	arg1._sec_slide = arg1._sec_slide or {}
+	arg1._inputs = arg1._inputs or {}
+	arg1._item_vis = arg1._item_vis or {}
+	arg1._tab_scroll = arg1._tab_scroll or {}
+	arg1._frame_tooltip = nil
+	tbl[1] = arg1._theming
+	tbl[2] = arg1._corner
+	tbl[3] = arg1._padding
+	tbl[4] = arg1._KB_W
+	tbl[5] = os.clock()
+	tbl[6] = math.min(tbl[5] - arg1._last_step_time, 0.05)
+
+	if arg1._last_step_time == 0 then
+		tbl[6] = 0.016
+	end
+
+	arg1._last_step_time = tbl[5]
+	tbl[7] = arg1._tab_changing
+	tbl[8] = function(arg1)
+		return (func7(arg1, tbl[6]))
+	end
+
+	if tbl[7] then
+		arg1._tab_fade = func1(arg1._tab_fade, 0, (tbl[8](0.45)))
+		if arg1._tab_fade < 0.02 then
+			arg1._open_tab = arg1._next_tab
+			arg1._tab_changing = false
+			arg1._tab_fade = 0
+			arg1._sec_slide = {}
+			arg1._item_vis = {}
+		end
+	else
+		arg1._tab_fade = func1(arg1._tab_fade, 1, (tbl[8](0.18)))
+	end
+
+	tbl[9] = func4(arg1._tab_fade)
+	arg1:_PollMousePos()
+
+	if arg1._autoload_requested and not arg1._boot_loaded then
+		arg1._boot_loaded = true
+		arg1._autoload_requested = false
+		task.spawn(function()
+			arg1:_DoAutoLoad()
+		end)
+	end
+
+	arg1:_AutoSaveTick(tbl[6])
+	tbl[10] = game:GetService("UserInputService")
+	tbl[11] = false
+	pcall(function()
+		tbl[11] = tbl[10]:GetFocusedTextBox() ~= nil
+	end)
+	local flag = true
+
+	if type(isrbxactive) == "function" then
+		pcall(function()
+			flag = isrbxactive()
+		end)
+	end
+
+	if not arg1._kcCache then
+		arg1._kcCache = {}
+		for k in pairs(arg1._inputs) do
+			if k == "m1" then
+				arg1._kcCache[k] = Enum.UserInputType.MouseButton1
+			elseif k == "m2" then
+				arg1._kcCache[k] = Enum.UserInputType.MouseButton2
+			elseif k == "mb" then
+				arg1._kcCache[k] = Enum.UserInputType.MouseButton3
+			else
+				pcall(function()
+					arg1._kcCache[k] = Enum.KeyCode[k:upper()]
+				end)
+			end
+		end
+	end
+
+	for k1, _input in pairs(arg1._inputs) do
+		local flag1 = false
+
+		if type(iskeypressed) == "function" then
+			pcall(function()
+				flag1 = iskeypressed(_input.id)
+			end)
+		else
+			local v2 = arg1._kcCache[k1]
+			if v2 then
+				if k1 == "m1" or k1 == "m2" or k1 == "mb" then
+					flag1 = tbl[10]:IsMouseButtonPressed(v2) == true
+				else
+					flag1 = tbl[10]:IsKeyDown(v2) == true
+				end
+			end
+		end
+
+		if not tbl[11] and flag and flag1 then
+			arg1._inputs[k1].click = not _input.held and not _input.click
+			arg1._inputs[k1].held = true
+		else
+			arg1._inputs[k1].click = false
+			arg1._inputs[k1].held = false
+		end
+	end
+
+	local v3 = arg1:_IsKeyPressed("m1")
+	local v4 = arg1:_IsKeyHeld("m1")
+	local v5 = arg1:_IsKeyPressed("m2")
+	local v6 = tostring(arg1._overwrite_menu_key and arg1._menu_key or "f5"):lower()
+	local v7 = arg1:_IsKeyPressed(v6)
+	local flag2 = false
+	local flag3 = false
+
+	for k2, _input1 in pairs(arg1._inputs) do
+		if not tbl4[k2] and not tbl1[k2] and not tbl2[k2] and not tbl3[k2] and _input1.click then
+			flag3 = true
+			break
+		end
+	end
+
+	local v8 = v3 and not flag3
+
+	if v7 then
+		arg1._menu_open = not arg1._menu_open
+		if not arg1._menu_open then
+			arg1:_RemoveDropdown()
+			arg1:_RemoveColorpicker()
+			arg1:_RemoveCtxMenu()
+			local v9 = v6:upper() .. " to open)"
+			arg1:Notification("Menu Minimized (" .. v9, 3)
+		end
+	end
+
+	if arg1._unloading_sequence then
+		if arg1._unload_phase == "sections" then
+			arg1._unload_section_alpha = func1(arg1._unload_section_alpha or 1, 0, (tbl[8](0.18)))
+			if (arg1._unload_section_alpha or 0) < 0.04 then
+				arg1._unload_section_alpha = 0
+				arg1._unload_phase = "menu"
+				arg1._menu_open = false
+			end
+		end
+	end
+
+	local v10 =
+		arg1._menu_open and not (arg1._unload_phase == "menu" or arg1._unload_phase == "done") and 1
+			or 0
+	local _menu_scale = arg1._menu_scale
+
+	if _menu_scale ~= v10 then
+		local v11 = func1(_menu_scale, v10, (tbl[8](0.12)))
+		_menu_scale = v11
+
+		if math.abs(v11 - v10) < 0.002 then
+			_menu_scale = v10
+		end
+
+		arg1._menu_scale = _menu_scale
+	end
+
+	if arg1._unloading_sequence and arg1._unload_phase == "menu" and _menu_scale < 0.01 then
+		arg1._unloaded = true
+		arg1:_FullWipe()
+		return
+	end
+
+	local x = arg1.x
+	local w = arg1.w
+	local y = arg1.y
+	local v12 = arg1._custom_title_enabled and arg1._custom_title or arg1.title
+	local v13 = arg1:_GetTextBounds(v12).y + tbl[3] * 2 + 4
+	local _search_query = arg1._search_query
+
+	if _search_query ~= arg1._search_query_last then
+		arg1._search_query_last = _search_query
+		arg1._search_lower = _search_query ~= "" and _search_query:lower() or ""
+		local tbl5 = {}
+
+		if _search_query ~= "" then
+			local _search_lower = arg1._search_lower
+			for _, v14 in ipairs(arg1._tab_order) do
+				local v15 = arg1._tree[v14]
+				local num = 0
+
+				if v15 then
+					for _, v16 in ipairs(v15._sec_order or {}) do
+						for _, v17 in ipairs((v15._items[v16] or {_items = {}})._items or {}) do
+							if not v17._lower_label then
+								v17._lower_label = v17.label:lower()
+							end
+							if v17._lower_label:find(_search_lower, 1, true) then
+								num = num + 1
+							end
+						end
+					end
+				end
+
+				tbl5[v14] = num
+			end
+		end
+
+		arg1._search_tab_results = tbl5
+	end
+
+	if not arg1._pill_x then
+		arg1._pill_x = 0
+	end
+
+	if not arg1._pill_target_x then
+		arg1._pill_target_x = 0
+	end
+
+	local h = arg1.h
+	local v18 = arg1._tree[arg1._open_tab]
+	local tbl6 = {}
+	local v19 = tbl[3]
+	local tbl7 = {}
+	local v20 = tbl[3]
+
+	if v18 then
+		for i, v21 in ipairs(v18._sec_order or {}) do
+			local v22 = v18._items[v21] or {_items = {}}
+			local v23 = func6(arg1, v21)
+			local v24 = v23.y / 2
+			local _items = v22._items
+			local num1 = 0
+			local v25 = tbl[3] + v24
+
+			for _, v26 in ipairs(_items or {}) do
+				local v27 = func20(arg1, v26)
+
+				if v27 then
+					num1 = num1 + 1
+				end
+
+				local _anim_key = v26._anim_key
+				local v28 = v27 and 1 or 0
+				local v29 = arg1._toggle_anim[_anim_key]
+
+				if v29 == nil then
+					v29 = v28
+				end
+
+				if v29 ~= v28 then
+					v29 = func1(v29, v28, (tbl[8](0.15)))
+				end
+
+				arg1._toggle_anim[_anim_key] = v29
+
+				if v29 > 0.001 then
+					v25 = v25 + func19(arg1, v26) * v29
+				end
+			end
+
+			local v30 = "sec_anim_" .. arg1._open_tab .. "_" .. v21
+			local v31 = num1 > 0 and 1 or 0
+			arg1._toggle_anim[v30] = func1(arg1._toggle_anim[v30] or v31, v31, (tbl[8](0.15)))
+			local v32 = arg1._toggle_anim[v30]
+
+			if v32 > 0.001 then
+				local v33 = v25 + tbl[3] * v32
+				if i % 2 == 0 then
+					table.insert(tbl7, {name = v21, h = v33, tsz = v23, anim = v32})
+					v20 = v20 + v33 + (v23.y / 2 + tbl[3]) * v32
+				else
+					table.insert(tbl6, {name = v21, h = v33, tsz = v23, anim = v32})
+					v19 = v19 + v33 + (v23.y / 2 + tbl[3]) * v32
+				end
+			end
+		end
+
+		local v34 = math.max(v19, v20)
+		local v35 = v13 + arg1._tab_h + tbl[3] * 3 + v34 + 4
+		local v36 = v13 + arg1._tab_h
+		local v37 = tbl[3] * 4
+		local h1 = arg1.h
+		h = func2(v35, v36 + v37, h1)
+	end
+
+	local v38 = arg1:_GetScreenSize()
+
+	if arg1._active_dropdown then
+		local _active_dropdown = arg1._active_dropdown
+		local v39 = arg1._font_size + 9
+		local v40 = math.min(#(_active_dropdown.choices or {}), 6) * v39
+		local position = _active_dropdown.position
+		local v41 = v40 + tbl[3]
+		local v42 = position.y - y + v41
+		local position1 = _active_dropdown.position
+		local v43 = v42 + 12
+
+		if position1.y + v41 < v38.y - 10 and v43 > h then
+			h = v43
+		end
+	end
+
+	if arg1._active_colorpicker and not arg1._active_colorpicker._closing then
+		local _active_colorpicker = arg1._active_colorpicker
+		local v44 = _active_colorpicker.position.y - y + 215
+		local position2 = _active_colorpicker.position
+		local v45 = v44 + 12
+		local y1 = position2.y
+		local y2 = v38.y
+
+		if y1 + 215 < y2 - 10 and v45 > h then
+			h = v45
+		end
+	end
+
+	local v46 = arg1._current_h or arg1.h
+
+	if v46 ~= h then
+		local v47 = func1(v46, h, (tbl[8](0.22)))
+		v46 = v47
+
+		if math.abs(v47 - h) < 0.5 then
+			v46 = h
+		end
+
+		arg1._current_h = v46
+	end
+
+	local v48 = Vector2.new(w - 2, h - v13 - 2).y - arg1._tab_h - tbl[3] * 2
+	local v49 = math.max(0, math.max(v19, v20) - v48 + tbl[3])
+
+	if arg1._menu_open and v4 and arg1._menu_drag then
+		local v50 = arg1._cached_mouse or Vector2.new()
+		arg1.x = v50.x - arg1._menu_drag.x
+		arg1.y = v50.y - arg1._menu_drag.y
+	elseif not v4 then
+		arg1._menu_drag = nil
+	end
+
+	local v51 = func6(arg1, v12)
+	local x1 = v51.x
+	local v52 = v51.y + 16
+	local v53 = x1 + 44
+	local vector2 = Vector2.new(v38.x - v53 - 16, 16)
+	local v54 =
+		arg1._unloading_sequence and arg1._unload_phase == "menu" and func4(_menu_scale) or 1
+
+	if arg1._watermark_enabled then
+		local shadow = tbl[1].shadow
+		local v55 = 0.2 * v54
+		local vector21 = Vector2.new(2, 3)
+		local v56 = vector2 + vector21
+		local vector22 = Vector2.new(v53, v52)
+		arg1:_Draw("rect", shadow, 98, v55, v56, vector22, true, tbl[2])
+		local surface0 = tbl[1].surface0
+		local vector23 = Vector2.new(v53, v52)
+		arg1:_Draw("rect", surface0, 99, v54, vector2, vector23, true, tbl[2])
+		local border1 = tbl[1].border1
+		local vector24 = Vector2.new(v53, v52)
+		arg1:_Draw("rect", border1, 100, v54, vector2, vector24, false, tbl[2])
+		local accent = tbl[1].accent
+		local v57 = vector2 + Vector2.new(12, v52 / 2)
+		arg1:_Draw("circle", accent, 101, v54, v57, 3.5, true)
+		local text = tbl[1].text
+		local vector25 = Vector2.new(22, (v52 - arg1._font_size) / 2 + 1)
+		arg1:_Draw("text", text, 101, v54, vector2 + vector25, v12, false, nil, 13)
+	end
+
+	local v58 = 16 + v52
+	local _notifications = arg1._notifications
+	local v59 = v58 + 10
+	local v60 = #_notifications
+
+	if not (v60 < 1) then
+		repeat
+			local v61 = arg1._notifications[v60]
+			local v62 = v61._spawned_at + v61.time
+			local v63 = tbl[5] > v62
+			local v64 = math.max(
+				0,
+				math.min(v61._spawned_at - tbl[5] + (v63 and v61.time + 1 or 1), 1)
+			)
+			local v65 = math.abs((v63 and 0 or 1) - v64 * v64 * (3 - 2 * v64))
+			local _GetTextBounds = arg1._GetTextBounds
+			local text1 = v61.text
+			local v66 = v65 * v54
+			local v67 = _GetTextBounds(arg1, text1)
+			local v68 = v67.x + tbl[3] * 2 + 6
+			local v69 = v67.y + tbl[3] * 1.2
+			local v70 = (v68 + 40) * (1 - func4(v66))
+			local vector26 = Vector2.new(v38.x - v68 - 16 + v70, v59)
+			local v71 = math.max(0, math.min(v66, 1))
+			local shadow1 = tbl[1].shadow
+			local v72 = vector26 + Vector2.new(2, 4)
+			local vector27 = Vector2.new(v68, v69)
+			local v73 = tbl[2] + 2
+			arg1._Draw(arg1, "rect", shadow1, 103, 0.15 * v71, v72, vector27, true, v73)
+			local surface01 = tbl[1].surface0
+			local vector28 = Vector2.new(v68, v69)
+			arg1:_Draw("rect", surface01, 104, v71, vector26, vector28, true, tbl[2] + 2)
+			local border11 = tbl[1].border1
+			local vector29 = Vector2.new(v68, v69)
+			local v74 = tbl[2] + 2
+			arg1._Draw(arg1, "rect", border11, 105, v71, vector26, vector29, false, v74)
+			local text2 = tbl[1].text
+			local vector210 = Vector2.new(tbl[3], (v69 - arg1._font_size) / 2 + 1)
+			arg1:_Draw("text", text2, 105, v71, vector26 + vector210, v61.text, false)
+			v59 = v59 + (v69 + 6) * v66
+
+			if tbl[5] > v62 + 1 then
+				table.remove(arg1._notifications, v60)
+			end
+
+			v60 = v60 + -1
+		until v60 < 1
+	end
+
+
+
+	if arg1._keybind_list_enabled then
+		local entries = {}
+		for _, ref in ipairs(arg1._config_refs or {}) do
+			local item = ref.item
+			local bind = item and item.keybind
+			if bind and bind.value and bind.value ~= "" and ref.label ~= "Menu Key" and #entries < 14 then
+				entries[#entries + 1] = item
+			end
+		end
+		local x, y, width = 12, 120, 190
+		arg1:_Draw("rect", tbl[1].surface0, 90, 0.95, Vector2.new(x, y), Vector2.new(width, 28 + #entries * 17), true, 4)
+		arg1:_Draw("text", tbl[1].accent, 91, 1, Vector2.new(x + 8, y + 6), "keybinds", false)
+		for i, item in ipairs(entries) do
+			local label = "[" .. tostring(item.keybind.value):upper() .. "] " .. tostring(item.label or "bind")
+			arg1:_Draw("text", item.value and tbl[1].accent or tbl[1].subtext, 91, 1, Vector2.new(x + 8, y + 10 + i * 17), label, false)
+		end
+	end
+
+	if _menu_scale <= 0.015 then
+		for k3, v75 in pairs(arg1._pool or {}) do
+			for i1 = (arg1._pIdx[k3] or 0) + 1, #v75 do
+				local v76 = v75[i1]
+				local v77 = arg1._pool_state[k3][i1]
+
+				if v77 and v77.Visible ~= false then
+					pcall(function()
+						v76.Visible = false
+					end)
+					v77.Visible = false
+				end
+			end
+		end
+		return
+	end
+
+	local v78 = (1 - func4(_menu_scale)) * 50
+	local v79 = func4(_menu_scale)
+	local flag4 = false
+
+	if arg1._dd_drag or arg1._slider_drag or arg1._tab_scroll_drag then
+		flag4 = true
+	end
+
+	local _active_dropdown1 = arg1._active_dropdown
+
+	if _active_dropdown1 then
+		local v80 = math.min(#(_active_dropdown1.choices or {}), 6) * (arg1._font_size + 9)
+		local _GetScreenSize = arg1._GetScreenSize
+		local position3 = _active_dropdown1.position
+		local v81 = v80 + tbl[3]
+		local v82 = _GetScreenSize(arg1)
+		local y3 = position3.y
+		local y4 = v82.y
+
+		if y3 + v81 > y4 - 10 then
+			local new = Vector2.new
+			local x2 = position3.x
+			local _srcH = _active_dropdown1._srcH
+			position3 = new(x2, position3.y - v81 - (_srcH or 0))
+		end
+
+		local v83 = table.pack(Vector2.new(_active_dropdown1.width, v81))
+
+		if arg1:_IsMouseWithinBounds(position3, table.unpack(v83, 1, v83.n)) then
+			flag4 = true
+		end
+	end
+
+	local _active_colorpicker1 = arg1._active_colorpicker
+
+	if _active_colorpicker1 and not _active_colorpicker1._closing then
+		local position4 = _active_colorpicker1.position
+		local v84 = table.pack(Vector2.new(240, 215))
+
+		if arg1:_IsMouseWithinBounds(position4, table.unpack(v84, 1, v84.n)) then
+			flag4 = true
+		end
+	end
+
+	if arg1._ctx_menu then
+		flag4 = true
+	end
+
+	local shadow2 = tbl[1].shadow
+	local v85 = 0.12 * v79
+	local new1 = Vector2.new
+	local v86 = y + v78
+	local v87 = new1(x - 1, v86 + 3)
+	local vector211 = Vector2.new(w + 2, v46)
+	arg1:_Draw("rect", shadow2, 0, v85, v87, vector211, true, tbl[2] + 1)
+	local shadow3 = tbl[1].shadow
+	local v88 = 0.06 * v79
+	local new2 = Vector2.new
+	local v89 = y + v78
+	local v90 = new2(x - 3, v89 + 6)
+	local vector212 = Vector2.new(w + 6, v46)
+	arg1:_Draw("rect", shadow3, 0, v88, v90, vector212, true, tbl[2] + 3)
+	local body = tbl[1].body
+	local v91 = y + v78
+	local vector213 = Vector2.new(x, v91)
+	local vector214 = Vector2.new(w, v46)
+	arg1:_Draw("rect", body, 1, v79, vector213, vector214, true, tbl[2])
+	local surface02 = tbl[1].surface0
+	local vector215 = Vector2.new(x + 1, y + v78 + 1)
+	local vector216 = Vector2.new(w - 2, v13)
+	arg1:_Draw("rect", surface02, 20, v79, vector215, vector216, true, tbl[2] - 1)
+	local border12 = tbl[1].border1
+	local new3 = Vector2.new
+	local v92 = y + v78
+	local v93 = new3(x + 1, v92 + v13)
+	local vector217 = Vector2.new(w - 2, 1)
+	arg1:_Draw("rect", border12, 21, v79, v93, vector217, true)
+	local v94 = y + v78 + v13 / 2
+	local v95 = x + 16
+	local vector218 = Vector2.new(v95, v94)
+	arg1:_Draw("circle", v1, 22, v79, vector218, 6, true)
+	local vector219 = Vector2.new(v95 + 20, v94)
+	arg1:_Draw("circle", color1, 22, v79, vector219, 6, true)
+	local vector220 = Vector2.new(v95 + 40, v94)
+	arg1:_Draw("circle", color4, 22, v79, vector220, 6, true)
+	local vector221 = Vector2.new(v95, v94)
+	arg1:_Draw("circle", color, 23, v79, vector221, 6, false)
+	local vector222 = Vector2.new(v95 + 20, v94)
+	arg1:_Draw("circle", color2, 23, v79, vector222, 6, false)
+	local vector223 = Vector2.new(v95 + 40, v94)
+	arg1:_Draw("circle", color5, 23, v79, vector223, 6, false)
+	local v96 = v8
+
+-- https://leakd.fr
+	if v8 then
+		local vector224 = Vector2.new(v95 - 6, v94 - 6)
+		local v97 = table.pack(Vector2.new(12, 12))
+		v96 = arg1:_IsMouseWithinBounds(vector224, table.unpack(v97, 1, v97.n))
+	end
+
+	if v96 then
+		arg1._menu_open = false
+		arg1:_RemoveDropdown()
+		arg1:_RemoveColorpicker()
+		arg1:_RemoveCtxMenu()
+		arg1:Notification("Menu Minimized", 3)
+		flag2 = true
+		v3 = false
+	end
+
+	if arg1._menu_open and _menu_scale > 0.5 then
+		local text3 = tbl[1].text
+		local new4 = Vector2.new
+		local v98 = w / 2
+		local v99 = y + v78
+		local v100 = new4(x + v98, v99 + v13 / 2)
+		arg1:_Draw("text", text3, 22, v79, v100, v12, false, "center")
+	end
+
+	arg1._search_query = arg1._search_query or ""
+	arg1._search_typing = arg1._search_typing or false
+	arg1._search_w_anim = arg1._search_w_anim or 22
+	arg1._search_w_anim = func1(
+		arg1._search_w_anim,
+		(arg1._search_typing or arg1._search_query ~= "") and 130 or 22,
+		(tbl[8](0.2))
+	)
+	local v101 = x + w
+	local _search_w_anim = arg1._search_w_anim
+	local v102 = v101 - _search_w_anim
+	local v103 = y + v78
+	local v104 = v102 - 10
+	local v105 = (v13 - 22) / 2
+	local v106 = v103 + v105
+	local vector225 = Vector2.new(v104, v106)
+	local vector226 = Vector2.new(_search_w_anim, 22)
+	local v107 = not flag4 and arg1:_IsMouseWithinBounds(vector225, vector226)
+
+	if v8 and v107 then
+		arg1._search_typing = true
+		flag2 = true
+		v3 = false
+	elseif v8 and not flag2 then
+		arg1._search_typing = false
+	end
+
+	if arg1._search_typing and arg1:_IsKeyPressed("esc") then
+		arg1._search_query = ""
+		arg1._search_typing = false
+	end
+
+	if arg1._search_typing then
+		local tbl8 = {
+			space = " ",
+			dash = "-",
+			colon = ":",
+			period = ".",
+			comma = ",",
+			slash = "/",
+			semicolon = ";",
+			quote = "'",
+			leftbracket = "[",
+			rightbracket = "]",
+			backslash = "\\",
+			equals = "=",
+			minus = "-"
+		}
+
+		local tbl9 = {
+			["1"] = "!",
+			["2"] = "@",
+			["3"] = "#",
+			["4"] = "$",
+			["5"] = "%",
+			["6"] = "^",
+			["7"] = "&",
+			["8"] = "*",
+			["9"] = "(",
+			["0"] = ")",
+			["-"] = "_",
+			["="] = "+",
+			["["] = "{",
+			["]"] = "}",
+			[";"] = ":",
+			["''"] = '"',
+			[","] = "<",
+			["."] = ">",
+			["/"] = "?",
+			["\\"] = "|"
+		}
+
+		local _search_query1 = arg1._search_query
+		local v108 = arg1:_IsKeyHeld("lshift") or arg1:_IsKeyHeld("rshift")
+		local k4Ref
+
+		for k4 in pairs(arg1._inputs or {}) do
+			if arg1:_IsKeyHeld(k4) then
+				k4Ref = k4
+				break
+			end
+		end
+
+		if k4Ref then
+			if not arg1._key_repeat[k4Ref] then
+				arg1._key_repeat[k4Ref] = os.clock() + 0.4
+			elseif os.clock() > arg1._key_repeat[k4Ref] then
+				arg1._key_repeat[k4Ref] = os.clock() + 0.05
+				local v109 = tbl8[k4Ref] or k4Ref
+
+				if v109 == "backspace" then
+					_search_query1 = _search_query1:sub(1, -2)
+				elseif #v109 == 1 then
+					if v108 and tbl9[v109] then
+						v109 = tbl9[v109]
+					elseif v108 then
+						v109 = v109:upper()
+					end
+					if #_search_query1 < 24 then
+						_search_query1 = _search_query1 .. v109
+					end
+				end
+
+				arg1._search_query = _search_query1
+			end
+		else
+			arg1._key_repeat = {}
+		end
+
+		for k5 in pairs(arg1._inputs or {}) do
+			if arg1:_IsKeyPressed(k5) then
+				local v110 = tbl8[k5] or k5
+
+				if v110 == "enter" then
+					arg1._search_typing = false
+					break
+				end
+
+				if v110 == "backspace" then
+					_search_query1 = _search_query1:sub(1, -2)
+				elseif #v110 == 1 then
+					if v108 and tbl9[v110] then
+						v110 = tbl9[v110]
+					elseif v108 then
+						v110 = v110:upper()
+					end
+					if #_search_query1 < 24 then
+						_search_query1 = _search_query1 .. v110
+					end
+				end
+
+				arg1._search_query = _search_query1
+			end
+		end
+	end
+
+	local v111 = func2((_search_w_anim - 22) / 108, 0, 1)
+	local v112 = func3(tbl[1].body, tbl[1].surface1, v111)
+	arg1:_Draw("rect", v112, 22, v79, vector225, vector226, true, 11)
+	arg1:_Draw(
+		"rect",
+		arg1._search_typing and tbl[1].accent or tbl[1].border1,
+		23,
+		v79,
+		vector225,
+		vector226,
+		false,
+		11
+	)
+	local y5 = vector226.y
+	local y6 = vector225.y
+	local v113 = vector225.x + 10
+	local v114 = y6 + y5 / 2
+	local subtext = tbl[1].subtext
+	local text4 = tbl[1].text
+	local v115 = v114 - 1
+	local v116 = func3(subtext, text4, v111)
+	local vector227 = Vector2.new(v113, v115)
+	arg1:_Draw("circle", v116, 24, v79, vector227, 3, false)
+	local vector228 = Vector2.new(v113 + 2, v115 + 2)
+	local new5 = Vector2.new
+	local v117 = v115 + 5
+	local v118 = new5(v113 + 5, v117)
+	arg1:_Draw("line", v116, 24, v79, vector228, v118, 2)
+
+	if v111 > 0.05 then
+		local _search_query2 = arg1._search_query
+
+		if arg1._search_typing then
+			_search_query2 = _search_query2 .. (math.floor(os.clock() * 2) % 2 == 0 and "|" or "")
+		end
+
+		if _search_query2 == "" and not arg1._search_typing then
+			_search_query2 = "Global search..."
+		end
+
+		if arg1:_GetTextBounds(_search_query2).x > vector226.x - 24 - 8 then
+            for startIndex = 1, #_search_query2 do
+                local suffix = _search_query2:sub(startIndex)
+                if arg1:_GetTextBounds(suffix).x <= vector226.x - 24 - 8 then
+                    _search_query2 = suffix
+                    break
+                end
+            end
+		end
+
+		local v121 =
+			(arg1._search_query ~= "" or arg1._search_typing) and tbl[1].text or tbl[1].subtext
+		local v122 = v79 * v111
+		local vector229 = Vector2.new(24, vector226.y / 2 - arg1._font_size / 2)
+		arg1:_Draw("text", v121, 24, v122, vector225 + vector229, _search_query2, false)
+	end
+
+	local vector230 = Vector2.new(x + 1, y + v13 + 1)
+	local new6 = Vector2.new
+	local v123 = y + v78
+	local v124 = new6(x + 1, v123 + v13 + 1)
+	local new7 = Vector2.new
+	local v125 = v46 - v13
+	local v126 = new7(w - 2, v125 - 2)
+	local v127 = v124.y + arg1._tab_h + tbl[3]
+	local v128 = v126.y - arg1._tab_h - tbl[3] * 2
+	local v129 = v127 + v128
+	local _scroll_delta = arg1._scroll_delta
+	arg1._scroll_delta = 0
+	pcall(function()
+		if _scroll_delta == 0 then
+			local v1 = getmousedelta()
+			if v1 and v1.Y ~= 0 then
+				_scroll_delta = v1.Y > 0 and 18 or -18
+			end
+		end
+	end)
+
+	if _scroll_delta ~= 0 then
+		if arg1._active_colorpicker then
+			arg1:_RemoveColorpicker()
+		end
+	end
+
+	local x3 = v126.x
+	local v130 = #arg1._tab_order
+	local v131 = x3 - 12
+	local v132 = math.max(1, v130)
+	local v133 = v131 / v132
+	local vector231 = Vector2.new(6, 6)
+	local v134 = v124 + vector231
+	local vector232 = Vector2.new(6, 6)
+	local surface1 = tbl[1].surface1
+	local v135 = vector230 + vector232
+	local vector233 = Vector2.new(v131, arg1._tab_h)
+	arg1:_Draw("rect", surface1, 20, v79, v134, vector233, true, tbl[2])
+	local border13 = tbl[1].border1
+	local vector234 = Vector2.new(v131, arg1._tab_h)
+	arg1:_Draw("rect", border13, 21, v79, v134, vector234, false, tbl[2])
+
+	for i2, v136 in ipairs(arg1._tab_order) do
+		local vector235 = Vector2.new(v133 * (i2 - 1), 0)
+		local v137 = v134 + vector235
+		local vector236 = Vector2.new(v133 * (i2 - 1), 0)
+		local v138 = v135 + vector236
+		local vector237 = Vector2.new(v133, arg1._tab_h)
+		local v139 = arg1._open_tab == v136
+		local v140 = arg1._search_tab_results[v136] or 0
+		local v141 = v139 and tbl[1].text or tbl[1].subtext
+		local v142 = v137 + Vector2.new(v133 / 2, arg1._tab_h / 2)
+		arg1:_Draw("text", v141, 24, v79, v142, v136, false, "center")
+
+		if arg1._search_query ~= "" and v140 > 0 and not v139 then
+			local v143 = arg1:_GetTextBounds(v136, nil, arg1._font_size)
+			local x4 = v137.x
+			local v144 = v133 / 2
+			local x5 = v143.x
+			local v145 = x4 + v144 + x5 / 2 + 6
+			local v146 = v137.y + arg1._tab_h / 2 - 4
+			local accent1 = tbl[1].accent
+			local vector238 = Vector2.new(v145, v146)
+			arg1:_Draw("circle", accent1, 25, v79, vector238, 3, true)
+		end
+
+		if
+			not v139
+				and not flag4
+				and arg1:_IsMouseWithinBounds(v138, vector237)
+				and v3
+				and not flag2
+		then
+			if not arg1._tab_changing then
+				arg1._tab_changing = true
+				arg1._next_tab = v136
+				arg1._input_ctx = nil
+				arg1:_RemoveDropdown()
+				arg1:_RemoveColorpicker()
+				arg1:_RemoveCtxMenu()
+				arg1._pill_target_x = v133 * (i2 - 1)
+				v3 = false
+				flag2 = true
+			end
+		end
+	end
+
+	arg1._pill_x = func1(arg1._pill_x, arg1._pill_target_x, (tbl[8](0.16)))
+	local surface03 = tbl[1].surface0
+	local v147 = v134.x + arg1._pill_x
+	local vector239 = Vector2.new(v147 + 3, v134.y + 3)
+	local vector240 = Vector2.new(v133 - 6, arg1._tab_h - 6)
+	local v148 = tbl[2] - 2
+	arg1._Draw(arg1, "rect", surface03, 22, v79, vector239, vector240, true, v148)
+	local border0 = tbl[1].border0
+	local vector241 = Vector2.new(v147 + 3, v134.y + 3)
+	local vector242 = Vector2.new(v133 - 6, arg1._tab_h - 6)
+	arg1:_Draw("rect", border0, 23, v79, vector241, vector242, false, tbl[2] - 2)
+
+	for _, v149 in ipairs(arg1._tab_order) do
+		if
+			arg1._tree[v149] and arg1._open_tab == v149 and arg1._menu_open and _menu_scale > 0.5
+		then
+			arg1._tab_scroll[v149] =
+				arg1._tab_scroll[v149] or {offset = 0, target = 0, maxScroll = 0}
+			local v150 = arg1._tab_scroll[v149]
+			local v151 = math.max(v19, v20) - v128
+			v150.maxScroll = math.max(0, v151 + tbl[3])
+
+			if v49 > 0 and v150.maxScroll > 0 and tbl[9] > 0.75 then
+				local v152 = v124.x + v126.x - 3 - 2
+				local v153 = math.max(20, v128 * (v128 / (v128 + v150.maxScroll)))
+				local vector243 = Vector2.new(19, v128)
+				local new8 = Vector2.new
+				local v154 = new8(v152 - 8, v127)
+				local v155 = not flag4 and arg1:_IsMouseWithinBounds(v154, vector243)
+
+				if v4 then
+					if (v155 or arg1._tab_scroll_drag == v149) and v3 and not flag2 then
+						arg1._tab_scroll_drag = v149
+						flag2 = true
+						v3 = false
+					end
+					if arg1._tab_scroll_drag == v149 then
+						local v156 = arg1:_GetMousePos().y - v127 - v153 / 2
+						local v157 = v128 - v153
+						v150.target = func2(v156 / math.max(1, v157), 0, 1) * v150.maxScroll
+					end
+				elseif arg1._tab_scroll_drag == v149 then
+					arg1._tab_scroll_drag = nil
+				end
+			end
+		end
+	end
+
+	for _, v158 in ipairs(arg1._tab_order) do
+		local v159 = arg1._tree[v158]
+		if v159 and arg1._open_tab == v158 then
+			arg1._tab_scroll[v158] =
+				arg1._tab_scroll[v158] or {offset = 0, target = 0, maxScroll = 0}
+			local v160 = arg1._tab_scroll[v158]
+			local v161 = arg1._menu_open and _menu_scale > 0.5
+			local v162 = v126.x / 2 - tbl[3] * 1.5
+			local v163 = math.max(v19, v20)
+			local v164 = math.max(0, v163 - v128 + tbl[3])
+			v160.maxScroll = v164
+
+			if v161 then
+				if v49 > 0 and v164 > 0 and tbl[9] > 0.75 then
+					local v165 = v124.x + v126.x - 3 - 2
+					local v166 = v128 + v164
+					local v167 = math.max(20, v128 * (v128 / v166))
+					local v168 = v128 - v167
+					local offset = v160.offset
+					local v169 = math.max(1, v164)
+					local v170 = v127 + v168 * (offset / v169)
+
+					if
+						_scroll_delta ~= 0 and not flag4 and arg1:_IsMouseWithinBounds(v124, v126)
+					then
+						v160.target = func2(v160.target - _scroll_delta, 0, v164)
+					end
+
+					local v171 = func2((tbl[9] - 0.75) / 0.25, 0, 1)
+					local v172 = v79 * v171
+					local border01 = tbl[1].border0
+					local v173 = 0.35 * v172
+					local vector244 = Vector2.new(v165, v127)
+					local vector245 = Vector2.new(3, v128)
+					arg1:_Draw("rect", border01, 13, v173, vector244, vector245, true, 1.5)
+					local subtext1 = tbl[1].subtext
+					local v174 = 0.7 * v172
+					local vector246 = Vector2.new(v165, v170)
+					local vector247 = Vector2.new(3, v167)
+					arg1:_Draw("rect", subtext1, 14, v174, vector246, vector247, true, 1.5)
+				elseif
+					_scroll_delta ~= 0 and not flag4 and arg1:_IsMouseWithinBounds(v124, v126)
+				then
+					v160.target = func2(v160.target - _scroll_delta, 0, v164)
+				end
+			end
+
+			if v160.offset ~= v160.target then
+				v160.offset = func1(v160.offset, v160.target, (tbl[8](0.18)))
+				if math.abs(v160.offset - v160.target) < 0.5 then
+					v160.offset = v160.target
+				end
+			end
+
+			local offset1 = v160.offset
+
+			local function func(arg11, _, arg3)
+				local v1 = v127 + tbl[3]
+				local v2 = v1 - offset1
+
+				for _, v6 in ipairs(arg11) do
+					local name = v6.name
+					local anim = v6.anim
+					local h = v6.h
+					local tsz = v6.tsz
+					local v7 = "menu_sec_" .. v158 .. "_" .. name
+					arg1._sec_slide = arg1._sec_slide or {}
+
+					if arg1._sec_slide[v7] == nil then
+						arg1._sec_slide[v7] = 10
+					end
+
+					local v8 = arg1._sec_slide[v7]
+
+					if v8 ~= 0 then
+						v8 = func1(v8, 0, (tbl[8](0.14)))
+
+						if math.abs(v8) < 0.25 then
+							v8 = 0
+						end
+
+						arg1._sec_slide[v7] = v8
+					end
+
+					local v9 = v2 + tsz.y / 2 * anim + v8
+					local vector2 = Vector2.new(arg3, v9)
+
+					if v161 then
+						local y = vector2.y
+						local v10 = vector2.y + h
+						local v11 = math.max(y, v127)
+						local v12 = math.min(v10, v129) - v11
+						local v13 = math.max(0, v12)
+						local v14 = v13 > 0
+						local v15 = anim * tbl[9]
+
+						if arg1._unloading_sequence and arg1._unload_phase == "sections" then
+							v15 = v15 * (arg1._unload_section_alpha or 1)
+						end
+
+						if v14 and v15 > 0.001 then
+							local shadow = tbl[1].shadow
+							local v16 = 0.1 * v15
+							arg1:_Draw(
+								"rect",
+								shadow,
+								2,
+								v16 * v79,
+								Vector2.new(vector2.x + 2, v11 + 3),
+								Vector2.new(v162, v13),
+								true,
+								tbl[2]
+							)
+							arg1:_Draw(
+								"rect",
+								tbl[1].surface0,
+								3,
+								v15 * v79,
+								Vector2.new(vector2.x, v11),
+								Vector2.new(v162, v13),
+								true,
+								tbl[2]
+							)
+							arg1:_Draw(
+								"rect",
+								tbl[1].border1,
+								4,
+								v15 * v79,
+								Vector2.new(vector2.x, v11),
+								Vector2.new(v162, v13),
+								false,
+								tbl[2]
+							)
+						end
+
+						local v17 = vector2.y - tsz.y / 2 * anim
+						local y1 = tsz.y
+						local v18 = v17 - 7
+						local v19 = v18 + y1
+						local v20 = anim * tbl[9]
+
+						if v19 > v127 and v18 < v129 then
+							local v21 = v18 - v127
+							local v22 = v129 - v19
+
+							if v21 < 12 then
+								v20 = math.min(v20, math.max(0, v21 / 12))
+							end
+
+							if v22 < 12 then
+								v20 = math.min(v20, math.max(0, v22 / 12))
+							end
+
+							if v21 < 0 or v22 < 0 then
+								v20 = 0
+							end
+
+							if arg1._unloading_sequence and arg1._unload_phase == "sections" then
+								v20 = v20 * (arg1._unload_section_alpha or 1)
+							end
+						else
+							v20 = 0
+						end
+
+						if v20 > 0.001 then
+							local subtext = tbl[1].subtext
+							arg1:_Draw(
+								"text",
+								subtext,
+								6,
+								v79 * v20,
+								Vector2.new(vector2.x + tbl[3], v18),
+								name,
+								false
+							)
+						end
+
+						local v23 = v159._items and v159._items[name]
+						local v24 = (tbl[3] + tsz.y / 2) * anim
+
+						for i, v25 in ipairs((v23 or {_items = {}})._items or {}) do
+							local v26 = arg1._toggle_anim[v25._anim_key] or 0
+							if v26 > 0.001 then
+								local v27 = func19(arg1, v25)
+								local v28 = v27 * v26
+								local vector21 = Vector2.new(vector2.x + tbl[3], vector2.y + v24)
+								local type_ = v25.type_
+								local value = v25.value
+								local callback = v25.callback
+								local v29 = name .. tostring(i)
+								local y2 = vector21.y
+								local v30 = v158 .. v29
+								local v31 = vector21.y + v28 - tbl[3] * v26
+								local v32 = v14 and v31 >= v127 and y2 <= v129
+								local v33 = v26 * tbl[9]
+
+								if v32 then
+									local v34 = y2 - v127
+									local v35 = v129 - v31
+
+									if v34 < 12 then
+										v33 = math.min(v33, math.max(0, v34 / 12))
+									end
+
+									if v35 < 12 then
+										v33 = math.min(v33, math.max(0, v35 / 12))
+									end
+
+									if v34 < 0 or v35 < 0 then
+										v33 = 0
+									end
+
+									if
+										arg1._unloading_sequence
+											and arg1._unload_phase == "sections"
+									then
+										v33 = v33 * (arg1._unload_section_alpha or 1)
+									end
+								end
+
+								if v33 <= 0.001 then
+									v32 = false
+								end
+
+								local _id = v25._id
+								local v36 = v32 and v33 > 0.4
+
+								if v32 then
+									arg1._item_vis[_id] = true
+									local v37 = v36 and v3 and not flag2
+									local v38 = v79 * v33 * anim
+
+									if type_ == "toggle" then
+										local v39 = value and 1 or 0
+										local v40 = arg1._toggle_anim[v30]
+
+										if v40 == nil then
+											v40 = v39
+										elseif v40 ~= v39 then
+											v40 = func1(v40, v39, (tbl[8](0.1)))
+										end
+
+										arg1._toggle_anim[v30] = v40
+										local v41 = arg1._font_size + 2
+										local keybind = v25.keybind
+										local colorpicker = v25.colorpicker
+										local num = 0
+
+										if keybind then
+											local value1 = keybind.value
+											num = tbl[4] + tbl[3]
+											local v42 = (value1 or "?"):upper()
+											local v43 = keybind._listening and "..." or v42
+											local num1 = 12
+
+											while
+												num1 > 7
+													and arg1:_GetTextBounds(v43, nil, num1).x > tbl[4] - 6
+											do
+												num1 = num1 - 1
+											end
+
+											local new = Vector2.new
+											local v44 = vector2.x + v162 - tbl[4]
+											local y3 = vector21.y
+											local v45 = v44 - tbl[3]
+											local v46 = new(v45, y3 + (v41 - arg1._font_size) / 2)
+											local vector22 = Vector2.new(tbl[4], arg1._font_size + 2)
+											local v47 =
+												not flag4 and arg1:_IsMouseWithinBounds(v46, vector22)
+											local v48 =
+												v47 and func3(tbl[1].surface1, tbl[1].accent, 0.2)
+													or tbl[1].surface1
+
+											if keybind.value and not keybind._listening then
+												if arg1:_IsKeyPressed(keybind.value) then
+													if v25.value then
+														local v49 = not v25.value
+														v25.value = v49
+
+														if callback then
+															callback(v49)
+														end
+													else
+														arg1:Notification("Enable " .. v25.label .. " first", 3)
+													end
+												end
+											end
+
+											local shadow1 = tbl[1].shadow
+											arg1:_Draw(
+												"rect",
+												shadow1,
+												6,
+												0.1 * v38,
+												v46 + Vector2.new(1, 2),
+												vector22,
+												true,
+												6
+											)
+											arg1:_Draw("rect", v48, 7, v38, v46, vector22, true, 6)
+											arg1:_Draw(
+												"rect",
+												keybind._listening and tbl[1].accent or tbl[1].border1,
+												8,
+												v38,
+												v46,
+												vector22,
+												false,
+												6
+											)
+											local v50 =
+												(v47 or keybind._listening) and tbl[1].text
+													or tbl[1].subtext
+											local new1 = Vector2.new
+											local y4 = vector22.y
+											arg1:_Draw(
+												"text",
+												v50,
+												8,
+												v38,
+												v46 + new1(tbl[4] / 2, y4 / 2),
+												v43,
+												false,
+												"center",
+												num1
+											)
+
+											if v47 and v37 then
+												keybind._listening = true
+												keybind._listening_start = os.clock()
+												v3 = false
+												flag2 = true
+											end
+
+											if keybind._listening then
+												local v51 = os.clock() - keybind._listening_start
+												if v51 > 6 then
+													keybind._listening = false
+												elseif v51 > 0.15 then
+													for k, v52 in pairs(arg1._inputs or {}) do
+														if arg1:_IsKeyPressed(k) then
+															if k == "m1" then
+																keybind._listening = false
+															else
+																local v53 = k ~= "backspace" and k
+
+																if v53 then
+																	for _, v54 in ipairs(arg1._config_refs or {}) do
+																		local item = v54.item
+																		if
+																			item ~= v25 and item.keybind and item.keybind.value == v53
+																		then
+																			arg1:Notification(
+																				"Conflict: " .. v53:upper() .. " used by " .. item.label,
+																				4
+																			)
+																		end
+																	end
+																end
+
+																if keybind.callback and arg1._inputs[v53] then
+																	keybind.callback(v52.id)
+																end
+
+																keybind.value = v53
+																keybind._listening = false
+															end
+														end
+													end
+												end
+											end
+										elseif colorpicker then
+											local vector23 = Vector2.new(24, 14)
+											local new2 = Vector2.new
+											local v55 = v162 - tbl[3] * 2
+											local x = vector23.x
+											local y5 = vector23.y
+											local v56 = vector21 + new2(v55 - x, (v41 - y5) / 2)
+											num = vector23.x + tbl[3] * 2
+											local v57 =
+												not flag4 and arg1:_IsMouseWithinBounds(v56, vector23)
+											arg1:_Draw(
+												"rect",
+												tbl[1].border1,
+												7,
+												v38,
+												v56,
+												vector23,
+												true,
+												4
+											)
+											arg1:_Draw(
+												"rect",
+												colorpicker.value,
+												8,
+												v38,
+												v56 + Vector2.new(1, 1),
+												vector23 - Vector2.new(2, 2),
+												true,
+												4
+											)
+
+											if v57 and v37 then
+												arg1:_SpawnColorpicker(
+													nil,
+													colorpicker.label,
+													colorpicker.value,
+													function(value)
+														colorpicker.value = value
+														if colorpicker.callback then
+															colorpicker.callback(value)
+														end
+													end
+												)
+												v3 = false
+												flag2 = true
+											end
+										end
+
+										local v58 =
+											v25.unsafe and tbl[1].unsafe
+												or (value and tbl[1].text or tbl[1].subtext)
+
+										if not colorpicker or not colorpicker.overwrite then
+											if
+												not flag4
+													and arg1:_IsMouseWithinBounds(
+														vector21,
+														Vector2.new(34, v41)
+													)
+													and v37
+											then
+												local v59 = not value
+												v25.value = v59
+
+												if callback then
+													callback(v59)
+												end
+
+												v3 = false
+												flag2 = true
+											end
+
+											local v60 = func3(tbl[1].surface1, tbl[1].accent, v40)
+											arg1:_Draw(
+												"rect",
+												v60,
+												7,
+												v38,
+												vector21,
+												Vector2.new(34, v41),
+												true,
+												v41 / 2
+											)
+											arg1:_Draw(
+												"rect",
+												func3(tbl[1].border1, tbl[1].accent, v40),
+												8,
+												v38,
+												vector21,
+												Vector2.new(34, v41),
+												false,
+												v41 / 2
+											)
+											local v61 = v41 / 2 - 1
+											local v62 = vector21.x + v61 + 1
+											local v63 = (34 - v41) * v40
+											local y6 = vector21.y
+											local v64 = v62 + v63
+											local v65 = y6 + v41 / 2
+											arg1:_Draw(
+												"circle",
+												tbl[1].shadow,
+												8,
+												0.15 * v38,
+												Vector2.new(v64, v65 + 1),
+												v61,
+												true
+											)
+											arg1:_Draw(
+												"circle",
+												tbl[1].surface0,
+												9,
+												v38,
+												Vector2.new(v64, v65),
+												v61,
+												true
+											)
+										else
+											v58 = tbl[1].text
+										end
+
+										local label = v25.label
+										local flag = false
+										local v66 =
+											v162 - 34 - tbl[3] * 2 - num - (v25.isNew and 36 or 0)
+
+										while #label > 1 and arg1:_GetTextBounds(label).x > v66 do
+											label = label:sub(1, -2)
+											flag = true
+										end
+
+										if flag then
+											label = label:sub(1, -2) .. ".."
+										end
+
+										local v67 = arg1:_GetTextBounds(label)
+										local v68 =
+											vector21
+												+ Vector2.new(34 + tbl[3], (v41 - arg1._font_size) / 2)
+										arg1:_Draw("text", v58, 7, v38, v68, label, false)
+
+										if
+											v36
+												and flag
+												and not flag4
+												and arg1:_IsMouseWithinBounds(v68, v67)
+										then
+											arg1._frame_tooltip = {key = _id, text = v25.label}
+										end
+
+										if v25.isNew then
+											local v69 = v68 + Vector2.new(v67.x + 8, -2)
+											arg1:_Draw(
+												"rect",
+												tbl[1].accent,
+												8,
+												v38,
+												v69,
+												Vector2.new(28, 14),
+												true,
+												4
+											)
+											arg1:_Draw(
+												"text",
+												tbl[1].surface0,
+												9,
+												v38,
+												v69 + Vector2.new(14, 7),
+												"NEW",
+												false,
+												"center",
+												9
+											)
+										end
+									elseif type_ == "slider" then
+										local v70 = v25.min or 0
+										local v71 = v25.max or 100
+										local v72 = v25.step or 1
+										local v73 = arg1:_GetTextBounds(v25.label)
+										local _font_size = arg1._font_size
+										local v74 = vector21.x + _font_size + tbl[3]
+										local v75 = v162 - tbl[3] * 2 - _font_size * 2
+										local v76 = tbl[3] * 2
+										local v77 = v75 - v76
+										local vector24 = Vector2.new(
+											v74,
+											vector21.y + v73.y + tbl[3]
+										)
+										local vector25 = Vector2.new(v77, 6)
+										local label1 = v25.label
+										local flag1 = false
+										local v78 = tbl[3] * 2
+										local isNew = v25.isNew
+										local v80 = v162 - v78 - (isNew and 36 or 0)
+
+										while #label1 > 1 and arg1:_GetTextBounds(label1).x > v80 do
+											label1 = label1:sub(1, -2)
+											flag1 = true
+										end
+
+										if flag1 then
+											label1 = label1:sub(1, -2) .. ".."
+										end
+
+										local v81 = arg1:_GetTextBounds(label1)
+										arg1:_Draw(
+											"text",
+											tbl[1].subtext,
+											7,
+											v38,
+											vector21,
+											label1,
+											false
+										)
+
+										if
+											v36
+												and flag1
+												and not flag4
+												and arg1:_IsMouseWithinBounds(vector21, v81)
+										then
+											arg1._frame_tooltip = {key = _id, text = v25.label}
+										end
+
+										if v25.isNew then
+											local v82 = vector21 + Vector2.new(v81.x + 8, 0)
+											arg1:_Draw(
+												"rect",
+												tbl[1].accent,
+												8,
+												v38,
+												v82,
+												Vector2.new(28, 14),
+												true,
+												4
+											)
+											arg1:_Draw(
+												"text",
+												tbl[1].surface0,
+												9,
+												v38,
+												v82 + Vector2.new(14, 7),
+												"NEW",
+												false,
+												"center",
+												9
+											)
+										end
+
+										local v83 = value or v70
+										local new3 = Vector2.new
+										local y7 = vector25.y
+										local v84 = _font_size + tbl[3]
+										local v85 = vector24 - new3(v84, y7 + tbl[3])
+										local vector26 = Vector2.new(
+											v77 + (_font_size + tbl[3]) * 2,
+											v27
+										)
+
+										if
+											not flag4
+												and arg1:_IsMouseWithinBounds(v85, vector26)
+												and v5
+												and v36
+										then
+											local v86 = v25.default ~= nil and v25.default or v70
+											v83 = v86
+											v25.value = v86
+
+											if callback then
+												callback(v86)
+											end
+
+											arg1:Notification("Reset to default", 2)
+											v5 = false
+										end
+
+										local v87 = not flag4
+
+										if v87 then
+											local vector27 = Vector2.new(0, 6)
+											v87 = arg1:_IsMouseWithinBounds(
+												vector24 - vector27,
+												vector25 + Vector2.new(0, 12)
+											)
+										end
+
+										if v4 then
+											if
+												v36
+													and (v87 or arg1._slider_drag == _id)
+													and v3
+													and arg1._slider_drag ~= _id
+											then
+												arg1._slider_drag = _id
+												v3 = false
+												flag2 = true
+											end
+											if arg1._slider_drag == _id then
+												local v88 = arg1:_GetMousePos()
+												local x1 = vector24.x
+												local x2 = v88.x
+												local x3 = vector25.x
+												local v89 = func2((x2 - x1) / x3, 0, 1)
+												local v90 = v70 + (v71 - v70) * v89
+												local v91 = math.floor(v90 / v72 + 0.5)
+												v83 = func2(v91 * v72, v70, v71)
+											end
+										else
+											arg1._slider_drag = nil
+										end
+
+										local x4 = vector21.x
+										local v92 = _font_size / 2
+										local v93 = v74 + v77
+										local v94 = x4 + v92
+										local v95 = v93 + tbl[3] + _font_size / 2
+										local v96 = vector24.y + vector25.y / 2
+										local x5 = vector21.x
+										local v97 = _font_size / 2
+										local vector28 = Vector2.new(x5, v96 - v97)
+										local v98 = v74 + v77
+										local vector29 = Vector2.new(
+											v98 + tbl[3],
+											v96 - _font_size / 2
+										)
+										local vector210 = Vector2.new(_font_size, _font_size)
+										local v99 =
+											not flag4 and arg1:_IsMouseWithinBounds(vector28, vector210)
+										local v100 =
+											not flag4 and arg1:_IsMouseWithinBounds(vector29, vector210)
+										arg1:_Draw(
+											"text",
+											v99 and tbl[1].text or tbl[1].subtext,
+											7,
+											v38,
+											Vector2.new(v94, v96),
+											"-",
+											false,
+											"center"
+										)
+										arg1:_Draw(
+											"text",
+											v100 and tbl[1].text or tbl[1].subtext,
+											7,
+											v38,
+											Vector2.new(v95, v96),
+											"+",
+											false,
+											"center"
+										)
+
+										if v37 and not flag4 then
+											if v99 then
+												v83 = func2(v83 - v72, v70, v71)
+												v3 = false
+												flag2 = true
+											elseif v100 then
+												v83 = func2(v83 + v72, v70, v71)
+												v3 = false
+												flag2 = true
+											end
+										end
+
+										if v83 ~= value then
+											v25.value = v83
+											if callback then
+												callback(v83)
+											end
+										end
+
+										local v101 = v83 - v70
+										local v102 = v71 - v70
+										local v103 = func2(v101 / math.max(0.01, v102), 0, 1)
+										arg1._slider_disp[_id .. "_dv"] = v83
+										local v104 = arg1._slider_drag == _id
+										local v105 =
+											(v87 or v104)
+												and func3(tbl[1].surface1, tbl[1].accent, 0.12)
+										arg1:_Draw(
+											"rect",
+											v105 or tbl[1].surface1,
+											7,
+											v38,
+											vector24,
+											vector25,
+											true,
+											3
+										)
+										arg1:_Draw(
+											"rect",
+											(v87 or v104) and tbl[1].border0 or tbl[1].border1,
+											8,
+											v38,
+											vector24,
+											vector25,
+											false,
+											3
+										)
+										local v106 = math.max(0, vector25.x * v103 - 2)
+										local accent = tbl[1].accent
+										local vector211 = Vector2.new(1, 1)
+										arg1:_Draw(
+											"rect",
+											accent,
+											9,
+											v38,
+											vector24 + vector211,
+											Vector2.new(v106, vector25.y - 2),
+											true,
+											3
+										)
+										local x6 = vector24.x
+										local v107 = vector25.x * v103
+										local y8 = vector25.y
+										local v108 = x6 + v107
+										local v109 = vector24.y + y8 / 2
+										local v110 = v104 and 7 or 5
+										arg1:_Draw(
+											"circle",
+											tbl[1].surface0,
+											10,
+											v38,
+											Vector2.new(v108, v109),
+											v110,
+											true
+										)
+										arg1:_Draw(
+											"circle",
+											tbl[1].accent,
+											11,
+											v38,
+											Vector2.new(v108, v109),
+											v110,
+											false
+										)
+										local v111 = func5(v83) .. v25.suffix
+										arg1:_Draw(
+											"text",
+											tbl[1].text,
+											15,
+											v38,
+											Vector2.new(v108, v109 + v110 + 6),
+											v111,
+											false,
+											"center",
+											11
+										)
+									elseif type_ == "dropdown" then
+										local v112 = arg1:_GetTextBounds(v25.label)
+										local vector212 = Vector2.new(
+											vector21.x,
+											vector21.y + v112.y + tbl[3]
+										)
+										local vector213 = Vector2.new(
+											v162 - tbl[3] * 2,
+											v112.y + tbl[3]
+										)
+										local v113 =
+											not flag4
+												and arg1:_IsMouseWithinBounds(vector212, vector213)
+										local v114 =
+											arg1._active_dropdown and arg1._active_dropdown_owner == _id
+
+										if v114 then
+											arg1._active_dropdown.position = Vector2.new(
+												vector212.x,
+												vector212.y + vector213.y
+											)
+											arg1._active_dropdown._srcH = vector213.y
+										end
+
+										if v113 and v37 then
+											if v114 then
+												arg1:_RemoveDropdown()
+												arg1._active_dropdown_owner = nil
+											else
+												arg1:_SpawnDropdown(
+													Vector2.new(vector212.x, vector212.y + vector213.y),
+													vector213.x,
+													value,
+													v25.choices,
+													v25.multi,
+													function(value)
+														v25.value = value
+														if callback then
+															callback(value)
+														end
+													end
+												)
+												arg1._active_dropdown._srcH = vector213.y
+												arg1._active_dropdown_owner = _id
+											end
+
+											v3 = false
+											flag2 = true
+										end
+
+										local v115 = _id .. "_arw"
+										arg1._dd_arrow_anim[v115] = func1(
+											arg1._dd_arrow_anim[v115] or 0,
+											v114 and 1 or 0,
+											(tbl[8](0.25))
+										)
+										local v116 = arg1._dd_arrow_anim[v115]
+										local v117 = math.floor(
+											vector212.x + vector213.x - tbl[3] - 4
+										)
+										local v118 = math.floor(vector212.y + vector213.y / 2)
+										local vector214 = Vector2.new(
+											math.floor(func1(v117 + 2, v117 - 3, v116) + 0.5),
+											math.floor(func1(v118 - 3, v118 - 2, v116) + 0.5)
+										)
+										local vector215 = Vector2.new(
+											math.floor(func1(v117 + 2, v117 + 3, v116) + 0.5),
+											math.floor(func1(v118 + 3, v118 - 2, v116) + 0.5)
+										)
+										local vector216 = Vector2.new(
+											math.floor(func1(v117 - 3, v117, v116) + 0.5),
+											math.floor(func1(v118, v118 + 3, v116) + 0.5)
+										)
+										local v119 =
+											v113 and func3(tbl[1].surface0, tbl[1].accent, 0.06)
+												or tbl[1].surface0
+										arg1:_Draw(
+											"rect",
+											tbl[1].shadow,
+											6,
+											0.1 * v38,
+											vector212 + Vector2.new(1, 2),
+											vector213,
+											true,
+											6
+										)
+										arg1:_Draw(
+											"rect",
+											v119,
+											7,
+											v38,
+											vector212,
+											vector213,
+											true,
+											6
+										)
+										arg1:_Draw(
+											"rect",
+											tbl[1].border1,
+											8,
+											v38,
+											vector212,
+											vector213,
+											false,
+											6
+										)
+										arg1:_Draw(
+											"triangle",
+											tbl[1].subtext,
+											8,
+											v38,
+											true,
+											vector214,
+											vector215,
+											vector216
+										)
+										local v120 =
+											type(value) == "table" and table.concat(value, ", ")
+												or tostring(value or "")
+										local flag3 = false
+
+										if v120 == "" then
+											flag3 = true
+											v120 =
+												v25.choices and v25.choices[1] and tostring(v25.choices[1])
+													or ""
+										end
+
+										if
+											arg1:_GetTextBounds(v120).x > vector213.x - tbl[3] - 14
+										then
+											if flag3 then
+												local v121 = vector213.x - tbl[3] - 26
+
+												while #v120 > 1 and arg1:_GetTextBounds(v120).x > v121 do
+													v120 = v120:sub(1, -2)
+												end
+
+												v120 = v120 .. ".."
+											else
+												local v122 = type(value) == "table" and #(value or {}) or 1
+												v120 =
+													tostring(v122) .. " item" .. (v122 == 1 and "" or "s")
+											end
+										end
+
+										arg1:_Draw(
+											"text",
+											flag3 and tbl[1].subtext or tbl[1].text,
+											8,
+											v38,
+											vector212
+												+ Vector2.new(6, arg1:_GetTextBounds(v120).y / 2 - 1),
+											v120,
+											false
+										)
+										local flag5 = false
+										local v123 = v162 - tbl[3] * 2 - (v25.isNew and 36 or 0)
+										local label2 = v25.label
+										local x7 = func6(arg1, label2).x
+
+										if x7 > v123 then
+											local v124 = v123 / math.max(1, x7)
+											local max = math.max
+											local v125 = #label2
+											label2 =
+												label2:sub(1, max(1, math.floor(v125 * v124) - 2)) .. ".."
+											flag5 = true
+										end
+
+										local v126 = func6(arg1, label2)
+										arg1:_Draw(
+											"text",
+											tbl[1].subtext,
+											7,
+											v38,
+											vector21 + Vector2.new(tbl[3], 0),
+											label2,
+											false
+										)
+
+										if
+											v36
+												and flag5
+												and not flag4
+												and arg1:_IsMouseWithinBounds(
+													vector21 + Vector2.new(tbl[3], 0),
+													v126
+												)
+										then
+											arg1._frame_tooltip = {key = _id .. "dd", text = v25.label}
+										end
+
+										if v25.isNew then
+											local v128 = vector21 + Vector2.new(tbl[3] + v126.x + 8, -2)
+											arg1:_Draw(
+												"rect",
+												tbl[1].accent,
+												8,
+												v38,
+												v128,
+												Vector2.new(28, 14),
+												true,
+												4
+											)
+											arg1:_Draw(
+												"text",
+												tbl[1].surface0,
+												9,
+												v38,
+												v128 + Vector2.new(14, 7),
+												"NEW",
+												false,
+												"center",
+												9
+											)
+										end
+									elseif type_ == "button" then
+										local colorpicker1 = v25.colorpicker
+										local num2 = 0
+										local v130 = arg1:_GetTextBounds(v25.label).y + tbl[3]
+
+										if colorpicker1 then
+											local vector217 = Vector2.new(24, 14)
+											local new4 = Vector2.new
+											local v131 = v162 - tbl[3] * 2
+											local x8 = vector217.x
+											local y9 = vector217.y
+											local v132 = new4(v131 - x8, (v130 - y9) / 2)
+											local x9 = vector217.x
+											local v133 = vector21 + v132
+											num2 = x9 + tbl[3] * 2
+											local v134 =
+												not flag4 and arg1:_IsMouseWithinBounds(v133, vector217)
+											arg1:_Draw(
+												"rect",
+												tbl[1].border1,
+												7,
+												v38,
+												v133,
+												vector217,
+												true,
+												4
+											)
+											arg1:_Draw(
+												"rect",
+												colorpicker1.value,
+												8,
+												v38,
+												v133 + Vector2.new(1, 1),
+												vector217 - Vector2.new(2, 2),
+												true,
+												4
+											)
+
+											if v134 and v37 then
+												arg1:_SpawnColorpicker(
+													nil,
+													colorpicker1.label,
+													colorpicker1.value,
+													function(value)
+														colorpicker1.value = value
+														if colorpicker1.callback then
+															colorpicker1.callback(value)
+														end
+													end
+												)
+												v3 = false
+												flag2 = true
+											end
+										end
+
+										local vector218 = Vector2.new(vector21.x, vector21.y)
+										local vector219 = Vector2.new(
+											v162 - tbl[3] * 2 - num2,
+											v130
+										)
+										local v135 =
+											not flag4
+												and arg1:_IsMouseWithinBounds(vector218, vector219)
+
+										if v4 then
+											if v135 and v37 then
+												arg1._slider_drag = _id
+												v3 = false
+												flag2 = true
+
+												if callback then
+													callback()
+												end
+											end
+										else
+											arg1._slider_drag = nil
+										end
+
+										local v136 = v4 and arg1._slider_drag == _id
+										local v137 = _id .. "_bp"
+										arg1._toggle_anim[v137] = func1(
+											arg1._toggle_anim[v137] or 0,
+											v136 and 1 or 0,
+											(tbl[8](0.45))
+										)
+										local v138 = arg1._toggle_anim[v137]
+										local v139 = math.floor(v138 * 2 + 0.5)
+										local v140 = vector218 + Vector2.new(v139, v139)
+										local v141 = vector219 - Vector2.new(v139 * 2, v139 * 2)
+										local v142 = func3(
+											v135 and func3(tbl[1].surface0, tbl[1].accent, 0.08)
+												or tbl[1].surface0,
+											tbl[1].accent,
+											v138 * 0.85
+										)
+										arg1:_Draw(
+											"rect",
+											tbl[1].shadow,
+											6,
+											(1 - v138) * 0.1 * v38,
+											vector218 + Vector2.new(1, 2),
+											vector219,
+											true,
+											6
+										)
+										arg1:_Draw("rect", v142, 7, v38, v140, v141, true, 6)
+										arg1:_Draw(
+											"rect",
+											v136 and tbl[1].accent or tbl[1].border1,
+											8,
+											v38,
+											v140,
+											v141,
+											false,
+											6
+										)
+										local v143 =
+											(v136 or v135) and tbl[1].text or tbl[1].subtext
+
+										if v25._last_label == nil then
+											v25._last_label = v25.label
+										end
+
+										local v144 = _id .. "_lbl_anim"
+
+										if v25.label ~= v25._last_label then
+											v25._old_label = v25._last_label
+											v25._last_label = v25.label
+											arg1._toggle_anim[v144] = 0
+										end
+
+										local v145 = func1(
+											arg1._toggle_anim[v144] or 1,
+											1,
+											(tbl[8](0.35))
+										)
+										arg1._toggle_anim[v144] = v145
+
+										if v145 < 0.995 and v25._old_label then
+											local v146 = func4(v145)
+											local v147 = v38 * (1 - v146)
+											local v148 = v140.y + v141.y / 2
+											local v149 = 10 * v146
+											local v150 = v148 - v149
+											arg1:_Draw(
+												"text",
+												v143,
+												8,
+												v147,
+												Vector2.new(v140.x + v141.x / 2, v150),
+												v25._old_label,
+												false,
+												"center"
+											)
+											local y10 = v140.y
+											local v151 = v38 * v146
+											local v152 = y10 + v141.y / 2 + 10 * (1 - v146)
+											arg1:_Draw(
+												"text",
+												v143,
+												8,
+												v151,
+												Vector2.new(v140.x + v141.x / 2, v152),
+												v25.label,
+												false,
+												"center"
+											)
+										else
+											arg1:_Draw(
+												"text",
+												v143,
+												8,
+												v38,
+												v140 + Vector2.new(v141.x / 2, v141.y / 2),
+												v25.label,
+												false,
+												"center"
+											)
+										end
+
+										if v25.isNew then
+											local v153 = arg1:_GetTextBounds(v25.label)
+											local v154 =
+												v140
+													+ Vector2.new(
+														v141.x / 2 + v153.x / 2 + 8,
+														(v141.y - 14) / 2
+													)
+											arg1:_Draw(
+												"rect",
+												tbl[1].accent,
+												9,
+												v38,
+												v154,
+												Vector2.new(28, 14),
+												true,
+												4
+											)
+											arg1:_Draw(
+												"text",
+												tbl[1].surface0,
+												10,
+												v38,
+												v154 + Vector2.new(14, 7),
+												"NEW",
+												false,
+												"center",
+												9
+											)
+										end
+									elseif type_ == "textbox" then
+										local vector220 = Vector2.new(
+											v162 - tbl[3] * 2,
+											arg1._font_size + tbl[3]
+										)
+										local v155 =
+											not flag4 and arg1:_IsMouseWithinBounds(vector21, vector220)
+										local v156 = arg1._input_ctx == _id
+										local v157 =
+											math.floor(os.clock() * 2) % 2 == 0 and "|" or " "
+										local v160 = value and value ~= ""
+										local v163 = _id .. "_ph"
+										arg1._toggle_anim[v163] = func1(
+											arg1._toggle_anim[v163] or (v160 and 1 or 0),
+											v160 and 1 or 0,
+											(tbl[8](0.18))
+										)
+										local v164 = arg1._toggle_anim[v163]
+										local v165 =
+											v156 and (value or "") .. v157
+												or (v160 and value or v25.label) .. " "
+										local v166 =
+											(v156 or v155) and tbl[1].text
+												or func3(tbl[1].subtext, tbl[1].text, v164)
+
+										if arg1:_GetTextBounds(v165).x > vector220.x then
+											local num3 = 1
+											local v167 = #v165
+
+											while num3 < v167 do
+												local v168 = math.floor((num3 + v167) / 2)
+												if
+													arg1:_GetTextBounds(v165:sub(v168)).x <= vector220.x - 4
+												then
+													v167 = v168
+												else
+													num3 = v168 + 1
+												end
+											end
+
+											v165 = v165:sub(num3)
+										end
+
+										local v169 = arg1:_GetTextBounds(v165)
+
+										if arg1:_IsKeyPressed("m1") then
+											if v37 and v155 then
+												arg1._input_ctx = _id
+												arg1:_RemoveCtxMenu()
+												v3 = false
+												flag2 = true
+											elseif v156 then
+												arg1._input_ctx = nil
+												arg1:_RemoveDropdown()
+												v156 = false
+											end
+										end
+
+										if v5 and v36 and v155 then
+											local v170 = arg1:_GetMousePos()
+											arg1:_SpawnCtxMenu(v170.x, v170.y, _id, v25)
+											v5 = false
+										end
+
+										if v156 then
+											local tbl1 = {
+												space = " ",
+												dash = "-",
+												colon = ":",
+												period = ".",
+												comma = ",",
+												slash = "/",
+												semicolon = ";",
+												quote = "'",
+												leftbracket = "[",
+												rightbracket = "]",
+												backslash = "\\",
+												equals = "=",
+												minus = "-"
+											}
+
+											local tbl2 = {
+												["1"] = "!",
+												["2"] = "@",
+												["3"] = "#",
+												["4"] = "$",
+												["5"] = "%",
+												["6"] = "^",
+												["7"] = "&",
+												["8"] = "*",
+												["9"] = "(",
+												["0"] = ")",
+												["-"] = "_",
+												["="] = "+",
+												["["] = "{",
+												["]"] = "}",
+												[";"] = ":",
+												["'"] = '"',
+												[","] = "<",
+												["."] = ">",
+												["/"] = "?",
+												["\\"] = "|"
+											}
+
+											local v171 = value or ""
+											local v172 =
+												arg1:_IsKeyHeld("lshift") or arg1:_IsKeyHeld("rshift")
+											local k1Ref
+
+											for k1 in pairs(arg1._inputs or {}) do
+												if arg1:_IsKeyHeld(k1) then
+													k1Ref = k1
+													break
+												end
+											end
+
+											if k1Ref then
+												if not arg1._key_repeat[k1Ref] then
+													arg1._key_repeat[k1Ref] = os.clock() + 0.4
+												elseif os.clock() > arg1._key_repeat[k1Ref] then
+													arg1._key_repeat[k1Ref] = os.clock() + 0.05
+													local v173 = tbl1[k1Ref] or k1Ref
+
+													if v173 == "backspace" then
+														v171 = v171:sub(1, -2)
+													elseif #v173 == 1 then
+														if v172 and tbl2[v173] then
+															v173 = tbl2[v173]
+														elseif v172 then
+															v173 = v173:upper()
+														end
+														if #v171 < 200 then
+															v171 = v171 .. v173
+														end
+													end
+
+													if v25.callback then
+														v25.callback(v171)
+													end
+
+													v25.value = v171
+												end
+											else
+												arg1._key_repeat = {}
+											end
+
+											for k2 in pairs(arg1._inputs or {}) do
+												if arg1:_IsKeyPressed(k2) then
+													local v174 = tbl1[k2] or k2
+
+													if v174 == "enter" or v174 == "esc" then
+														arg1._input_ctx = nil
+														break
+													end
+
+													if v174 == "backspace" then
+														v171 = v171:sub(1, -2)
+													elseif #v174 == 1 then
+														if v172 and tbl2[v174] then
+															v174 = tbl2[v174]
+														elseif v172 then
+															v174 = v174:upper()
+														end
+														if #v171 < 200 then
+															v171 = v171 .. v174
+														end
+													end
+
+													if v25.callback then
+														v25.callback(v171)
+													end
+
+													v25.value = v171
+												end
+											end
+										end
+
+										arg1:_Draw(
+											"rect",
+											v156 and tbl[1].surface0 or tbl[1].surface1,
+											7,
+											v38,
+											vector21,
+											vector220,
+											true,
+											6
+										)
+										arg1:_Draw(
+											"rect",
+											v156 and tbl[1].accent
+												or (v155 and tbl[1].border0 or tbl[1].border1),
+											8,
+											v38,
+											vector21,
+											vector220,
+											false,
+											6
+										)
+										arg1:_Draw(
+											"text",
+											v166,
+											8,
+											v38,
+											vector21 + Vector2.new(6, v169.y / 2 - 2),
+											v165,
+											false
+										)
+									end
+								else
+									arg1._item_vis[_id] = false
+								end
+
+								v24 = v24 + v28
+							end
+						end
+
+						local y11 = tsz.y
+						v2 = v2 + h + (y11 / 2 + tbl[3]) * anim
+					end
+				end
+			end
+
+			local v175 = v126.x / 2
+			local v176 = tbl[3] * 1.5
+			local x6 = vector230.x
+			local v177 = v175 - v176
+			func(tbl6, false, x6 + tbl[3])
+			func(tbl7, true, vector230.x + tbl[3] * 2 + v177)
+		end
+	end
+
+	local _ctx_menu = arg1._ctx_menu
+
+	if _ctx_menu then
+		_ctx_menu._anim = func1(_ctx_menu._anim or 0, 1, (tbl[8](0.3)))
+		local _anim = _ctx_menu._anim
+		local items = _ctx_menu.items
+		local v178 = arg1._font_size + 8
+		local v179 = #items * v178
+		local x7 = _ctx_menu.x
+		local v180 = v179 + 4
+		local y7 = _ctx_menu.y
+
+		if x7 + 80 > x + w - 4 then
+			x7 = x + w - 80 - 4
+		end
+
+		local v181 = y + v46
+
+		if y7 + v180 > v181 - 4 then
+			y7 = y7 - v180
+		end
+
+		local vector248 = Vector2.new(x7, y7)
+		local vector249 = Vector2.new(80, v180)
+		local shadow4 = tbl[1].shadow
+		local v182 = 0.18 * _anim
+		local v183 = v182 * v79
+		local vector250 = Vector2.new(2, 4)
+		arg1:_Draw("rect", shadow4, 700, v183, vector248 + vector250, vector249, true, 6)
+		arg1:_Draw("rect", tbl[1].surface0, 701, _anim * v79, vector248, vector249, true, 6)
+		arg1:_Draw("rect", tbl[1].border1, 702, _anim * v79, vector248, vector249, false, 6)
+
+		for i3, item in ipairs(_ctx_menu.items) do
+			local v184 = y7 + 2 + (i3 - 1) * v178
+			local vector251 = Vector2.new(x7 + 2, v184)
+			local vector252 = Vector2.new(76, v178)
+			local v185 = arg1:_IsMouseWithinBounds(vector251, vector252)
+
+			if v185 then
+				local v186 = func3(tbl[1].surface0, tbl[1].accent, 0.18)
+				arg1:_Draw("rect", v186, 703, _anim * v79, vector251, vector252, true, 4)
+			end
+
+			local v187 = v185 and tbl[1].text or tbl[1].subtext
+			local v188 = _anim * v79
+			local vector253 = Vector2.new(38, v178 / 2)
+			arg1:_Draw(
+				"text",
+				v187,
+				704,
+				v188,
+				vector251 + vector253,
+				item.label,
+				false,
+				"center",
+				12
+			)
+
+			if v185 and v3 and not flag2 then
+				local sItem = _ctx_menu.sItem
+
+				if item.action == "copy" then
+					local v189 = sItem.value or ""
+
+					if type(setclipboard) == "function" then
+						pcall(setclipboard, v189)
+					end
+
+					arg1:Notification("Copied to clipboard", 2)
+				elseif item.action == "clear" then
+					sItem.value = ""
+
+					if sItem.callback then
+						sItem.callback("")
+					end
+
+					arg1:_MarkDirty()
+					arg1:Notification("Cleared", 2)
+				end
+
+				arg1:_RemoveCtxMenu()
+				v3 = false
+				flag2 = true
+			end
+		end
+
+		if (v3 or v5) and not flag2 and not arg1:_IsMouseWithinBounds(vector248, vector249) then
+			arg1:_RemoveCtxMenu()
+			v3 = false
+			flag2 = true
+			v5 = false
+		end
+	end
+
+	local _active_dropdown2 = arg1._active_dropdown
+
+	if _active_dropdown2 then
+		_active_dropdown2._anim = func1(_active_dropdown2._anim or 0, 1, (tbl[8](0.15)))
+		local _anim1 = _active_dropdown2._anim
+		local position5 = _active_dropdown2.position
+		local choices = _active_dropdown2.choices
+		local v190 = arg1._font_size + 9
+		local v191 = #(choices or {})
+		local v192 = math.min(v191, 6)
+		local width = _active_dropdown2.width
+		local v193 = v192 * v190 + tbl[3]
+		local v194 = arg1:_GetScreenSize()
+		local flag5 = false
+
+		if position5.y + v193 > v194.y - 10 then
+			flag5 = true
+			local x8 = position5.x
+			local new9 = Vector2.new
+			local _srcH1 = _active_dropdown2._srcH
+			position5 = new9(x8, position5.y - v193 - (_srcH1 or 0))
+		end
+
+		local v195 = v191 > 6
+		local v196 = v193 - tbl[3]
+		local v197 = math.max(0, v191 * v190 - v196)
+
+		if _scroll_delta ~= 0 then
+			local v198 = table.pack(Vector2.new(width, v193))
+			if arg1:_IsMouseWithinBounds(position5, table.unpack(v198, 1, v198.n)) then
+				_active_dropdown2._scroll_target = func2(
+					(_active_dropdown2._scroll_target or 0) - _scroll_delta,
+					0,
+					v197
+				)
+			end
+		end
+
+		_active_dropdown2._scroll_target = _active_dropdown2._scroll_target or 0
+		_active_dropdown2._scroll_v = func1(
+			_active_dropdown2._scroll_v or 0,
+			_active_dropdown2._scroll_target,
+			(tbl[8](0.25))
+		)
+
+		if math.abs(_active_dropdown2._scroll_v - _active_dropdown2._scroll_target) < 0.5 then
+			_active_dropdown2._scroll_v = _active_dropdown2._scroll_target
+		end
+
+		local v199 = math.max(1, v193 * func4(_anim1))
+		local v200 = flag5
+
+		if flag5 then
+			local v201 = v193 - v199
+			v200 = Vector2.new(position5.x, position5.y + v201)
+		end
+
+		v200 = v200 or position5
+		local shadow5 = tbl[1].shadow
+		local v202 = 0.15 * v79
+		local v203 = v200 + Vector2.new(2, 4)
+		local vector254 = Vector2.new(width, v199)
+		arg1:_Draw("rect", shadow5, 500, v202, v203, vector254, true, 6)
+		local surface04 = tbl[1].surface0
+		local vector255 = Vector2.new(width, v199)
+		arg1:_Draw("rect", surface04, 501, v79, v200, vector255, true, 6)
+		local border14 = tbl[1].border1
+		local vector256 = Vector2.new(width, v199)
+		arg1:_Draw("rect", border14, 502, v79, v200, vector256, false, 6)
+		local y8 = v200.y
+		local v204 = v200.y + v199
+
+		if v195 and v199 > 20 then
+			local v205 = width - 3 - 2
+			local v206 = v199 - tbl[3]
+			local v207 = math.max(10, v206 * (v206 / (v206 + v197)))
+
+			if v4 then
+				local v208 = v200 + Vector2.new(v205 - 5, tbl[3] / 2)
+				local v209 = table.pack(Vector2.new(13, v206))
+
+				if
+					arg1:_IsMouseWithinBounds(v208, table.unpack(v209, 1, v209.n))
+						and v3
+						and not flag2
+				then
+					arg1._dd_drag = "dd_sb"
+					flag2 = true
+					v3 = false
+				end
+
+				if arg1._dd_drag == "dd_sb" then
+					local v210 = arg1:_GetMousePos().y - (v200.y + tbl[3] / 2) - v207 / 2
+					local v211 = v206 - v207
+					_active_dropdown2._scroll_target = func2(v210 / math.max(1, v211), 0, 1) * v197
+				end
+			else
+				arg1._dd_drag = nil
+			end
+
+			local _scroll_v = _active_dropdown2._scroll_v
+			local v212 = v206 - v207
+			local v213 = tbl[3] / 2
+			local v214 = v212 * (_scroll_v / v197)
+			local border02 = tbl[1].border0
+			local v215 = v213 + v214
+			local v216 = 0.35 * v79
+			local vector257 = Vector2.new(v205, tbl[3] / 2)
+			local v217 = v200 + vector257
+			local vector258 = Vector2.new(3, v206)
+			arg1:_Draw("rect", border02, 503, v216, v217, vector258, true, 1.5)
+			local subtext2 = tbl[1].subtext
+			local v218 = 0.7 * v79
+			local v219 = v200 + Vector2.new(v205, v215)
+			local vector259 = Vector2.new(3, v207)
+			arg1:_Draw("rect", subtext2, 504, v218, v219, vector259, true, 1.5)
+		end
+
+		for i4, v220 in ipairs(_active_dropdown2.choices or {}) do
+			local v221 =
+				(flag5 and position5.y or position5.y) + tbl[3] / 2 + (i4 - 1) * v190
+					- _active_dropdown2._scroll_v
+			local v222 = v221 + v190
+
+			if v222 > y8 and v221 < v204 then
+				local num3 = 1
+				local v223 = v204 - v222
+				local v224 = v221 - y8
+
+				if v224 < 3 then
+					num3 = math.max(0, v224 / 3)
+				end
+
+				if v223 < 3 then
+					num3 = math.min(num3, math.max(0, v223 / 3))
+				end
+
+				if v224 < 0 or v223 < 0 then
+					num3 = 0
+				end
+
+				if num3 > 0.05 then
+					local v225 =
+						type(_active_dropdown2.value) == "table"
+							and table.find(_active_dropdown2.value, v220)
+							or false
+					local vector260 = Vector2.new(position5.x + 6, v221)
+					local vector261 = Vector2.new(width - (v195 and 16 or 12), v190)
+					local v226 = num3 > 0.4 and arg1:_IsMouseWithinBounds(vector260, vector261)
+
+					if v226 then
+						local v227 = math.max(vector260.y + 1, y8 + 2)
+						local v228 = math.min(vector260.y + vector261.y - 1, v204 - 2) - v227
+						local v229 = math.max(0, v228)
+
+						if v229 > 0 then
+							local v230 = func3(tbl[1].surface0, tbl[1].accent, 0.18)
+							local v231 = v79 * num3
+							local vector262 = Vector2.new(vector260.x + 2, v227)
+							local vector263 = Vector2.new(vector261.x - 4, v229)
+							arg1:_Draw("rect", v230, 505, v231, vector262, vector263, true, 4)
+						end
+					end
+
+					local v232 = v226 and tbl[1].text or (v225 and tbl[1].text or tbl[1].subtext)
+					local v233 = v79 * num3
+					local v234 = vector260 + Vector2.new(2, 4)
+					arg1:_Draw("text", v232, 506, v233, v234, v220, false, nil, 12)
+
+					if v226 and v3 and not flag2 then
+						if _active_dropdown2.multi then
+							if type(_active_dropdown2.value) ~= "table" then
+								_active_dropdown2.value = {}
+							end
+
+							local v235 = table.find(_active_dropdown2.value, v220)
+
+							if v235 then
+								table.remove(_active_dropdown2.value, v235)
+							else
+								table.insert(_active_dropdown2.value, v220)
+							end
+						else
+							_active_dropdown2.value = {v220}
+						end
+
+						if _active_dropdown2.callback then
+							_active_dropdown2.callback(_active_dropdown2.value)
+						end
+
+						if not _active_dropdown2.multi then
+							arg1:_RemoveDropdown()
+						end
+
+						v3 = false
+						flag2 = true
+						break
+					end
+				end
+			end
+		end
+
+		if v3 and not flag2 then
+			local v236 = table.pack(Vector2.new(width, v199))
+			if not arg1:_IsMouseWithinBounds(v200, table.unpack(v236, 1, v236.n)) then
+				arg1:_RemoveDropdown()
+				arg1._active_dropdown_owner = nil
+				v3 = false
+				flag2 = true
+			end
+		end
+	end
+
+	local _active_colorpicker2 = arg1._active_colorpicker
+
+	if _active_colorpicker2 then
+		_active_colorpicker2._anim = func1(
+			_active_colorpicker2._anim or 0,
+			_active_colorpicker2._closing and 0 or 1,
+			(tbl[8](0.15))
+		)
+		local _anim2 = _active_colorpicker2._anim
+
+		if _active_colorpicker2._closing and _anim2 < 0.05 then
+			arg1._active_colorpicker = nil
+		else
+			local vector264 = Vector2.new(240, 215)
+			local position6 = _active_colorpicker2.position
+			local v237 = arg1:_GetTextBounds(_active_colorpicker2.label)
+			local vector265 = Vector2.new(vector264.x, math.max(1, vector264.y * func4(_anim2)))
+			local shadow6 = tbl[1].shadow
+			local v238 = 0.18 * v79
+			local vector266 = Vector2.new(2, 4)
+			local v239 = position6 + vector266
+			arg1._Draw(arg1, "rect", shadow6, 600, v238, v239, vector265, true, tbl[2])
+			arg1:_Draw("rect", tbl[1].surface0, 601, v79, position6, vector265, true, tbl[2])
+			arg1:_Draw("rect", tbl[1].border1, 602, v79, position6, vector265, false, tbl[2])
+
+			if vector265.y > 20 then
+				local text5 = tbl[1].text
+				local vector267 = Vector2.new(tbl[3], tbl[3] + 1)
+				local v240 = position6 + vector267
+				arg1._Draw(arg1, "text", text5, 603, v79, v240, _active_colorpicker2.label, false)
+			end
+
+			if vector265.y > 40 then
+				local color3 = Color3.fromHSV(
+					_active_colorpicker2._h,
+					_active_colorpicker2._s,
+					_active_colorpicker2._v
+				)
+				local vector268 = Vector2.new(24, 14)
+				local vector269 = Vector2.new(vector264.x - tbl[3] - vector268.x, tbl[3] + 1)
+				local border15 = tbl[1].border1
+				local v241 = position6 + vector269
+				arg1:_Draw("rect", border15, 603, v79, v241, vector268, true, 4)
+				local v242 = v241 + Vector2.new(1, 1)
+				local vector270 = Vector2.new(2, 2)
+				arg1:_Draw("rect", color3, 604, v79, v242, vector268 - vector270, true, 4)
+				local vector271 = Vector2.new(tbl[3], tbl[3] + v237.y + 10)
+				local v243 = position6 + vector271
+				local vector272 = Vector2.new(vector264.x - tbl[3] * 2, 100)
+				arg1:_Draw("rect", tbl[1].border1, 602, v79, v243, vector272, false)
+				arg1:_Draw("rect", tbl[1].body, 604, v79, v243, vector272, true)
+				local v244 = arg1:_GetMousePos()
+				local vector273 = Vector2.new(vector272.x, 14)
+				local v245 = v243 + Vector2.new(0, vector272.y + 10)
+				local v246 = v245 + Vector2.new(0, vector273.y + 10)
+				local vector274 = Vector2.new(vector272.x, 24)
+
+				if arg1:_IsMouseWithinBounds(v245, vector273) and v4 then
+					local v247 = func2((v244.x - v245.x) / math.max(1, vector273.x), 0, 1)
+					if v247 ~= _active_colorpicker2._h then
+						_active_colorpicker2._h = v247
+						if _active_colorpicker2.callback then
+							_active_colorpicker2.callback(
+								Color3.fromHSV(
+									_active_colorpicker2._h,
+									_active_colorpicker2._s,
+									_active_colorpicker2._v
+								)
+							)
+						end
+					end
+				end
+
+				if arg1:_IsMouseWithinBounds(v243, vector272) and v4 then
+					local v248 = func2((v244.x - v243.x) / math.max(1, vector272.x), 0, 1)
+					local v249 = func2((v244.y - v243.y) / math.max(1, vector272.y), 0, 1)
+					local _s = _active_colorpicker2._s
+					local v250 = 1 - v249
+
+					if v248 ~= _s or v250 ~= _active_colorpicker2._v then
+						_active_colorpicker2._s = v248
+						_active_colorpicker2._v = v250
+
+						if _active_colorpicker2.callback then
+							_active_colorpicker2.callback(
+								Color3.fromHSV(
+									_active_colorpicker2._h,
+									_active_colorpicker2._s,
+									_active_colorpicker2._v
+								)
+							)
+						end
+					end
+				end
+
+				local color6 = Color3.fromHSV(_active_colorpicker2._h, 1, 1)
+				local color7 = Color3.fromRGB(255, 255, 255)
+				arg1:_Draw("gradient", nil, 605, v79, "horizontal", v243, vector272, color7, color6)
+				arg1:_Draw(
+					"gradient",
+					nil,
+					606,
+					v79,
+					"vertical",
+					v243,
+					vector272,
+					{R = 0, G = 0, B = 0, A = 0},
+					{R = 0, G = 0, B = 0, A = 1}
+				)
+				local color8 = Color3.fromRGB(255, 0, 0)
+				local color9 = Color3.fromRGB(255, 255, 0)
+				local color10 = Color3.fromRGB(0, 255, 0)
+				local color11 = Color3.fromRGB(0, 255, 255)
+				local color12 = Color3.fromRGB(0, 0, 255)
+				local color13 = Color3.fromRGB(255, 0, 255)
+				local v251 = table.pack(Color3.fromRGB(255, 0, 0))
+				arg1:_Draw(
+					"gradient",
+					nil,
+					606,
+					v79,
+					"horizontal",
+					v245,
+					vector273,
+					color8,
+					color9,
+					color10,
+					color11,
+					color12,
+					color13,
+					table.unpack(v251, 1, v251.n)
+				)
+				local x9 = vector272.x
+				local _s1 = _active_colorpicker2._s
+				local new10 = Vector2.new
+				local _v = _active_colorpicker2._v
+				local v252 = v243 + new10(x9 * _s1, vector272.y * (1 - _v))
+				local color14 = Color3.fromRGB(255, 255, 255)
+				arg1:_Draw("circle", color14, 607, 0.9 * v79, v252, 5, false)
+				local x10 = v245.x
+				local v253 = vector273.x * _active_colorpicker2._h
+				local v254 = x10 + v253
+				local color15 = Color3.fromRGB(255, 255, 255)
+				local new11 = Vector2.new
+				local y9 = v245.y
+				local v255 = new11(v254 - 2, y9 - 2)
+				local vector275 = Vector2.new(4, vector273.y + 4)
+				arg1:_Draw("rect", color15, 607, v79, v255, vector275, true)
+				local color16 = Color3.fromRGB(50, 50, 50)
+				local vector276 = Vector2.new(v254 - 2, v245.y - 2)
+				local vector277 = Vector2.new(4, vector273.y + 4)
+				arg1:_Draw("rect", color16, 608, v79, vector276, vector277, false)
+				local v256 = string.format(
+					"%02X%02X%02X",
+					math.floor(color3.R * 255),
+					math.floor(color3.G * 255),
+					math.floor(color3.B * 255)
+				)
+				local surface11 = tbl[1].surface1
+				local v257 = "#" .. v256
+				arg1:_Draw("rect", surface11, 605, v79, v246, vector274, true, 4)
+				arg1:_Draw("rect", tbl[1].border1, 606, v79, v246, vector274, false, 4)
+				local text6 = tbl[1].text
+				local x11 = vector274.x
+				local new12 = Vector2.new
+				local y10 = vector274.y
+				local v258 = new12(x11 / 2, y10 / 2)
+				arg1:_Draw("text", text6, 607, v79, v246 + v258, v257, false, "center", 12)
+			end
+
+			if v3 and not flag2 and not arg1:_IsMouseWithinBounds(position6, vector265) then
+				arg1:_RemoveColorpicker()
+				flag2 = true
+				v3 = false
+			end
+		end
+	end
+
+	if arg1._frame_tooltip then
+		if not arg1._tooltip or arg1._tooltip.key ~= arg1._frame_tooltip.key then
+			arg1._tooltip = {
+				key = arg1._frame_tooltip.key,
+				text = arg1._frame_tooltip.text,
+				timer = 0,
+				_anim = 0
+			}
+		end
+	else
+		arg1._tooltip = nil
+	end
+
+	if arg1._tooltip then
+		local _tooltip = arg1._tooltip
+		_tooltip.timer = (_tooltip.timer or 0) + tbl[6]
+		_tooltip._anim = func1(_tooltip._anim or 0, _tooltip.timer > 0.5 and 1 or 0, (tbl[8](0.28)))
+		local v259 = func4(_tooltip._anim)
+
+		if v259 > 0.01 then
+			local v260 = arg1:_GetTextBounds(_tooltip.text)
+			local x12 = v260.x
+			local v261 = tbl[3] * 1.5
+			local y11 = v260.y
+			local v262 = x12 + v261
+			local v263 = tbl[3] * 0.8
+			local v264 = y11 + v263
+			local v265 = arg1._GetMousePos(arg1)
+			local vector278 = Vector2.new(v265.x + 10, v265.y - v264 - 6)
+			local shadow7 = tbl[1].shadow
+			local v266 = 0.18 * v54
+			local v267 = v266 * v259
+			local v268 = vector278 + Vector2.new(1, 2)
+			local vector279 = Vector2.new(v262, v264)
+			arg1:_Draw("rect", shadow7, 999, v267, v268, vector279, true, 6)
+			local v269 = v54 * v259
+			local surface05 = tbl[1].surface0
+			local vector280 = Vector2.new(v262, v264)
+			arg1:_Draw("rect", surface05, 1000, v269, vector278, vector280, true, 6)
+			local border16 = tbl[1].border1
+			local v270 = v54 * v259
+			local vector281 = Vector2.new(v262, v264)
+			arg1:_Draw("rect", border16, 1001, v270, vector278, vector281, false, 6)
+			local v271 = v54 * v259
+			local text7 = tbl[1].text
+			local new13 = Vector2.new
+			local _font_size = arg1._font_size
+			local v272 = new13(tbl[3] * 0.75, (v264 - _font_size) / 2 + 1)
+			arg1:_Draw("text", text7, 1001, v271, vector278 + v272, _tooltip.text, false)
+		end
+	end
+
+	if v8 and not flag2 and not arg1._menu_drag then
+		local vector282 = Vector2.new(x, y)
+		local v273 = table.pack(Vector2.new(w, v13))
+
+		if arg1:_IsMouseWithinBounds(vector282, table.unpack(v273, 1, v273.n)) then
+			local v274 = arg1._cached_mouse or Vector2.new()
+			arg1._menu_drag = Vector2.new(v274.x - arg1.x, v274.y - arg1.y)
+		end
+	end
+
+	for k6, v275 in pairs(arg1._pool or {}) do
+		for i5 = (arg1._pIdx[k6] or 0) + 1, #v275 do
+			local v276 = v275[i5]
+			local v277 = arg1._pool_state[k6][i5]
+
+			if v277 and v277.Visible ~= false then
+				pcall(function()
+					v276.Visible = false
+				end)
+				v277.Visible = false
+			end
+		end
+	end
+end
+
+-- Set up the UI only; Main intentionally contains no application controls.
+local old = rawget(_G, "macosUI")
+if type(old) == "table" then
+    if old._macosConnection then pcall(function() old._macosConnection:Disconnect() end) end
+    for _, connection in ipairs(old._uiConnections or {}) do pcall(function() connection:Disconnect() end) end
+    if old._FullWipe then pcall(function() old:_FullWipe() end)
+    elseif old.Destroy then pcall(function() old:Destroy() end)
+    elseif old.Unload then pcall(function() old:Unload() end) end
+end
+uiLibrary:SetMenuTitle("macosUI")
+uiLibrary:SetMenuSize(Vector2.new(480, 310))
+uiLibrary:CenterMenu()
+uiLibrary.Main = uiLibrary:Tab("Main")
+uiLibrary:CreateSettingsTab("Settings")
+_G.macosUI = uiLibrary
+local heartbeat
+local nextUiStep = 0
+heartbeat = game:GetService("RunService").Heartbeat:Connect(function()
+    if uiLibrary._unloaded then
+        heartbeat:Disconnect()
+        for _, connection in ipairs(uiLibrary._uiConnections) do pcall(function() connection:Disconnect() end) end
+        if rawget(_G, "macosUI") == uiLibrary then _G.macosUI = nil end
+        return
+    end
+    local now = os.clock()
+    if now >= nextUiStep then
+        nextUiStep = now + 1 / 30
+        uiLibrary:Step()
+    end
+end)
+uiLibrary._macosConnection = heartbeat
+return uiLibrary
